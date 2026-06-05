@@ -1,0 +1,95 @@
+{
+  "hotels": {
+    "description": "List of hotel locations to scrape from Traveloka. Format: 'PLACE_ID.City%20Name'",
+    "places": [
+      "10010498.Nha%20Trang",
+      "10009888.Thành%20phố%20Vũng%20Tàu",
+      "10010083.Đà%20Nẵng",
+      "10009843.Hà%20Nội",
+      "10009794.Thành%20phố%20Hồ%20Chí%20Minh",
+      "10010329.Phú%20Quốc",
+      "10010086.Hội%20An",
+      "10010195.Huế",
+      "10010387.Sapa",
+      "10009959.Hạ%20Long",
+      "10010254.Đà%20Lạt",
+      "10010312.Phan%20Thiết",
+      "10010472.Quy%20Nhơn",
+      "10010395.Cần%20Thơ",
+      "10010235.Ninh%20Bình"
+    ]
+  },
+  "planes": {
+    "description": "List of flight routes to scrape. Format: 'FROM.TO' (airport codes)",
+    "routes": [
+      "SGN.DAD",
+      "SGN.CXR",
+      "HAN.DAD",
+      "HAN.SGN",
+      "HAN.HUI",
+      "SGN.PQC",
+      "HAN.PQC",
+      "DAD.HUI",
+      "SGN.DLI",
+      "HAN.VDO",
+      "SGN.VCA",
+      "HAN.VDH",
+      "DAD.VCL",
+      "SGN.TBB",
+      "HAN.UIH"
+    ],
+    "note": "SGN = Ho Chi Minh City, DAD = Da Nang, CXR = Cam Ranh (Nha Trang), HAN = Hanoi, HUI = Hue, PQC = Phu Quoc, DLI = Da Lat, VDO = Van Don (Ha Long), VCA = Can Tho, VDH = Dong Hoi (Phong Nha), VCL = Chu Lai (Quang Nam), TBB = Tuy Hoa, UIH = Quy Nhon"
+  },
+  "coaches": {
+    "description": "List of coach routes to scrape from Traveloka. Format: URL-encoded route parameters",
+    "routes": [
+      "a10010498&stt=CITY_GEO.CITY_GEO&stn=Ho%20Chi%20Minh%20City.Nha%20Trang&",
+      "a10010083&stt=CITY_GEO.CITY_GEO&stn=Ho%20Chi%20Minh%20City.%C4%90%C3%A0%20N%E1%BA%B5ng&",
+      "a10009889&stt=CITY_GEO.CITY_GEO&stn=Ho%20Chi%20Minh%20City.Ba%20Ria%20-%20Vung%20Tau&",
+      "a10009959&stt=CITY_GEO.CITY_GEO&stn=H%C3%A0%20N%E1%BB%99i.H%E1%BA%A1%20Long&",
+      "a10010387&stt=CITY_GEO.CITY_GEO&stn=H%C3%A0%20N%E1%BB%99i.Sapa&",
+      "a10010254&stt=CITY_GEO.CITY_GEO&stn=Ho%20Chi%20Minh%20City.%C4%90%C3%A0%20L%E1%BA%A1t&",
+      "a10010329&stt=CITY_GEO.CITY_GEO&stn=Ho%20Chi%20Minh%20City.Ph%C3%BA%20Qu%E1%BB%91c&",
+      "a10010086&stt=CITY_GEO.CITY_GEO&stn=%C4%90%C3%A0%20N%E1%BA%B5ng.H%E1%BB%99i%20An&",
+      "a10010195&stt=CITY_GEO.CITY_GEO&stn=%C4%90%C3%A0%20N%E1%BA%B5ng.Hu%E1%BA%BF&",
+      "a10010235&stt=CITY_GEO.CITY_GEO&stn=H%C3%A0%20N%E1%BB%99i.Ninh%20B%C3%ACnh&",
+      "a10010312&stt=CITY_GEO.CITY_GEO&stn=Ho%20Chi%20Minh%20City.Phan%20Thi%E1%BA%BFt&"
+    ],
+    "note": "Routes connecting major tourism destinations"
+  },
+  "shopeefood": {
+    "description": "List of ShopeeFood cities to scrape. Format: city name for URL construction",
+    "cities": [
+      "ho-chi-minh",
+      "ha-noi",
+      "da-nang",
+      "nha-trang",
+      "hai-phong",
+      "can-tho",
+      "vung-tau",
+      "da-lat",
+      "hue",
+      "binh-duong",
+      "dong-nai"
+    ],
+    "base_url_template": "https://shopeefood.vn/{city}/food/deals",
+    "note": "Extended to cover major cities across Vietnam"
+  },
+  "tourism_regions": {
+    "description": "Grouping of tourism regions in Vietnam",
+    "regions": {
+      "northern": ["Hà Nội", "Hạ Long", "Sapa", "Ninh Bình"],
+      "central": ["Đà Nẵng", "Hội An", "Huế", "Quy Nhơn"],
+      "southern": ["TP Hồ Chí Minh", "Vũng Tàu", "Phan Thiết", "Cần Thơ"],
+      "highlands": ["Đà Lạt"],
+      "islands": ["Phú Quốc", "Nha Trang"]
+    }
+  },
+  "seasonal_considerations": {
+    "description": "Best times to visit different regions",
+    "north": "September-November, March-April",
+    "central": "February-May",
+    "south": "November-April",
+    "highlands": "November-March"
+  }
+}

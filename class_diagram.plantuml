@@ -1,0 +1,82 @@
+@startuml TravelBot
+
+' ===============================
+' travel_vectorstore package
+' ===============================
+package "travel_vectorstore" {
+    class TravelVectorStorage {
+        - vectorstore
+        - embedding
+        - text_splitter
+        - cache_path
+        + search(query: str, k: int = 50, location: Optional[str] = None): List[Document]
+    }
+}
+
+' ===============================
+' tools package
+' ===============================
+package "tools" {
+    class search_travel_info <<tool>> {
+        + search_travel_info(query: str, location: Optional[str] = None): str
+    }
+    class get_weather <<tool>> {
+        + get_weather(location: str): str
+    }
+    class web_search <<tool>> {
+        + web_search(query: str): List[Dict[str, str]]
+    }
+}
+
+' ===============================
+' agents package
+' ===============================
+package "agents" {
+    abstract class BaseAgent
+    class Orchestrator {
+        - rewriter: Rewriter
+        - planner: Planner
+        - responder: Responder
+        - synthesizer: Synthesizer
+        - chat_history: List[BaseMessage]
+        + run(question: str)
+    }
+    class Planner {
+        + run(query: str, chat_history: List[BaseMessage])
+    }
+    class Rewriter {
+        + run(input: str, chat_history: list, max_iterations: int = 5): str
+    }
+    class Responder {
+        + run(query: dict, depends_on_results=None)
+    }
+    class Synthesizer {
+        + run(question: str, completed_tasks: list[dict]): str
+    }
+}
+
+' ===============================
+' Relationships
+' ===============================
+
+'Orchestrator sử dụng các agent thành phần
+Orchestrator --> Responder
+Orchestrator --> Planner
+Orchestrator --> Rewriter
+Orchestrator --> Synthesizer
+
+'Responder sử dụng các tool
+Responder ..down..> search_travel_info : uses
+Responder ..down..> get_weather : uses
+Responder ..down..> web_search : uses
+
+'search_travel_info sử dụng TravelVectorStorage
+search_travel_info ..> TravelVectorStorage : uses
+
+' Các agent kế thừa BaseAgent
+Planner --|> BaseAgent
+Responder --|> BaseAgent
+Rewriter --|> BaseAgent
+Synthesizer --|> BaseAgent
+
+@enduml

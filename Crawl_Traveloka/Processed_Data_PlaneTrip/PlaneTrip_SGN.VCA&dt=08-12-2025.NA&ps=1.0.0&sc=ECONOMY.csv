@@ -1,0 +1,11 @@
+brand,price,start_time,start_day,end_day,end_time,trip_time,take_place,destination
+VietJet Air,1791855,23:00,,,14:30,15h 30m,SGN,VCA
+VietJet Air,1791855,22:40,,,14:30,15h 50m,SGN,VCA
+VietJet Air,1817551,07:20,,,14:30,7h 10m,SGN,VCA
+"Vietravel Airlines, VietJet Air",1883881,09:00,,,14:30,5h 30m,SGN,VCA
+"Bamboo Airways, VietJet Air",1908646,06:15,,,14:30,8h 15m,SGN,VCA
+"Vietravel Airlines, VietJet Air",2000745,19:10,,,14:30,19h 20m,SGN,VCA
+VietJet Air,2035395,21:25,,,14:30,17h 5m,SGN,VCA
+VietJet Air,2035395,20:40,,,14:30,17h 50m,SGN,VCA
+"Vietnam Airlines, VietJet Air",2040016,06:05,,,14:30,8h 25m,SGN,VCA
+VietJet Air,2046508,09:25,,,14:30,5h 5m,SGN,VCA

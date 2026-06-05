@@ -1,0 +1,11 @@
+brand,price,start_time,start_day,end_day,end_time,trip_time,take_place,destination
+Vietnam Airlines,1071615,06:00,,,07:15,1h 15m,HAN,HUI
+VietJet Air,678150,10:10,,,11:20,1h 10m,HAN,HUI
+VietJet Air,678150,19:15,,,20:30,1h 15m,HAN,HUI
+Vietnam Airlines,1144250,20:05,,,21:15,1h 10m,HAN,HUI
+Vietnam Airlines,1144250,14:40,,,15:55,1h 15m,HAN,HUI
+Vietnam Airlines,1144250,15:00,,,16:15,1h 15m,HAN,HUI
+Vietnam Airlines,1401955,16:30,,,17:45,1h 15m,HAN,HUI
+VietJet Air,2248560,22:50,,,14:05,15h 15m,HAN,HUI
+VietJet Air,2248560,22:50,,,18:00,19h 10m,HAN,HUI
+VietJet Air,2468076,22:10,,,12:25,14h 15m,HAN,HUI

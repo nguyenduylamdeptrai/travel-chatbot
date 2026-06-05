@@ -1,0 +1,11 @@
+brand,price,start_time,start_day,end_day,end_time,trip_time,take_place,destination
+Bamboo Airways,2230836,07:05,,,17:45,10h 40m,HAN,UIH
+VietJet Air,1352824,15:25,,,17:00,1h 35m,HAN,UIH
+Vietnam Airlines,2540279,11:20,,,12:55,1h 35m,HAN,UIH
+Vietnam Airlines,3327007,11:20,,,12:55,1h 35m,HAN,UIH
+VietJet Air,2022840,22:50,,,07:00,8h 10m,HAN,UIH
+"Vietravel Airlines, VietJet Air",2075140,21:00,,,07:00,10h 0m,HAN,UIH
+"Vietravel Airlines, VietJet Air",2194930,20:30,,,07:00,10h 30m,HAN,UIH
+"Vietravel Airlines, VietJet Air",2194930,16:10,,,07:00,14h 50m,HAN,UIH
+"Vietravel Airlines, VietJet Air",2194930,10:50,,,07:00,20h 10m,HAN,UIH
+"Vietravel Airlines, VietJet Air",2194930,10:05,,,07:00,20h 55m,HAN,UIH

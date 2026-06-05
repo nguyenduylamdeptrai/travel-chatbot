@@ -1,0 +1,11 @@
+brand,price,number_of_seat,start_time,start_day,end_day,end_time,trip_time,take_place,destination,id
+Minh Duc - Hue,632500,- Limousine 32,05:30,09-12-2025-12-2025,09-12-2025-12-2025,01:30,01:30,Bến Xe An Sương,Bến xe phía Nam Huế,1
+Minh Duc - Hue,632500,- Limousine 32,06:30,09-12-2025-12-2025,09-12-2025-12-2025,01:30,01:30,Bến xe Miền Đông Mới,Bến xe phía Nam Huế,2
+Phi Long - Mau Huong,632500,- Giường nằm,07:00,09-12-2025-12-2025,09-12-2025-12-2025,03:35,03:35,Bến xe Ngã Tư Ga,Bến xe phía Nam Huế,3
+Phi Long - Mau Huong,632500,- Giường nằm,07:30,09-12-2025-12-2025,09-12-2025-12-2025,03:35,03:35,Bến xe Miền Đông Mới,Bến xe phía Nam Huế,4
+Hanh Cafe,736000,Giường nằm 41,07:45,09-12-2025-12-2025,09-12-2025-12-2025,11:00,11:00,Văn phòng Quận 1,Thành phố Huế,5
+Hoang Long - Do,920000,- Giường nằm,08:30,09-12-2025-12-2025,09-12-2025-12-2025,07:30,07:30,Bến Xe Miền Đông (Cổng số 4),Huế (Dọc Quốc Lộ 1A),6
+Hoang Long - Do,920000,- Giường nằm,09:00,09-12-2025-12-2025,09-12-2025-12-2025,08:00,08:00,Bến Xe Miền Đông (Cổng số 4),Huế (Dọc Quốc Lộ 1A),7
+Hoang Long - Do,920000,- Giường nằm,11:30,09-12-2025-12-2025,09-12-2025-12-2025,10:30,10:30,Bến Xe Miền Đông (Cổng số 4),Huế (Dọc Quốc Lộ 1A),8
+Hoang Long - Do,920000,- Giường nằm,13:00,09-12-2025-12-2025,09-12-2025-12-2025,12:00,12:00,Bến Xe Miền Đông (Cổng số 4),Huế (Dọc Quốc Lộ 1A),9
+Hoang Long - Do,920000,- Giường nằm,16:00,09-12-2025-12-2025,09-12-2025-12-2025,15:00,15:00,Bến Xe Miền Đông (Cổng số 4),Huế (Dọc Quốc Lộ 1A),10

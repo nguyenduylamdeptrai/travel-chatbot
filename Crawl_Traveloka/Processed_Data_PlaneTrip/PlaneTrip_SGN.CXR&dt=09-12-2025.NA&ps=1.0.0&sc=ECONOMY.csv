@@ -1,0 +1,11 @@
+brand,price,start_time,start_day,end_day,end_time,trip_time,take_place,destination
+VietJet Air,678302,22:05,,,23:05,1h 0m,SGN,CXR
+VietJet Air,678302,17:00,,,18:00,1h 0m,SGN,CXR
+VietJet Air,678302,20:30,,,21:30,1h 0m,SGN,CXR
+VietJet Air,678302,20:50,,,21:50,1h 0m,SGN,CXR
+VietJet Air,678302,16:25,,,17:35,1h 10m,SGN,CXR
+Vietnam Airlines,902465,19:50,,,20:55,1h 5m,SGN,CXR
+Vietnam Airlines,922365,19:00,,,20:10,1h 10m,SGN,CXR
+Vietnam Airlines,1112532,08:55,,,09:55,1h 0m,SGN,CXR
+Vietnam Airlines,1191015,07:00,,,08:05,1h 5m,SGN,CXR
+Vietnam Airlines,1767120,13:10,,,14:15,1h 5m,SGN,CXR

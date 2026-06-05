@@ -1,0 +1,11 @@
+brand,price,number_of_seat,start_time,start_day,end_day,end_time,trip_time,take_place,destination,id
+Phuong Thu,345000,Limousine 34 Phòng,17:00,10-12-2025-12-2025,10-12-2025-12-2025,05:30,05:30,Bến Xe Miền Đông - Quầy vé 13,Bến xe Kon Tum,1
+Nhat Tan,402500,Limousine 34 phòng,17:00,10-12-2025-12-2025,10-12-2025-12-2025,06:30,06:30,Bến xe Miền Đông - Quầy 28,VP Kon Tum,2
+Nhat Tan,402500,Limousine 34 phòng,17:00,10-12-2025-12-2025,10-12-2025-12-2025,07:55,07:55,Bến xe Miền Đông - Quầy 28,Bến xe Ngọc Hồi,3
+Tay Nguyen,402500,- Limousine 34,17:15,10-12-2025-12-2025,10-12-2025-12-2025,05:35,05:35,Bến Xe Miền Đông - Quầy vé 22,Bến xe Kon Tum,4
+Minh Quoc,460000,- Limousine 34,17:30,10-12-2025-12-2025,10-12-2025-12-2025,05:00,05:00,Bến xe An Sương,Văn Phòng Kon Tum,5
+Minh Quoc,460000,- Limousine 34,17:30,10-12-2025-12-2025,10-12-2025-12-2025,06:00,06:00,Bến xe An Sương,Bến xe Đắk Hà,6
+Minh Quoc,460000,- Limousine 34,17:30,10-12-2025-12-2025,10-12-2025-12-2025,07:00,07:00,Bến xe An Sương,Bến xe Ngọc Hồi,7
+Minh Quoc,460000,- Limousine 34,18:00,10-12-2025-12-2025,10-12-2025-12-2025,05:30,05:30,Bến xe Miền Đông - Quầy vé số 79,Văn Phòng Kon Tum,8
+Minh Quoc,460000,- Limousine 34,18:00,10-12-2025-12-2025,10-12-2025-12-2025,06:30,06:30,Bến xe Miền Đông - Quầy vé số 79,Bến xe Đắk Hà,9
+Minh Quoc,460000,- Limousine 34,18:00,10-12-2025-12-2025,10-12-2025-12-2025,07:30,07:30,Bến xe Miền Đông - Quầy vé số 79,Bến xe Ngọc Hồi,10

@@ -1,0 +1,11 @@
+brand,price,start_time,start_day,end_day,end_time,trip_time,take_place,destination
+VietJet Air,1549602,22:40,,,11:20,12h 40m,DAD,HUI
+VietJet Air,1549602,22:40,,,20:30,21h 50m,DAD,HUI
+VietJet Air,1584100,05:45,,,11:20,5h 35m,DAD,HUI
+"Bamboo Airways, VietJet Air",1585302,18:20,,,11:20,17h 0m,DAD,HUI
+"Vietnam Airlines, VietJet Air",1651462,22:55,,,11:20,12h 25m,DAD,HUI
+"Vietnam Airlines, VietJet Air",1651462,22:55,,,20:30,21h 35m,DAD,HUI
+"Vietnam Airlines, VietJet Air",1731759,06:35,,,11:20,4h 45m,DAD,HUI
+"Vietravel Airlines, Vietnam Airlines",1787495,08:30,,,21:25,12h 55m,DAD,HUI
+"Vietnam Airlines, VietJet Air",1793747,20:20,,,11:20,15h 0m,DAD,HUI
+"Vietnam Airlines, VietJet Air",1793747,20:20,,,20:30,24h 10m,DAD,HUI

@@ -1,0 +1,11 @@
+brand,price,start_time,start_day,end_day,end_time,trip_time,take_place,destination
+VietJet Air,2045443,05:25,,,18:45,13h 20m,DAD,VCL
+VietJet Air,2159959,07:50,,,18:45,10h 55m,DAD,VCL
+"Vietravel Airlines, Vietnam Airlines",2193575,21:15,,,17:10,19h 55m,DAD,VCL
+"VietJet Air, Vietnam Airlines",2222285,23:15,,,17:10,17h 55m,DAD,VCL
+"Vietravel Airlines, VietJet Air",2227439,21:15,,,08:25,11h 10m,DAD,VCL
+"Vietravel Airlines, VietJet Air",2227439,21:15,,,15:25,18h 10m,DAD,VCL
+"VietJet Air, Vietnam Airlines",2251262,22:30,,,17:10,18h 40m,DAD,VCL
+VietJet Air,2256149,23:15,,,15:25,16h 10m,DAD,VCL
+VietJet Air,2302970,12:05,,,18:45,6h 40m,DAD,VCL
+"Vietravel Airlines, Vietnam Airlines",2340835,21:15,,,13:10,15h 55m,DAD,VCL

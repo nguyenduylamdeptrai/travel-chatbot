@@ -1,0 +1,11 @@
+brand,price,start_time,start_day,end_day,end_time,trip_time,take_place,destination
+Vietravel Airlines,755370,06:25,,,07:45,1h 20m,HAN,DAD
+Bamboo Airways,809980,16:15,,,17:40,1h 25m,HAN,DAD
+Bamboo Airways,896978,11:50,,,13:15,1h 25m,HAN,DAD
+VietJet Air,900409,05:55,,,07:10,1h 15m,HAN,DAD
+VietJet Air,900409,09:30,,,10:50,1h 20m,HAN,DAD
+VietJet Air,900409,09:55,,,11:15,1h 20m,HAN,DAD
+VietJet Air,900409,10:30,,,11:50,1h 20m,HAN,DAD
+VietJet Air,900409,16:25,,,17:45,1h 20m,HAN,DAD
+VietJet Air,900409,19:05,,,20:25,1h 20m,HAN,DAD
+VietJet Air,900409,19:45,,,21:05,1h 20m,HAN,DAD

@@ -1,0 +1,11 @@
+brand,price,start_time,start_day,end_day,end_time,trip_time,take_place,destination
+Bamboo Airways,815432,12:05,,,13:00,55m,SGN,DLI
+VietJet Air,678302,18:35,,,19:30,55m,SGN,DLI
+Vietnam Airlines,908435,07:00,,,07:50,50m,SGN,DLI
+Vietnam Airlines,1020870,18:20,,,19:20,1h 0m,SGN,DLI
+Vietnam Airlines,1035811,06:15,,,07:05,50m,SGN,DLI
+Vietnam Airlines,1035811,17:25,,,18:15,50m,SGN,DLI
+Vietnam Airlines,1486342,10:25,,,11:10,45m,SGN,DLI
+VietJet Air,2917091,23:20,,,07:40,8h 20m,SGN,DLI
+VietJet Air,3086828,23:00,,,18:05,19h 5m,SGN,DLI
+VietJet Air,3086828,22:40,,,18:05,19h 25m,SGN,DLI

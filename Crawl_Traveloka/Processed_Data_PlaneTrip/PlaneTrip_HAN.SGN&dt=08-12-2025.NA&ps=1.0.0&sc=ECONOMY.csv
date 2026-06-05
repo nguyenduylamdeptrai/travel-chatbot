@@ -1,0 +1,11 @@
+brand,price,start_time,start_day,end_day,end_time,trip_time,take_place,destination
+Vietnam Airlines,1621850,22:00,,,00:10,2h 10m,HAN,SGN
+Bamboo Airways,1447964,20:30,,,22:45,2h 15m,HAN,SGN
+Bamboo Airways,1447964,22:35,,,00:50,2h 15m,HAN,SGN
+Vietravel Airlines,1499850,16:10,,,18:25,2h 15m,HAN,SGN
+Vietravel Airlines,1499850,20:30,,,22:45,2h 15m,HAN,SGN
+Vietravel Airlines,1499850,21:00,,,23:20,2h 20m,HAN,SGN
+VietJet Air,1556280,11:40,,,13:50,2h 10m,HAN,SGN
+VietJet Air,1561136,17:10,,,19:20,2h 10m,HAN,SGN
+VietJet Air,1561136,17:20,,,19:30,2h 10m,HAN,SGN
+VietJet Air,1561136,17:45,,,19:55,2h 10m,HAN,SGN

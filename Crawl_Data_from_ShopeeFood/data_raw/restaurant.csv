@@ -1,0 +1,1144 @@
+RestaurantID,Restaurant Name,Address,Time,Price
+1,,,,
+2,Hủ Tiếu Nam Vang Nhân Quán - Cách Mạng Tháng 8,"122D Cách Mạng Tháng 8, P. 7, Quận 3, TP. HCM",00:00 - 23:59,50.000 - 72.000
+3,Cơm Gà Chị Tư - Hoàng Diệu,"L6 Hoàng Diệu, P. 6, Quận 4, TP. HCM",09:00 - 21:15,15.000 - 45.000
+4,Mì Quăn - Quăng Tận Nơi,"221 Tôn Thất Hiệp, Quận 11, TP. HCM",08:00 - 13:50 | 15:00 - 21:45,35.000 - 99.000
+5,,,,
+6,"Bánh Mì Thịt Nướng Dòn Dòn, Bánh Mì Chả Cá & Sữa Bắp - 5 Lưu Đình Lễ","5 Lưu Đình Lễ, P. An Khánh, Thành Phố Thủ Đức, TP. HCM",06:00 - 19:00,30.000 - 40.000
+7,,,,
+8,Bún Đậu Akiso - Làng Tăng Phú,"72 Làng Tăng Phú, P. Tăng Nhơn Phú A, Thành Phố Thủ Đức, TP. HCM",10:00 - 13:55 | 16:00 - 22:00,22.000 - 32.000
+9,Phở Trang - Đường 17,"203 Đường 17, P. Tân Quy, Quận 7, TP. HCM",00:00 - 23:59,39.000 - 55.000
+10,Trà Sữa Cueicha - Crescent Mall,"Tầng 5, Tầng 5 Crescent Mall, 101 Tôn Dật Tiên, P. Tân Phú, Quận 7, TP. HCM",09:30 - 21:30,28.000 - 56.000
+11,Cô Loan - Cháo Sườn - Tân Hải,"73/5A Tân Hải, P. 13, Tân Bình, TP. HCM",06:15 - 23:00,5.000 - 30.000
+12,Rau Má Mix - Nước Ép & Trà Trái Cây - 298 Tô Ngọc Vân,"298 Tô Ngọc Vân, P. Tam Phú, Thành Phố Thủ Đức, TP. HCM",08:00 - 22:15,0 - 0
+13,"Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Nguyễn Văn Hưởng","33 Nguyễn Văn Hưởng, P. Thảo Điền, Thành Phố Thủ Đức, TP. HCM",10:00 - 20:00,0 - 0
+14,,,,
+15,Bếp Chay Đăng - Đường 49,"Số 6 Đường 49, Bình Tân, TP. HCM",07:00 - 19:30,0 - 0
+16,Trà Bí Đao & Trà Sữa Taiwan - Ms.Bí - Phan Đình Phùng,"241C Phan Đình Phùng, P. 15, Phú Nhuận, TP. HCM",08:05 - 23:50,0 - 0
+17,,,,
+18,Đậu Má Mix - Đậu Nành & Rau Má - Đinh Đức Thiện,"152 Đinh Đức Thiện, X. Bình Chánh, Bình Chánh, TP. HCM",07:30 - 22:00,12.000 - 28.000
+19,"Al Fresco's - Pizza, Mỳ Ý, Sườn, Steak Bò Bít Tết - Nguyễn Thị Nghĩa","16 Nguyễn Thị Nghĩa, P. Bến Thành, Quận 1, TP. HCM",10:00 - 21:45,80.000 - 695.000
+20,Bún Ốc Sườn Cô Sáu - Quận 1,"454 Hai Bà Trưng, P. Tân Định , Quận 1, TP. HCM",00:00 - 23:59,30.000 - 35.000
+21,,,,
+22,,,,
+23,,,,
+24,Tâm Ký II - Cơm Chiên & Nui Xào - Lương Định Của,"Hẻm 281A Lương Định Của, P. An Phú, Thành Phố Thủ Đức, TP. HCM",08:00 - 21:00,42.000 - 55.000
+25,,,,
+26,,,,
+27,,,,
+28,,,,
+29,,,,
+30,The Coffee Bean & Tea Leaf - Nguyễn Huệ,"101 Nguyễn Huệ, P. Bến Nghé, Quận 1, TP. HCM",00:00 - 23:59,45.000 - 150.000
+31,Chân Gà Su Heo - Chân Gà Sốt Thái,"156 Đường Phạm Đăng Giảng, P. Bình Hưng Hòa, Bình Tân, TP. HCM",08:00 - 23:59,0 - 0
+32,Be Shine - Cà Phê Dừa & Trà Sữa - Nguyễn Gia Trí,"213/27 Nguyễn Gia Trí, P. 25, Bình Thạnh, TP. HCM",08:00 - 22:00,0 - 0
+33,GÀ QUAY & VỊT QUAY THIÊN PHÚC,"367 Nguyễn Văn Tăng, P. Long Thạnh Mỹ, Thành Phố Thủ Đức, TP. HCM",09:00 - 22:00,0 - 0
+34,Gon Coffee - Cà Phê Cốt Dừa - Nguyễn Văn Luông Quận 6,"240/35G Nguyễn Văn Luông, Quận 6, TP. HCM",06:00 - 21:30,0 - 0
+138,,,,
+139,TUTIMI - Milo Dầm - Trà Sữa & Coffee - Nguyễn Tri Phương,"372 Đ. Nguyễn Tri Phương, P. 4, Quận 10, TP. HCM",06:30 - 22:45,20.000 - 30.000
+140,Cơm Thố Trường An - Đường Số 1,"167 Đường Số 1, P. Bình Trị Đông B, Bình Tân, TP. HCM",09:10 - 14:20 | 16:30 - 20:45,0 - 0
+141,Trà Sữa HongKong Baley - Quang Trung,"658 Quang Trung, P. 11, Gò Vấp, TP. HCM",10:00 - 22:40,10.000 - 60.000
+142,TEA JOY - Trà & Trà Sữa - Điện Biên Phủ,"250 Đường Điện Biên Phủ, P. Võ Thị Sáu, Quận 3, TP. HCM",07:30 - 22:00,0 - 0
+143,Hải - Bún Bò & Hủ Tiếu,"7 Đường 27, P. 6, Gò Vấp, TP. HCM",06:30 - 13:30 | 16:30 - 21:00,10.000 - 40.000
+144,,,,
+145,Kem Bơ - Trái Cây Tô 251 - Đoàn Văn Bơ,"516 Đoàn Văn Bơ, P. 14, Quận 4, TP. HCM",08:00 - 23:59,10.000 - 25.000
+146,Ăn Vặt Dương Gia & Cá Viên Chiên - Dương Quảng Hàm,"174/12 Dương Quảng Hàm, Gò Vấp, TP. HCM",00:00 - 05:00 | 08:00 - 23:59,0 - 0
+147,Bánh Xèo Cô Nguyệt 77 - Nguyễn Văn Quá,"188 Nguyễn Văn Quá, P. Đông Hưng Thuận, Quận 12, TP. HCM",16:00 - 22:00,7.000 - 70.000
+148,Bánh Tráng Tóp Mỡ Phô Mai Trứng Lòng Đào Gu Tui - Lê Đức Thọ,"1331/15/49Bis Lê Đức Thọ, P. 14, Gò Vấp, TP. HCM",10:30 - 23:00,10.000 - 50.000
+149,,,,
+150,Nem Nướng Nha Trang Thiện Tâm - Bà Hạt,"006 Lô B, Chung Cư Ấn Quang, Đường Bà Hạt, P. 9, Quận 10, TP. HCM",00:00 - 23:59,0 - 0
+151,,,,
+152,,,,
+153,"Bếp Mẹ Thỏ - Bún, Miến & Phở Trộn Online","135 Ngõ Văn Chương, P. Văn Chương, Đống Đa, Hà Nội",00:00 - 23:59,25.000 - 180.000
+154,,,,15.000 - 40.000
+155,,,,
+156,Bún Đậu Mẹt Minh Thư - Văn Minh,"1 Ngõ Văn Minh, P. Mai Dịch, Cầu Giấy, Hà Nội",09:00 - 23:00,28.000 - 120.000
+157,,,,
+158,Tiệm Cơm ChisnBa - Cơm Rang Zòn - Ngọc Hồi,"Số 8A, Nơ 2 Khu Đô Thị Pháp Vân, Ngõ 15 Đường Ngọc Hồi, P. Hoàng Liệt, Hoàng Mai, Hà Nội",09:00 - 14:00 | 16:00 - 22:00,0 - 0
+159,The Pizza Company - The Manor,"A004 - Tòa The Manor, Mễ Trì, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",09:45 - 21:30,22.000 - 669.000
+160,Sữa Chua Trân Châu Hạ Long Healthy - Nguyễn Thị Định,"36 Nguyễn Thị Định, P. Nhân Chính, Thanh Xuân, Hà Nội",00:00 - 04:00 | 08:00 - 23:59,20.000 - 40.000
+161,,"21 Văn Chương 2, P. Văn Chương, Đống Đa, Hà Nội",05:45 - 20:00,15.000 - 90.000
+162,,,,
+163,,"18 Trung Kính, P. Trung Hoà, Cầu Giấy, Hà Nội",09:00 - 21:45,0 - 0
+164,"Phở Lý Quốc Sư - Phở Bò, Cơm Văn Phòng & Lẩu - Trung Kính","7 Ng. 39 Trung Kính, P. Trung Hòa, Cầu Giấy, Hà Nội",00:00 - 23:59,0 - 0
+165,,,,
+166,Anh Béo - Bánh Bao & Sủi Cảo - Vũ Phạm Hàm,"120 Vũ Phạm Hàm, P. Yên Hòa, Cầu Giấy, Hà Nội",09:10 - 13:50 | 16:35 - 21:55,0 - 0
+167,Anh Béo - Bánh Bao & Sủi Cảo,"131 Nguyễn Ngọc Vũ, P. Trung Hoà, Cầu Giấy, Hà Nội",09:10 - 13:45 | 16:35 - 21:45,10.000 - 40.000
+168,Trà Sữa Tocotoco - Nguyễn Tuân,"125 Nguyễn Tuân, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",07:45 - 22:50,0 - 0
+169,Nhào Nhẹ 75 - Pizza Sáng Tạo - Trần Điền,"Số 8 Trần Điền, P. Khương Mai, Thanh Xuân, Hà Nội",09:00 - 22:00,0 - 0
+170,"Mẹ Jo - Nước Ép, Sinh Tố & Bún Phở Trộn","259 Yên Hoà, P. Yên Hoà, Cầu Giấy, Hà Nội",06:00 - 21:00,35.000 - 50.000
+171,Trà sữa LeeTee - Kem Trứng & Trà Hoa Quả - Láng Hạ,"1B Ngõ 87 Láng Hạ, P. Thành Công, Ba Đình, Hà Nội",09:00 - 21:00,20.000 - 60.000
+172,Bánh Gà Thần Thánh - 158 Hồng Mai,"11 Ngõ 158 Hồng Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",09:00 - 21:00,4.000 - 70.000
+173,Matcha Vibe - Tiệm Trà Nhật Bản - 11A Lương Thế Vinh,"Số 11A Lương Thế Vinh, P. Văn Quán, Thanh Xuân, Hà Nội",07:00 - 22:30,0 - 0
+174,,,,
+175,,,,
+176,Bún Cá Chấm Gốc Đa - Phố Nguyễn Thái Học,"30 Phố Nguyễn Thái Học, P. Điện Biên, Hoàn Kiếm, Hà Nội",09:00 - 14:00,30.000 - 50.000
+177,Laika Café - 52 Lĩnh Nam,"52 Lĩnh Nam, P. Mai Động, Hoàng Mai, Hà Nội",08:00 - 22:00,0 - 0
+178,Phê La - Trà & Cà Phê Đặc Sản - Đại La,"24 Ngõ 128C Đại La, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",07:30 - 22:30,38.000 - 55.000
+179,,,,
+180,,,,
+181,Trà sữa Tiger Hill - Yên Phụ,"77 Yên Phụ, P. Yên Phụ, Tây Hồ, Hà Nội",09:00 - 23:59,15.000 - 30.000
+182,,,,
+183,Trà Sữa Wait Tea - Cầu Diễn,"66 Ngõ 134 Cầu Diễn, Bắc Từ Liêm, Hà Nội",07:36 - 23:59,0 - 0
+184,TOUS les JOURS - Hoàng Đạo Thúy,"24T1B KĐT Trung Hoà - Nhân Chính, Hoàng Đạo Thúy, P. Trung Hòa, Cầu Giấy, Hà Nội",07:30 - 21:30,15.000 - 550.000
+185,Bún Đậu Hương Mơ - 164 Trương Định,"164 Trương Định, P. Trương Định, Hai Bà Trưng, Hà Nội",09:30 - 15:00 | 17:00 - 21:00,30.000 - 50.000
+186,,,,
+187,YiTea - Đệ Nhất Trà Sữa Nướng - Trần Phú,"64 Trần Phú, P. Mộ Lao, Hà Đông, Hà Nội",08:20 - 22:55,30.000 - 50.000
+188,,,,
+189,Thái Hạnh - Huy Mai - Thiên Đường Ăn Vặt,"112 D4 Ngõ 4C Đặng Văn Ngữ, P. Trung Tự, Đống Đa, Hà Nội",00:00 - 02:50 | 08:30 - 23:59,10.000 - 50.000
+190,Capital Tea - Trà Ô Long Nguyên Vị - Vũ Tông Phan,"325 Vũ Tông Phan, P. Khương Đình, Thanh Xuân, Hà Nội",00:00 - 01:45 | 09:00 - 23:59,0 - 0
+191,PiPo Quán - Bánh Tráng Cuốn Thịt Heo,"7 Nguyễn Bá Khoản, P. Trung Hoà, Cầu Giấy, Hà Nội",10:30 - 14:00 | 16:00 - 21:00,45.000 - 90.000
+192,Gà Rán KFC - Bạch Mai,"373 Bạch Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",09:30 - 21:00,50.000 - 110.000
+193,Xuân Food - Mì Trộn Indomie - Minh Khai,"Số 15 Ngõ 243 Minh Khai, Hai Bà Trưng, Hà Nội",00:00 - 23:59,0 - 0
+194,Ốc 29 - Ốc Hải Sản & Đồ Ăn Vặt - 38 Yên Lãng,"38 Yên Lãng, P Láng Hạ, Đống Đa, Hà Nội",10:30 - 13:35 | 16:00 - 21:45,50.000 - 250.000
+195,,,,
+196,Cơm Gà Hải Thuỷ - Bún Đậu Mắm Tôm & Bún Chả,"12B Ngõ 1 Trần Văn Chuông, P. Yết Kiêu, Hà Đông, Hà Nội",00:00 - 23:59,20.000 - 50.000
+197,Nem Chua Rán Top 1 - Thái Hà,"Số 7 Ngách 165/30 Thái Hà, P. Láng Hạ, Đống Đa, Hà Nội",,0 - 0
+198,,,,
+199,Hương Vị Việt - Gà Rán & Gà Ủ Muối - Bùi Xương Trạch,"117 Bùi Xương Trạch, P. Khương Đình, Thanh Xuân, Hà Nội",00:00 - 23:59,25.000 - 50.000
+200,Giang Cún - Bún Thái Hải Sản - Định Công Thượng,"Số 28 Ngách 15 Ngõ 112 Định Công Thượng, P. Định Công, Hoàng Mai, Hà Nội",09:00 - 14:00 | 17:00 - 22:00,20.000 - 50.000
+201,Gà Tươi Mạnh Hoạch - 68 Đỗ Đức Dục,"68 Đỗ Đức Dục, P. Mễ Trì, Nam Từ Liêm, Hà Nội",09:00 - 14:00 | 16:00 - 22:00,35.000 - 280.000
+202,,,,
+203,Vịt 29 - Vịt Quay Bắc Kinh - Nguyễn Thượng Hiền,"29 Nguyễn Thượng Hiền, P. Nguyễn Du, Hai Bà Trưng, Hà Nội",09:10 - 21:00,100.000 - 220.000
+204,Trà Bí Đao Cát Tiên - Đường Láng,"954 Đường Láng, P. Yên Hoà, Cầu Giấy, Hà Nội",08:10 - 23:00,15.000 - 30.000
+205,Bánh Trung Thu Cổ Truyền Bảo Khánh,"46 Ngõ 46 Xuân Đỉnh, P. Xuân Đỉnh, Bắc Từ Liêm, Hà Nội",07:00 - 22:00,0 - 0
+206,,,,
+207,Bánh Tráng Cuốn & Súp Cua - Tachi,"85 Ngõ 1 Khâm Thiên, P. Trung Phụng, Đống Đa, Hà Nội",06:30 - 23:15,0 - 0
+208,Tiến Vịt - Vịt Nướng - Minh Khai,"134D, Ngõ 254 Minh Khai, P. Mai Động, Hoàng Mai, Hà Nội",11:29 - 12:14 | 17:00 - 20:15,40.000 - 195.000
+209,Kem Bơ Đà Lạt - Lê Văn Hưu,"12A Lê Văn Hưu, P. Phan Chu Trinh, Hai Bà Trưng, Hà Nội",09:00 - 22:00,30.000 - 35.000
+210,"Cà Phê N Cộng - Nước Ép, Kem Xôi & Kem Bơ","Số 1 Ngõ 20 Nguyễn Chánh, P. Trung Hoà, Cầu Giấy, Hà Nội",08:00 - 23:00,0 - 0
+211,,,,
+212,Đức Food - Mì Trộn Indomie - Ngõ 95 Chùa Bộc,"110 Ngõ 95 Chùa Bộc, Đống Đa, Hà Nội",00:00 - 01:25 | 07:00 - 23:59,20.000 - 50.000
+213,Mì Trộn Indomie 158 - Thành Công,"105 - C8 Thành Công, P. Thành Công, Ba Đình, Hà Nội",00:00 - 03:50 | 07:10 - 23:59,20.000 - 30.000
+214,,,,
+215,GAO Chicken - Tiệm Gà Rán Hàn Quốc - Nguyễn Lân,"250 Nguyễn Lân, P. Phương Liệt, Thanh Xuân, Hà Nội",00:00 - 03:00 | 10:00 - 23:59,0 - 0
+216,Linh Tâm - Cơm Rang & Phở Cuốn,"32 Dương Khuê, P. Mai Dịch, Cầu Giấy, Hà Nội",07:00 - 23:59,30.000 - 50.000
+217,,"Số 299 Quan Nhân, P. Nhân Chính, Thanh Xuân, Hà Nội",10:00 - 23:59,25.000 - 100.000
+218,Thanh Hằng Quán - Phở & Cháo Các Loại,"3H2, Ngõ 130 Xuân Thủy, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",00:00 - 01:00 | 08:00 - 23:59,30.000 - 50.000
+219,Gà Rán Thái Lan & Lạp Xưởng Nướng Đá - Yên Hòa,"204 Yên Hòa, Cầu Giấy, Hà Nội",00:00 - 00:50 | 06:30 - 23:59,5.000 - 25.000
+220,,,,
+221,Trà Sữa Mixue - Big C Thăng Long,"Gian Hàng 2K81 Trung Tâm Thương Mại Big C Thăng Long, Đường Trần Duy Hưng, P. Trung Hoà, Cầu Giấy, Hà Nội",08:30 - 22:00,15.000 - 35.000
+222,Gà Rán & Burger McDonald's - Thái Hà,"Tầng Trệt Tòa Nhà Việt Tower, 1 Thái Hà, P. Trung Liệt, Đống Đa, Hà Nội",10:00 - 23:50,50.000 - 200.000
+223,Burger King - Giảng Võ,"C4 Giảng Võ, P. Giảng Võ, Ba Đình, Hà Nội",09:00 - 21:50,20.000 - 100.000
+224,,,,
+225,,,09:30 - 21:40,20.000 - 80.000
+226,Gà Sốt Cay Hàn Quốc - Nguyễn Trãi,"63 Ngõ 335 Nguyễn Trãi, P. Thanh Xuân Nam, Thanh Xuân, Hà Nội",09:00 - 23:59,40.000 - 60.000
+227,Lâm Cơm Rang & Phở Bò - 20 Ngõ 87 Yên Xá,"Số 20 Ngõ 87 Yên Xá, X. Tân Triều, Thanh Trì, Hà Nội",10:00 - 23:59,0 - 0
+228,Bảo Ngọc Food - Mì Trộn Indomie & Đồ Ăn Vặt - Chùa Quỳnh,"310 Chùa Quỳnh, P. Bạch Mai, Hai Bà Trưng, Hà Nội",00:00 - 23:59,0 - 0
+229,Pepperonis Pizza - Lê Duẩn,"216 Lê Duẩn, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",10:30 - 20:15,30.000 - 220.000
+230,Bánh Gối & Bánh Tôm - Anh Bối Mỏ Ướt - Phố Vọng,"1 Ngách 3 Ngõ 333 Phố Vọng, P. Trương Định, Hai Bà Trưng, Hà Nội",11:00 - 19:00,0 - 0
+231,Miss Homemade - Miss Bistro - Ăn Uống Hàn Quốc Hiện Đại - Ngoc Khánh,"152 Ngọc Khánh, P. Giảng Võ, Ba Đình, Hà Nội",09:30 - 13:30 | 16:30 - 21:30,20.000 - 100.000
+232,Quý Gà Ủ Muối Hoa Tiêu & Gà Hấp - Tô Hiến Thành,"95 Tô Hiến Thành, P. Phúc La, Hà Đông, Hà Nội",00:00 - 23:59,0 - 0
+233,,"21A Ngõ 25 Bằng Liệt, Phố Bằng Liệt, P. Hoàng Liệt, Hoàng Mai, Hà Nội",09:00 - 14:00 | 15:30 - 20:55,30.000 - 200.000
+234,,,,
+235,,,,
+236,Mì Cay Seoul Korean - Phùng Khoang,"55 Ngõ 30 Phùng Khoang, P. Văn Quán, Hà Đông, Hà Nội",00:00 - 03:00 | 09:00 - 23:59,0 - 0
+237,LATU Quán - Nem Nướng Nha Trang - Yên Phúc,"21d7 Khu Giãn Dân Yên Phúc, P. Phúc La, Hà Đông, Hà Nội",09:00 - 22:00,20.000 - 95.000
+238,A-Phú - Mì Trộn Indomie & Ăn Vặt - Hồng Mai,"7 Ngõ 158 Hồng Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",08:00 - 22:59,10.000 - 30.000
+239,TRÀ SỮA BINGXUE - QUAN NHÂN,"Số 32 Quan Nhân, P. Trung Hòa, Cầu Giấy, Hà Nội",08:00 - 22:30,0 - 0
+240,"AHA Chicken - Gà Rán, Cơm Gà & Đồ Ăn Vặt - Bùi Xương Trạch","43 Ngõ 125 Bùi Xương Trạch, P. Khương Đình, Thanh Xuân, Hà Nội",00:00 - 23:59,0 - 0
+241,,,,
+242,Bami Sot - Bánh Mì Đen - Lò Đúc,"138 Lò Đúc, Hai Bà Trưng, Hà Nội",06:10 - 21:45,12.000 - 50.000
+243,,,,
+244,Tiệm Gà Ủ Muối - Gà Luộc & Gà Ủ Muối - Nguyễn Viết Xuân,"23 Nguyễn Viết Xuân, Làng La Khê, Hà Đông, Hà Nội",00:00 - 23:59,0 - 0
+245,,,,
+246,,,,
+247,,,,
+248,,,,
+249,,,,
+250,,,,
+251,,,,
+252,Cơm Tấm Minh Nhật - Tây Sơn,"412 Phố Tây Sơn, P. Thịnh Quang, Đống Đa, Hà Nội",10:00 - 21:00,0 - 0
+253,Trà Sữa Tocotoco - Lò Đúc,"149A Lò Đúc, P. Đống Mác, Hai Bà Trưng, Hà Nội",09:00 - 22:50,30.000 - 60.000
+254,"Hana Fruit Tea - Trà Trái Cây Tươi, Phở Cuốn & Đồ Ăn Vặt - Cổ Linh","Số 48 Ngõ 103 Cổ Linh, P. Thạch Bàn, Long Biên, Hà Nội",09:00 - 23:59,0 - 0
+255,"Tiệm Bé Cá – Trà Sữa, Mỳ Ý & Sandwich","108 C12 Ngõ 28 Lương Định Của, P. Kim Liên, Đống Đa, Hà Nội",08:00 - 22:00,0 - 0
+256,Cơm Gà Tươi Cô Yến & Cơm Văn Phòng - KĐT Geleximco,"Số 02 Lô A43 Khu Đô Thị Geleximco, Lê Trọng Tấn, X. An Khánh, Hoài Đức, Hà Nội",08:30 - 20:30,0 - 0
+257,Yên Đàm - Trà Sữa Thảo Dược,"186 Xuân Đỉnh, P. Xuân Đỉnh, Tây Hồ, Hà Nội",08:55 - 22:00,0 - 0
+258,,,,
+259,Tiệm Gà Rán Tê Tê Hàn Quốc,"Số 1C2 Ngõ 261 Phố Trần Quốc Hoàn, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",00:00 - 05:00 | 17:00 - 23:59,0 - 0
+260,,,,
+261,Tanka Quán - Chân Gà Nướng & Cánh Gà Nướng - Nguyên Hồng,"3G4B Ngõ 12 Nguyên Hồng, P. Thành Công, Ba Đình, Hà Nội",00:00 - 03:00 | 15:33 - 15:59 | 16:00 - 23:59,10.000 - 50.000
+262,Cơm Trộn Hàn - Mỳ Trộn Kim Chi & Cơm Gà Siêu Ngon - Hồ Tùng Mậu,"9 Ngõ 39 Hồ Tùng Mậu, P. Mai Dịch, Cầu Giấy, Hà Nội",00:00 - 23:59,0 - 0
+263,Trà Sữa Tocotoco - 271 Nguyễn Khang,"271 Nguyễn Khang, P. Yên Hòa, Cầu Giấy, Hà Nội",09:00 - 22:30,35.000 - 70.000
+264,"Tiệm Trà Sky Nhé - Sen Dừa, Bánh Trôi Tàu, Mì Trộn Indomie - 6 Thượng Đình","6 Thượng Đình, P. Thượng Đình, Thanh Xuân, Hà Nội",07:00 - 23:30,10.000 - 60.000
+265,Gà Rán & Gà Ủ Muối Hoa Tiêu - Hoàng Ngân,"Số 1 Ngõ 80 Hoàng Ngân, P. Trung Hòa, Cầu Giấy, Hà Nội",00:00 - 23:59,50.000 - 100.000
+266,,,,
+267,Cơm Văn Phòng & Cơm Niêu Hợp Tác Xã - Hồng Hà,"535 Hồng Hà, P. Phúc Tân, Hoàn Kiếm, Hà Nội",08:08 - 23:55,30.000 - 60.000
+268,,,,
+269,Nhem Nhem - Đồ Ăn Vặt & Mì Trộn Indomie,"Số 2 Ngõ 43/66/9 Trung Kính, P. Trung Hoà, Cầu Giấy, Hà Nội",00:00 - 01:30 | 09:30 - 23:59,0 - 0
+270,Pizza Ông Tây - Đỗ Quang,"45 Đỗ Quang, Cầu Giấy, Hà Nội",09:00 - 22:00,50.000 - 350.000
+271,Mập Quán - Đồ Ăn Vặt & Mỳ Xào - Khu Tập Thể Kim Liên,"106 B12 Khu Tập Thể Kim Liên, P. Kim Liên, Đống Đa, Hà Nội",00:00 - 03:00 | 11:00 - 23:59,10.000 - 100.000
+272,Cheese Coffee - Xuân Thủy,"Số 3 Xuân Thủy, P. Dịch Vọng, Cầu Giấy, Hà Nội",07:45 - 21:45,0 - 0
+273,Gà Rán & Burger Lotteria - Nguyễn Tuân,"82 Nguyễn Tuân, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",09:00 - 22:00,30.000 - 77.000
+274,,,,
+275,,,,
+276,,,,
+277,,,,
+278,Cháo Sườn Sụn Phố Cổ,"101 A11 Nghĩa Tân, P. Nghĩa Tân, Cầu Giấy, Hà Nội",06:30 - 21:40,5.000 - 31.000
+279,Kiệt - Mì Trộn Indomie,"99 Ngõ 482 Kim Giang, X. Thanh Liệt, Thanh Trì, Hà Nội",00:00 - 23:59,20.000 - 70.000
+280,,,,
+281,Chaebon - Kimbap Ngon Số 1 - Nguyễn An Ninh,"10B P2 Ngõ 71 Nguyễn An Ninh, P. Tương Mai, Hoàng Mai, Hà Nội",10:00 - 23:59,0 - 0
+282,,,,
+283,Duy Nhất - Phở Bò & Cơm Rang - Vĩnh Hưng,"51 Vĩnh Hưng, P. Vĩnh Hưng, Hoàng Mai, Hà Nội",09:00 - 16:00 | 17:30 - 23:59,0 - 0
+284,"Doo Foods - Burger, Gà Rán & Cơm Gà - Kim Ngưu","118A E7 Kim Ngưu, P. Quỳnh Mai, Hai Bà Trưng, Hà Nội",00:00 - 08:00 | 09:30 - 23:59,0 - 0
+285,Nucafe - 86 Quán Thánh,"86 Quán Thánh, P. Quán Thánh, Ba Đình, Hà Nội",07:00 - 22:30,0 - 0
+286,,,,
+287,,,,
+288,Okitaco - Cơm Taco Okinawa,"S402.01S09 Vinhomes Smart City, P. Tây Mỗ, Nam Từ Liêm, Hà Nội",09:30 - 22:00,0 - 0
+289,"Le Pain Lee - Burger, Gà Rán & Cơm Gà - Nguyễn Xiển","65 Ngõ 161 Nguyễn Xiển, P. Hạ Đình, Thanh Xuân, Hà Nội",00:00 - 23:59,0 - 0
+290,Quang Food - Mì Trộn Indomie - Ngõ Chợ Khâm Thiên,"Số 30 Ngõ 143 Chợ Khâm Thiên, P. Trung Phụng (Đối diện UBND phường Trung Phụng), Đống Đa, Hà Nội",00:00 - 02:30 | 08:00 - 23:59,20.000 - 50.000
+291,Cơm Trộn CơMix - Đào Tấn,"26 Ngõ 58 Đào Tấn, P. Cống Vị, Ba Đình, Hà Nội",08:00 - 21:00,0 - 0
+292,BUMTRO - Bún Trộn Nam Bộ - Đào Tấn,"26 Ngõ 58 Đào Tấn, P. Cống Vị, Ba Đình, Hà Nội",07:00 - 21:00,30.000 - 60.000
+293,Xôi Hồng - Sài Đồng,"Số 29 Ngõ 42 Phố Sài Đồng, Long Biên, Hà Nội",07:15 - 14:00 | 16:30 - 20:30,15.000 - 30.000
+294,"Hadu Y - Gà Rán, Pizza & Trà Sữa","288 Xuân Đỉnh, P. Xuân Đỉnh, Bắc Từ Liêm, Hà Nội",00:00 - 23:59,22.000 - 50.000
+295,LaSiMi - Trà Ngon Đậm Vị - Trần Đại Nghĩa,"71A Trần Đại Nghĩa, P. Bách Khoa, Hai Bà Trưng, Hà Nội",08:00 - 22:45,25.000 - 60.000
+296,,,,
+297,"Zen Zen - Cơm Gà, Gà Rán & Cơm Bò - Trần Duy Hưng","12A Ngõ 88 Trần Duy Hưng, P. Trung Hòa, Cầu Giấy, Hà Nội",10:00 - 23:20,0 - 0
+298,,"171 P. Hà Kế Tấn, P. Phương Liệt, Thanh Xuân, Hà Nội",09:30 - 22:30,0 - 0
+299,,,,
+300,Bún Chả Hàng Than - Bún Mọc Sườn Chua Chuẩn Vị Phố - Tây Mỗ,"Số Nhà 8, Ngõ 43 Đường Cầu Cốc, Nam Từ Liêm, Hà Nội",00:00 - 23:59,0 - 0
+301,,,,
+302,Mori Sushi & Thai Food - 287 Nguyễn Chí Thanh,"287 Nguyễn Chí Thanh, P. Phước Ninh, Quận Hải Châu, Đà Nẵng",09:30 - 21:30,0 - 0
+303,Bánh Mì & Bánh Bao Ba Hưng Bakery - 16 Phan Đăng Lưu,"16 Phan Đăng Lưu, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",05:00 - 22:30,3.000 - 300.000
+304,Tiệm Ăn Chợ Lớn - Nguyễn Trung Trực,"111 Nguyễn Trung Trực, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng",09:00 - 22:00,25.000 - 110.000
+305,The Pizza Company - 1 Nguyễn Văn Linh,"1 Nguyễn Văn Linh, P. Bình Hiên, Quận Hải Châu, Đà Nẵng",09:30 - 22:15,22.000 - 669.000
+306,,,,
+307,Ốc Bé Bơ - Ốc - 543 Tôn Đức Thắng,"543 Tôn Đức Thắng, P. Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",00:00 - 02:00 | 15:00 - 23:59,0 - 0
+308,"Hẻm Nhỏ - Chân Gà Rút Xương Sốt Thái, Cá Viên Chiên Mắm & Nem Chua Rán","27 Hà Đông 1, P. Xuân Hà, Quận Thanh Khê, Đà Nẵng",00:00 - 23:59,15.000 - 50.000
+309,,,,
+310,ZIN ZIN - Cà Phê & Tea - Thái Thị Bôi,"70 Thái Thị Bôi, P. Chính Gián, Quận Thanh Khê, Đà Nẵng",07:00 - 21:50,0 - 0
+311,Chè Thái Na Na,"K183/5 Hoàng Diệu, P. Nam Dương, Quận Hải Châu, Đà Nẵng",08:00 - 22:45,10.000 - 35.000
+312,,,,
+313,"Pizza Sister’s - Pizza, Mỳ Ý & Burger - Hà Thị Thân","H11/32 Kiệt 20 Hà Thị Thân, P. An Hải Tây, Quận Sơn Trà, Đà Nẵng",05:00 - 23:59,55.000 - 150.000
+314,"Cá Viên Chiên Mắm, Lẩu Ly & Trà Sữa - Cá Mập Con - Âu Cơ","34/56 Âu Cơ, Quận Liên Chiểu, Đà Nẵng",10:00 - 23:59,0 - 0
+315,Cháo Dinh Dưỡng & Súp Cô Nhỏ - Yên Thế,"81 Yên Thế, P. Hòa An, Quận Cẩm Lệ, Đà Nẵng",06:00 - 20:00,15.000 - 30.000
+316,Trà Sữa Coffit - Trà Sữa Sài Gòn,"21 Lê Trọng Tấn, P. Hòa Phát, Quận Cẩm Lệ, Đà Nẵng",06:30 - 23:15,15.000 - 29.000
+317,Ốc Xinh Sài Gòn,"226 Lê Thanh Nghị, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",14:10 - 22:55,45.000 - 45.000
+318,Bún Bò Dì Hồng,"135 Nguyễn Công Trứ, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng",00:00 - 23:59,20.000 - 30.000
+319,,,,
+320,Bún Đậu Phố Cổ - Đặng Dung,"53 Đặng Dung, P. Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",08:31 - 23:59,0 - 0
+321,EZI Coffee & Tea - Đống Đa,"388 Đống Đa, P. Thanh Bình, Quận Hải Châu, Đà Nẵng",07:00 - 22:30,12.000 - 39.000
+322,,,,
+323,Bánh Tráng Tắc Ớt,"63 Đặng Thai Mai, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng",00:00 - 23:59,10.000 - 40.000
+324,,,,
+325,Vin Tea - Cafe Muối & Trà Sữa - Điện Biên Phủ,"330 Điện Biên Phủ, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng",07:00 - 22:15,0 - 0
+326,,,,
+327,Bún Chả Cá Tam Giác - Dũng Sĩ Thanh Khê,"110 Dũng Sĩ Thanh Khê, P. Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",06:00 - 13:00 | 16:14 - 23:00,13.000 - 13.000
+328,,"96 Phan Châu Trinh, Quận Hải Châu, Đà Nẵng",08:00 - 23:00,30.000 - 55.000
+329,Trà Sữa Money - Lê Thanh Nghị,"265 Lê Thanh Nghị, P. Hoà Cường Nam, Quận Hải Châu, Đà Nẵng",07:00 - 22:30,7.000 - 65.000
+330,Phê La - Trà & Cà Phê Đặc Sản - Nguyễn Văn Linh,"35/37/39/41 Nguyễn Văn Linh, P. Nam Dương, Quận Hải Châu, Đà Nẵng",08:00 - 22:25,38.000 - 50.000
+331,Mỳ Cay Gangwon - 104 Hoàng Thị Loan,"104 Hoàng Thị Loan, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng",09:00 - 23:00,0 - 0
+332,Seoul - Mì Cay 7 Cấp Độ Hàn Quốc - Nguyễn Thị Minh Khai,"40 Nguyễn Thị Minh Khai, P. Thạch Thang, Quận Hải Châu, Đà Nẵng",08:30 - 22:00,0 - 0
+333,Bánh Tráng Thịt Heo Hương Đại Lộc,"625 Tôn Đức Thắng, P. Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",10:00 - 21:00,35.000 - 50.000
+334,,,,
+335,Ú Milk Tea - Trà Sữa Trân Châu Phô Mai Nhà Làm - Hoàng Diệu,"340 Hoàng Diệu, P. Bình Hiên, Quận Hải Châu, Đà Nẵng",09:00 - 23:50,0 - 0
+336,,,,
+337,"Gà Rán, Pizza & Mỳ Ý TUS Street Food - Âu Cơ","108B Âu Cơ, P. Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",11:00 - 22:00,15.000 - 45.000
+338,Bánh Canh Cá Nục Nhi 2 - 01 Âu Cơ,"1 Âu Cơ, P. Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",06:00 - 23:45,4.000 - 45.000
+339,Gà Nướng Mắm Nhĩ Phú Quý - Lê Thanh Nghị,"80 Lê Thanh Nghị, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",09:30 - 22:00,0 - 0
+340,Chè Xuân Trang - Lê Duẩn,"31 Lê Duẩn, Quận Hải Châu, Đà Nẵng",09:00 - 23:00,10.000 - 33.000
+341,Ông Phú Đạt - Bánh Mì Heo Nướng Lu - Nguyễn Duy Hiệu,"128 Nguyễn Duy Hiệu, P. An Hải Đông, Quận Sơn Trà, Đà Nẵng",05:42 - 18:22,0 - 0
+342,Trình Cà Phê - Phạm Hồng Thái,"25 Phạm Hồng Thái, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng",06:30 - 23:59,15.000 - 35.000
+343,Phố Ốc - Hải Sản Tươi Sống,"100 Lê Đình Lý, P. Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",00:00 - 01:00 | 15:00 - 23:59,45.000 - 100.000
+344,Cháo Ếch Singapore - Ông Nhí - 221 Lê Thanh Nghị,"221 Lê Thanh Nghị, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",00:00 - 23:59,0 - 0
+345,,"183 Nguyễn Hữu Thọ, P. Hoà Thuận Tây, Quận Hải Châu, Đà Nẵng",09:30 - 22:30,70.000 - 200.000
+346,Trang Coffee - Cà Phê Muối,"69 An Hải Đông 1, P. An Hải Đông, Quận Sơn Trà, Đà Nẵng",06:00 - 20:00,10.000 - 30.000
+347,Trà Sữa Ông Trùm - Thế Lữ,"52 Thế Lữ, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng",15:20 - 22:30,20.000 - 50.000
+348,Tôn Nữ Quán - Cơm Gia Đình - Ẩm Thực Xứ Huế,"383/9 Hải Phòng, P. Tân Chính, Quận Thanh Khê, Đà Nẵng",09:30 - 20:30,20.000 - 100.000
+349,Cơm Gà Hội An - Châu Thị Vĩnh Tế,"198 Châu Thị Vĩnh Tế, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",07:00 - 21:00,35.000 - 50.000
+350,Chân Gà Nướng Hai Còi - 91 Nguyễn Văn Thoại,"91 Nguyễn Văn Thoại, P. An Hải Đông, Quận Sơn Trà, Đà Nẵng",00:00 - 23:59,20.000 - 50.000
+351,Bánh Canh Cá Lóc Yến - Nguyễn Hoàng,"253 Nguyễn Hoàng, P. Bình Hiên, Quận Hải Châu, Đà Nẵng",06:30 - 22:00,15.000 - 20.000
+352,"Bo Tea - Trà Trái Cây, Cà Phê & Nước Ép - 74B Phan Thanh","74B Phan Thanh, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng",08:00 - 22:30,0 - 0
+353,Sushi Totoro - Sushi Của Người Việt - Shop online,"51 Châu Thị Vĩnh Tế, P. Bắc Mỹ Phú, Quận Ngũ Hành Sơn, Đà Nẵng",09:30 - 13:30 | 16:15 - 21:30,39.000 - 175.000
+354,"Al Fresco's - Pizza, Mỳ Ý, Sườn, Steak Bò Bít Tết - Trần Hưng Đạo","515 Trần Hưng Đạo, Quận Sơn Trà, Đà Nẵng",16:00 - 21:30,33.000 - 295.000
+355,,,,0 - 0
+356,Khải Đăng - Bánh Cuốn Tây Sơn Bình Định 5,"15 Thanh Long, P. Thanh Bình, Quận Hải Châu, Đà Nẵng",08:00 - 21:15,0 - 0
+357,Quán Xưa - Bún Đậu Mắm Tôm,"5 Thanh Khê 6, P. Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",10:00 - 21:40,30.000 - 100.000
+358,Nem Nướng Nha Trang - Còng,"164 Ỷ Lan Nguyên Phi, Quận Hải Châu, Đà Nẵng",08:30 - 21:45,0 - 0
+359,,,,
+360,,,,
+361,Cơm Gà Nam Chợ Mới - Hoàng Diệu,"589 Hoàng Diệu, P. Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",07:00 - 21:30,15.000 - 45.000
+362,Chân Gà Cay Đà Nẵng - Núi Thành,"218 Núi Thành, P. Hoà Cường Bắc, Quận Hải Châu, Đà Nẵng",00:00 - 23:59,3.000 - 75.000
+363,Bánh Xèo Bà Dưỡng,"K280/23 Hoàng Diệu, Quận Hải Châu, Đà Nẵng",09:30 - 21:20,20.000 - 55.000
+364,Bánh Mì Yến - Ông Ích Khiêm,"618 Ông Ích Khiêm, P.Nam Dương, Quận Hải Châu, Đà Nẵng",06:00 - 10:30 | 15:00 - 22:30,0 - 0
+365,"Bánh Cá, Ăn Vặt & Trà Sữa Sóc Nâu - Hoàng Diệu","467 Hoàng Diệu, P. Bình Thuận, Quận Hải Châu, Đà Nẵng",14:45 - 22:00,5.000 - 10.000
+366,,,,
+367,,,,
+368,"Cơm Ngon Thảo My - Cơm Gà, Cơm Sườn & Cơm Cá","50 Tôn Đức Thắng, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng",10:29 - 21:00,22.000 - 25.000
+369,,"31 - 33 - 35 Ngô Văn Sở, Quận Liên Chiểu, Đà Nẵng",09:00 - 21:00,15.000 - 33.000
+370,Tứ Hải Quán - Cơm Gà & Cơm Sườn,"85 Đường 2 Tháng 9, P. Hoà Cường Nam, Quận Hải Châu, Đà Nẵng",00:00 - 23:59,7.000 - 20.000
+371,Cơm Tấm Ngon - 85 Hà Huy Tập,"85 Hà Huy Tập, P. Hòa khê, Quận Thanh Khê, Đà Nẵng",09:00 - 20:30,25.000 - 30.000
+372,"Bún Đậu 1996 - Bún Đậu, Mỳ Cay & Trà Sữa","358 Trần Đại Nghĩa, P. Hoa Hai, Quận Ngũ Hành Sơn, Đà Nẵng",10:21 - 13:00 | 15:00 - 21:30,0 - 0
+373,Cơm Gà Gia Vĩnh - Lê Thanh Nghị,"153 Lê Thanh Nghị, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",09:30 - 21:25,50.000 - 100.000
+374,Ăn Vặt Thùy Dương,"276 Thái Thị Bôi, P. Chính Gián, Quận Thanh Khê, Đà Nẵng",15:00 - 23:00,5.000 - 15.000
+375,Hồng Nguyệt - Bún Thịt Nướng - Hoàng Diệu,"178/10 Hoàng Diệu, P. Hải Châu 2, Quận Hải Châu, Đà Nẵng",09:00 - 22:30,20.000 - 30.000
+376,Gỏi Sứa Ku Ken - Trưng Nữ Vương,"240 Trưng Nữ Vương, P. Bình Thuận, Quận Hải Châu, Đà Nẵng",11:00 - 23:00,29.000 - 69.000
+377,Bún Đậu Mắm Tôm - Nhà Tấm 5,"22 Lê Thị Tính, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng",09:30 - 22:55,0 - 0
+378,,,,
+379,,,,
+380,,,,
+381,,,,
+382,,,,
+383,,,,
+384,,,,
+385,,,,
+386,MaYaCa Cà Phê - Nguyễn Duy Hiệu,"146 Nguyễn Duy Hiệu, P. An Hải Đông, Quận Sơn Trà, Đà Nẵng",06:00 - 21:30,15.000 - 30.000
+387,,,,
+388,,,,
+389,Cơm Gà Ngũ Vị - Lê Đình Dương,"142 Lê Đình Dương, P. Hải Châu 2, Quận Hải Châu, Đà Nẵng",00:00 - 23:59,30.000 - 50.000
+390,,,,
+391,Bếp Quê 4 - Bún Đậu Mắm Tôm,"24 Lê Thị Tính, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng",09:30 - 22:55,0 - 0
+392,Bánh Gà Thần Thánh Cô Phương - Hoàng Diệu,"K356-H45/14 Hoàng Diệu, P. Bình Thuận, Quận Hải Châu, Đà Nẵng",00:00 - 03:00 | 14:00 - 23:59,5.000 - 80.000
+393,,,,
+394,,,,
+395,,"06 An Thượng 18, P. Bắc Mỹ Phú, Quận Ngũ Hành Sơn, Đà Nẵng",10:00 - 22:00,15.000 - 200.000
+396,"Ánh Ly - Cà Phê, Nước Ép & Ăn Vặt - 25 Hoà Minh 15","25 Hoà Minh 15, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng",06:30 - 21:00,0 - 0
+397,,,,
+398,Hoa Nô Café - Giải Khát Và Ăn Vặt - Tôn Đức Thắng,"846 Tôn Đức Thắng, Quận Liên Chiểu, Đà Nẵng",06:30 - 22:30,0 - 0
+399,,,,
+400,Taste Pizza & Burger - Lê Trọng Tấn,"K67/31 Lê Trọng Tấn, P. Hoà Phát, Quận Cẩm Lệ, Đà Nẵng",00:00 - 23:59,17.000 - 119.000
+401,Đá Tan Coffee & Matcha,"136/29/1 Trần Cao Vân (Đi Thẳng Vào Kiệt sẽ Thấy Quán), Quận Thanh Khê, Đà Nẵng",,0 - 0
+402,Lizzy MilkTea,"91 Phan Châu Trinh, P. Hải Châu I, Quận Hải Châu, Đà Nẵng",07:00 - 22:00,0 - 0
+403,,,,
+404,Trà Sữa EO VI,"1 Mỹ Khê 8, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng",07:00 - 19:00,0 - 0
+405,Bò Sữa MK - Sữa Tươi Trân Châu Đường Đen - Mai Am,"117 Mai Am, P. Thuận Phước, Quận Hải Châu, Đà Nẵng",09:00 - 12:00 | 13:00 - 23:59,0 - 0
+406,Mai Cafe - Coffee And Tea,"89 Huỳnh Tấn Phát, P. Hoà Cường Bắc, Quận Hải Châu, Đà Nẵng",06:15 - 21:45,0 - 0
+407,Burrito Nhà H.O - Điện Biên Phủ,"534 Điện Biên Phủ, P. Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",10:20 - 23:30,0 - 0
+408,Trà Sữa Tocotoco - 152 Châu Thị Vĩnh Tế,"152 Châu Thị Vĩnh Tế, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",09:00 - 22:30,0 - 0
+409,Tiệm Nhà T - Cà Phê Muối & Trà Sữa - Trần Cao Vân,"435/85 Trần Cao Vân, P. Xuân Hà, Quận Thanh Khê, Đà Nẵng",06:30 - 23:59,5.000 - 45.000
+410,DAISY FOOD - BÁNH TRÁNG TẮC ỚT,"19 An Hải 17, P. Mân Thái, Quận Sơn Trà, Đà Nẵng",08:00 - 23:00,0 - 0
+411,Gà Rán & Burger McDonald’s Nguyễn Văn Linh,"Số 5 Nguyễn Văn Linh, P. Bình Hiên, Quận Hải Châu, Đà Nẵng",00:00 - 23:59,0 - 0
+412,,,,
+413,,,,
+414,,,,
+415,,"223 Đống Đa, P. Thanh Bình, Quận Hải Châu, Đà Nẵng",09:00 - 21:15,12.000 - 35.000
+416,Lạp Xưởng Nướng Đá - Quán 36,"36 Dũng Sĩ Thanh Khê, P. Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",00:00 - 02:59 | 10:00 - 23:59,0 - 0
+417,Mote Pizza,"146 Lê Lợi, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng",10:00 - 21:45,16.000 - 75.000
+418,CuBa - Food & Drink,"10 Đồng Kè, P. Hoà Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",06:30 - 23:59,10.000 - 30.000
+419,Xuxi Drink - Nước Ép & Trái Cây Cắt Sẵn,"37 Châu Thị Vĩnh Tế, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",08:15 - 20:45,0 - 0
+420,3TeTe - Cà Phê Muối - Nguyễn Súy,"47 Nguyễn Súy, P. Hòa Thuận Nam, Quận Hải Châu, Đà Nẵng",06:15 - 22:59,0 - 0
+421,"Salus - Nước Dừa Bơ, Trà & Cafe - 5 Ninh Tốn","5 Ninh Tốn, P. Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",07:15 - 22:00,0 - 0
+422,Trà Sữa Ông Thọ - Lê Đình Lý,"105 Lê Đình Lý, P. Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",08:00 - 22:50,10.000 - 25.000
+423,Bún Đậu Mắm Tôm Phất Lộc 4 - Nam Cao,"52 Nam Cao, P. Hoà Khánh Nam, Quận Liên Chiểu, Đà Nẵng",09:30 - 22:00,5.000 - 135.000
+424,Trà Sữa Gia Hỷ - Núi Thành,"509 Núi Thành, P. Hoà Cường Bắc, Quận Hải Châu, Đà Nẵng",09:00 - 22:00,0 - 0
+425,Bubble Tea - Đồ Ăn Hàn Quốc - 120/2A Lý Thái Tổ,"120/2A Lý Thái Tổ, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng",09:29 - 23:59,15.000 - 30.000
+426,MeeCha - Mê Trà - Lê Duẩn,"198 Lê Duẩn, P. Tân Chính, Quận Thanh Khê, Đà Nẵng",07:59 - 23:45,0 - 0
+427,Gà Rán Popeyes - Lê Duẩn,"86 Lê Duẩn, P. Thạch Thang, Quận Hải Châu, Đà Nẵng",10:00 - 22:25,15.000 - 250.000
+428,Cheese Coffee - Trần Phú Đà Nẵng,"226-228 Trần Phú, P. Phước Ninh, Quận Hải Châu, Đà Nẵng",07:00 - 22:00,0 - 0
+429,Texas Chicken - Indochina Mall,"Gian Hàng Số G7 - G8 - G9, Tầng Trệt Riverside Mall, Số 74 Bạch Đằng, P. Hải Châu I, Quận Hải Châu, Đà Nẵng",10:00 - 21:30,0 - 0
+430,Trà Sữa Maycha - 436 Điện Biên Phủ,"436 Điện Biên Phủ, P. Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",09:00 - 21:00,0 - 0
+431,Gà Rán & Burger Lotteria - Sơn Trà Coopmart,"Tầng 1, Co.op Mart Sơn Trà (Ngã Tư Trần Nhân Tông - Bình Than), P. Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng",08:00 - 21:30,18.000 - 310.000
+432,,,,
+433,NiTo House - Quán Ăn Hàn Quốc - Núi Thành,"541/12 Núi Thành, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",10:30 - 22:00,10.000 - 300.000
+434,Chân Gà Sả Tắc Hiền Nguyễn - Tô Hiệu,"172/31 Tô Hiệu, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng",00:00 - 02:30 | 06:00 - 23:59,55.000 - 60.000
+435,Bánh Canh Ghẹ Quận Nhất - Cơ Sở 2 - Đường 2/9,"B13 Đường 2 Tháng 9, P. Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",07:00 - 21:20,0 - 0
+436,Camry Quán - Mì Cay & Ăn Vặt - Trần Đại Nghĩa,"304 Trần Đại Nghĩa, P. Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",10:00 - 23:59,0 - 0
+437,Bún Đậu 68 - 41 Cách Mạng Tháng Tám,"41 Cách Mạng Tháng Tám, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",10:00 - 22:20,12.000 - 80.000
+438,,,,
+439,Thai Market Restaurant - 183 Nguyễn Văn Thoại,"183 Nguyễn Văn Thoại, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",10:00 - 21:30,35.000 - 170.000
+440,SAN Korean Food - Món Ăn Hàn Quốc - 104 Châu Thị Vĩnh Tế,"104 Châu Thị Vĩnh Tế, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",09:30 - 22:30,0 - 0
+441,Bún Đậu Mắm Tôm - Bếp Tiên,"278 Tô Hiến Thành, Quận Sơn Trà, Đà Nẵng",09:30 - 22:50,25.000 - 40.000
+442,NiTo House - Quán Ăn Hàn Quốc - An Thượng,"19 An Thượng 5, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",11:00 - 20:00,10.000 - 300.000
+443,Duyên - Cơm Gà Xối Mỡ - Núi Thành,"544 Núi Thành, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",09:51 - 21:00,25.000 - 45.000
+444,"Dâu - Súp Thập Cẩm, Bánh Canh Cua Sài Gòn","K09/16 Lạc Long Quân, P. Hoà Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",00:00 - 23:59,20.000 - 50.000
+445,IVO Deli Pizza & Burger - K10/9 Hoàng Văn Thụ,"K10/9 Hoàng Văn Thụ, Quận Hải Châu, Đà Nẵng",07:30 - 20:00,39.000 - 209.000
+446,,,,
+447,,,,
+448,,,,
+449,,,,
+450,Cơm Tấm Bà Cám & Trà Tắc,"241/12 Nguyễn Phước Nguyên, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng",10:02 - 23:00,25.000 - 40.000
+451,Mori Sushi & Thai Food - 287 Nguyễn Chí Thanh,"287 Nguyễn Chí Thanh, P. Phước Ninh, Quận Hải Châu, Đà Nẵng",09:30 - 21:30,0 - 0
+452,Bánh Mì & Bánh Bao Ba Hưng Bakery - 16 Phan Đăng Lưu,"16 Phan Đăng Lưu, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",05:00 - 22:30,3.000 - 300.000
+453,Tiệm Ăn Chợ Lớn - Nguyễn Trung Trực,"111 Nguyễn Trung Trực, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng",09:00 - 22:00,25.000 - 110.000
+454,The Pizza Company - 1 Nguyễn Văn Linh,"1 Nguyễn Văn Linh, P. Bình Hiên, Quận Hải Châu, Đà Nẵng",09:30 - 22:15,22.000 - 669.000
+455,Cháo Dinh Dưỡng Và Súp Tú Quỳnh 2,"161 Văn Tiến Dũng, P. Hòa Xuân, Quận Cẩm Lệ, Đà Nẵng",06:00 - 12:10 | 14:25 - 19:25,10.000 - 15.000
+456,Ốc Bé Bơ - Ốc - 543 Tôn Đức Thắng,"543 Tôn Đức Thắng, P. Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",00:00 - 02:00 | 15:00 - 23:59,0 - 0
+457,,,,
+458,Bếp Nhà Kem - Gỏi Cá Trích Bùi Huỳnh Như - 376 Cù Chính Lan,"376 Cù Chính Lan, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng",00:00 - 23:59,0 - 0
+459,ZIN ZIN - Cà Phê & Tea - Thái Thị Bôi,"70 Thái Thị Bôi, P. Chính Gián, Quận Thanh Khê, Đà Nẵng",07:00 - 21:50,0 - 0
+460,Chè Thái Na Na,"K183/5 Hoàng Diệu, P. Nam Dương, Quận Hải Châu, Đà Nẵng",08:00 - 22:45,10.000 - 35.000
+461,Mẹt Quán - Bún Đậu Mắm Tôm & Bún Chả Hà Nội,"81 Tố Hữu, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",09:30 - 21:35,10.000 - 100.000
+462,"Pizza Sister’s - Pizza, Mỳ Ý & Burger - Hà Thị Thân","H11/32 Kiệt 20 Hà Thị Thân, P. An Hải Tây, Quận Sơn Trà, Đà Nẵng",05:00 - 23:59,55.000 - 150.000
+463,"Cá Viên Chiên Mắm, Lẩu Ly & Trà Sữa - Cá Mập Con - Âu Cơ","34/56 Âu Cơ, Quận Liên Chiểu, Đà Nẵng",10:00 - 23:59,0 - 0
+464,Cháo Dinh Dưỡng & Súp Cô Nhỏ - Yên Thế,"81 Yên Thế, P. Hòa An, Quận Cẩm Lệ, Đà Nẵng",06:00 - 20:00,15.000 - 30.000
+465,Trà Sữa Coffit - Trà Sữa Sài Gòn,"21 Lê Trọng Tấn, P. Hòa Phát, Quận Cẩm Lệ, Đà Nẵng",06:30 - 23:15,15.000 - 29.000
+466,Ốc Xinh Sài Gòn,"226 Lê Thanh Nghị, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",14:10 - 22:55,45.000 - 45.000
+467,Bún Bò Dì Hồng,"135 Nguyễn Công Trứ, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng",00:00 - 23:59,20.000 - 30.000
+468,,,,
+469,EZI Coffee & Tea - Đống Đa,"388 Đống Đa, P. Thanh Bình, Quận Hải Châu, Đà Nẵng",07:00 - 22:30,12.000 - 39.000
+470,Cô Mỹ - Bánh Căn & Bún Mắm - Hải Phòng,"K377/42 Hải Phòng, P. Tân Chính, Quận Thanh Khê, Đà Nẵng",07:30 - 21:10,0 - 0
+471,Bánh Tráng Tắc Ớt,"63 Đặng Thai Mai, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng",00:00 - 23:59,10.000 - 40.000
+472,Quán Chay Thảo Ngọc,"469 Hải Phòng, P. Chính Gián, Quận Thanh Khê, Đà Nẵng",06:30 - 14:00 | 16:00 - 20:30,20.000 - 20.000
+473,Vin Tea - Cafe Muối & Trà Sữa - Điện Biên Phủ,"330 Điện Biên Phủ, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng",07:00 - 22:15,0 - 0
+474,Bếp Mẹ Bơ - Bánh Bò & Bánh Da Lợn Miền Tây,"387 Hải Phòng, P. Tân Chính, Quận Thanh Khê, Đà Nẵng",07:35 - 19:16,0 - 0
+475,Bún Chả Cá Tam Giác - Ngô Văn Sở,"88 Ngô Văn Sở, P. Hoà Khánh Nam, Quận Liên Chiểu, Đà Nẵng",06:30 - 12:15 | 16:10 - 22:45,0 - 0
+476,Cơm Gà A Hải - Phan Châu Trinh,"96 Phan Châu Trinh, Quận Hải Châu, Đà Nẵng",08:00 - 23:00,30.000 - 55.000
+477,Trà Sữa Money - Lê Thanh Nghị,"265 Lê Thanh Nghị, P. Hoà Cường Nam, Quận Hải Châu, Đà Nẵng",07:00 - 22:30,7.000 - 65.000
+478,Phê La - Trà & Cà Phê Đặc Sản - Nguyễn Văn Linh,"35/37/39/41 Nguyễn Văn Linh, P. Nam Dương, Quận Hải Châu, Đà Nẵng",08:00 - 22:25,38.000 - 50.000
+479,Mỳ Cay Gangwon - 104 Hoàng Thị Loan,"104 Hoàng Thị Loan, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng",09:00 - 23:00,0 - 0
+480,,,,
+481,Bánh Tráng Thịt Heo Hương Đại Lộc,"625 Tôn Đức Thắng, P. Hòa Khánh Nam, Quận Liên Chiểu, Đà Nẵng",10:00 - 21:00,35.000 - 50.000
+482,Tr Mai Quán - Bún Đậu Mắm Tôm - Nguyễn Lương Bằng,"90 Nguyễn Lương Bằng, P. Hoà Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",00:00 - 02:00 | 09:00 - 23:59,10.000 - 100.000
+483,,,,
+484,Chân Gà Nướng Hai Còi - Ngô Thì Nhậm,"19 Ngô Thì Nhậm, P. Hoà Khánh Nam, Quận Liên Chiểu, Đà Nẵng",00:00 - 00:15 | 14:30 - 23:59,10.000 - 65.000
+485,,,,
+486,Bánh Canh Cá Nục Nhi 2 - 01 Âu Cơ,"1 Âu Cơ, P. Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",06:00 - 23:45,4.000 - 45.000
+487,Gà Nướng Mắm Nhĩ Phú Quý - Lê Thanh Nghị,"80 Lê Thanh Nghị, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",09:30 - 22:00,0 - 0
+488,Chè Xuân Trang - Lê Duẩn,"31 Lê Duẩn, Quận Hải Châu, Đà Nẵng",09:00 - 23:00,10.000 - 33.000
+489,Ông Phú Đạt - Bánh Mì Heo Nướng Lu - Nguyễn Duy Hiệu,"128 Nguyễn Duy Hiệu, P. An Hải Đông, Quận Sơn Trà, Đà Nẵng",,0 - 0
+490,Trình Cà Phê - Phạm Hồng Thái,"25 Phạm Hồng Thái, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng",06:30 - 23:59,15.000 - 35.000
+491,Phố Ốc - Hải Sản Tươi Sống,"100 Lê Đình Lý, P. Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",00:00 - 01:00 | 15:00 - 23:59,45.000 - 100.000
+492,Cháo Ếch Singapore - Ông Nhí - 221 Lê Thanh Nghị,"221 Lê Thanh Nghị, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",00:00 - 23:59,0 - 0
+493,Gà Rán KFC - Nguyễn Hữu Thọ,"183 Nguyễn Hữu Thọ, P. Hoà Thuận Tây, Quận Hải Châu, Đà Nẵng",09:30 - 22:30,70.000 - 200.000
+494,Trang Coffee - Cà Phê Muối,"69 An Hải Đông 1, P. An Hải Đông, Quận Sơn Trà, Đà Nẵng",06:00 - 20:00,10.000 - 30.000
+495,Trà Sữa Ông Trùm - Thế Lữ,"52 Thế Lữ, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng",15:20 - 22:30,20.000 - 50.000
+496,Tôn Nữ Quán - Cơm Gia Đình - Ẩm Thực Xứ Huế,"383/9 Hải Phòng, P. Tân Chính, Quận Thanh Khê, Đà Nẵng",09:30 - 20:30,20.000 - 100.000
+497,Cơm Gà Hội An - Châu Thị Vĩnh Tế,"198 Châu Thị Vĩnh Tế, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",07:00 - 21:00,35.000 - 50.000
+498,Chân Gà Nướng Hai Còi - 91 Nguyễn Văn Thoại,"91 Nguyễn Văn Thoại, P. An Hải Đông, Quận Sơn Trà, Đà Nẵng",00:00 - 23:59,20.000 - 50.000
+499,Bánh Canh Cá Lóc Yến - Nguyễn Hoàng,"253 Nguyễn Hoàng, P. Bình Hiên, Quận Hải Châu, Đà Nẵng",06:30 - 22:00,15.000 - 20.000
+500,"Bo Tea - Trà Trái Cây, Cà Phê & Nước Ép - 74B Phan Thanh","74B Phan Thanh, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng",08:00 - 22:30,0 - 0
+501,Sushi Totoro - Sushi Của Người Việt - Shop online,"51 Châu Thị Vĩnh Tế, P. Bắc Mỹ Phú, Quận Ngũ Hành Sơn, Đà Nẵng",09:30 - 13:30 | 16:15 - 21:30,39.000 - 175.000
+502,"Al Fresco's - Pizza, Mỳ Ý, Sườn, Steak Bò Bít Tết - Trần Hưng Đạo","515 Trần Hưng Đạo, Quận Sơn Trà, Đà Nẵng",16:00 - 21:30,33.000 - 295.000
+503,Gà Nướng Nhà Làm & Gà Ủ Muối Quỳnh Mập,"139/14 Tôn Đản, P. Hòa An, Quận Cẩm Lệ, Đà Nẵng",00:00 - 23:59,0 - 0
+504,Khải Đăng - Bánh Cuốn Tây Sơn Bình Định 5,"15 Thanh Long, P. Thanh Bình, Quận Hải Châu, Đà Nẵng",08:00 - 21:15,0 - 0
+505,Quán Xưa - Bún Đậu Mắm Tôm,"5 Thanh Khê 6, P. Thanh Khê Tây, Quận Thanh Khê, Đà Nẵng",10:00 - 21:40,30.000 - 100.000
+506,Nem Nướng Nha Trang - Còng,"164 Ỷ Lan Nguyên Phi, Quận Hải Châu, Đà Nẵng",08:30 - 21:45,0 - 0
+507,,,,
+508,"Gà Ủ Muối, Chân Gà & Bánh Nậm Lọc Ít - Bếp Nhà Yumi","09 Hà Huy Giáp, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",00:00 - 23:59,0 - 0
+509,Cơm Gà Nam Chợ Mới - Hoàng Diệu,"589 Hoàng Diệu, P. Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",07:00 - 21:30,15.000 - 45.000
+510,Chân Gà Cay Đà Nẵng - Núi Thành,"218 Núi Thành, P. Hoà Cường Bắc, Quận Hải Châu, Đà Nẵng",00:00 - 23:59,3.000 - 75.000
+511,Bánh Xèo Bà Dưỡng,"K280/23 Hoàng Diệu, Quận Hải Châu, Đà Nẵng",09:30 - 21:20,20.000 - 55.000
+512,,,,
+513,"Bánh Cá, Ăn Vặt & Trà Sữa Sóc Nâu - Hoàng Diệu","467 Hoàng Diệu, P. Bình Thuận, Quận Hải Châu, Đà Nẵng",14:45 - 22:00,5.000 - 10.000
+514,,,,
+515,Bún Đậu Mắm Tôm Lộc Phát 4 - Bún Đậu Mẹt,"K127/5 Lý Tự Trọng, P. Thanh Bình, Quận Hải Châu, Đà Nẵng",10:00 - 21:00,0 - 0
+516,"Cơm Ngon Thảo My - Cơm Gà, Cơm Sườn & Cơm Cá","50 Tôn Đức Thắng, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng",,22.000 - 25.000
+517,Cơm Gà 9 Ly,"31 - 33 - 35 Ngô Văn Sở, Quận Liên Chiểu, Đà Nẵng",09:00 - 21:00,15.000 - 33.000
+518,Tứ Hải Quán - Cơm Gà & Cơm Sườn,"85 Đường 2 Tháng 9, P. Hoà Cường Nam, Quận Hải Châu, Đà Nẵng",00:00 - 23:59,7.000 - 20.000
+519,Cơm Tấm Ngon - 85 Hà Huy Tập,"85 Hà Huy Tập, P. Hòa khê, Quận Thanh Khê, Đà Nẵng",09:00 - 20:30,25.000 - 30.000
+520,"Bún Đậu 1996 - Bún Đậu, Mỳ Cay & Trà Sữa","358 Trần Đại Nghĩa, P. Hoa Hai, Quận Ngũ Hành Sơn, Đà Nẵng",10:21 - 13:00 | 15:00 - 21:30,0 - 0
+521,Cơm Gà Gia Vĩnh - Lê Thanh Nghị,"153 Lê Thanh Nghị, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",09:30 - 21:25,50.000 - 100.000
+522,Ăn Vặt Thùy Dương,"276 Thái Thị Bôi, P. Chính Gián, Quận Thanh Khê, Đà Nẵng",15:00 - 23:00,5.000 - 15.000
+523,Hồng Nguyệt - Bún Thịt Nướng - Hoàng Diệu,"178/10 Hoàng Diệu, P. Hải Châu 2, Quận Hải Châu, Đà Nẵng",09:00 - 22:30,20.000 - 30.000
+524,Gỏi Sứa Ku Ken - Trưng Nữ Vương,"240 Trưng Nữ Vương, P. Bình Thuận, Quận Hải Châu, Đà Nẵng",11:00 - 23:00,29.000 - 69.000
+525,Bún Đậu Mắm Tôm - Nhà Tấm 5,"22 Lê Thị Tính, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng",09:30 - 22:55,0 - 0
+526,,,,
+527,Cơm Chiên Giòn - Long Bốn - Hoàng Hoa Thám,"K86/20 Hoàng Hoa Thám, P. Tân Chính, Quận Thanh Khê, Đà Nẵng",10:30 - 21:00,20.000 - 30.000
+528,Merci Bánh Mì - Bánh Ngọt & Nước Uống - Hoàng Hoa Thám,"67 Hoàng Hoa Thám, P. Tân Chính, Quận Thanh Khê, Đà Nẵng",06:00 - 22:00,0 - 0
+529,Tàu Hủ Singapore 1995,"K142/H1/2 Âu Cơ, P. Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",11:00 - 22:10,12.000 - 50.000
+530,"Chân Gà Sả Ớt Kai Nguyễn - Trà Trái Cây, Trà Sữa & Ăn Vặt - Nguyễn Công Trứ","98 Nguyễn Công Trứ, P. An Hải Trung, Quận Sơn Trà, Đà Nẵng",15:00 - 23:30,0 - 0
+531,Bear Coffee & Milk,"85 Ngũ Hành Sơn, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",,0 - 0
+532,Nhà Xoài - Nước Ép & Sinh Tố Healthy,"141 Lê Thị Hồng Gấm, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",08:30 - 19:00,0 - 0
+533,,,,
+534,MaYaCa Cà Phê - Nguyễn Duy Hiệu,"146 Nguyễn Duy Hiệu, P. An Hải Đông, Quận Sơn Trà, Đà Nẵng",06:00 - 21:30,15.000 - 30.000
+535,Đặc Sản Cao Bằng - Bánh Cuốn Trứng Giò,"395 Hoàng Diệu, P. Bình Thuận, Quận Hải Châu, Đà Nẵng",06:00 - 21:00,0 - 0
+536,Thái Food - Ẩm thực Thái Lan - Tiệm Ăn Quốc Dân - Phạm Văn Nghị,"K10/11 Phạm Văn Nghị, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng",08:30 - 14:25 | 17:00 - 21:45,10.000 - 100.000
+537,,,,
+538,Cơm Gà Cô Nga - 320 Hồ Tùng Mậu,"320 Hồ Tùng Mậu, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng",10:00 - 13:45 | 17:00 - 19:45,0 - 0
+539,Bếp Quê 4 - Bún Đậu Mắm Tôm,"24 Lê Thị Tính, P. Hòa Khê, Quận Thanh Khê, Đà Nẵng",09:30 - 22:55,0 - 0
+540,Bánh Gà Thần Thánh Cô Phương - Hoàng Diệu,"K356-H45/14 Hoàng Diệu, P. Bình Thuận, Quận Hải Châu, Đà Nẵng",00:00 - 03:00 | 14:00 - 23:59,5.000 - 80.000
+541,Duyên - Cơm Gà Xối Mỡ - Nguyễn Công Trứ,"133 Nguyễn Công Trứ, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng",10:00 - 20:45,25.000 - 45.000
+542,PER Korean Food - Món Ăn Hàn Quốc - 10 Phạm Tu,"10 Phạm Tu, P. An Hải Bắc, Quận Sơn Trà, Đà Nẵng",09:30 - 23:30,30.000 - 100.000
+543,Pizza Time - 06 An Thượng 18,"06 An Thượng 18, P. Bắc Mỹ Phú, Quận Ngũ Hành Sơn, Đà Nẵng",10:00 - 22:00,15.000 - 200.000
+544,"Ánh Ly - Cà Phê, Nước Ép & Ăn Vặt - 25 Hoà Minh 15","25 Hoà Minh 15, P. Hòa Minh, Quận Liên Chiểu, Đà Nẵng",06:30 - 21:00,0 - 0
+545,MiLan Milktea,"22 - 26 Lê Thánh Tôn, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng",07:30 - 22:00,9.000 - 89.000
+546,Hoa Nô Café - Giải Khát Và Ăn Vặt - Tôn Đức Thắng,"846 Tôn Đức Thắng, Quận Liên Chiểu, Đà Nẵng",06:30 - 22:30,0 - 0
+549,,,,
+550,,,,
+551,,,,
+552,,,,0 - 0
+553,"Mai Cafe - Sinh Tố, Nước Ép & Cafe Muối","89 Huỳnh Tấn Phát, P. Hòa Cường Bắc, Quận Hải Châu, Đà Nẵng",06:00 - 21:45,0 - 0
+554,Trà Sữa EO VI,"1 Mỹ Khê 8, P. Phước Mỹ, Quận Sơn Trà, Đà Nẵng",07:00 - 19:00,0 - 0
+555,Bò Sữa MK - Sữa Tươi Trân Châu Đường Đen - Mai Am,"117 Mai Am, P. Thuận Phước, Quận Hải Châu, Đà Nẵng",09:00 - 12:00 | 13:00 - 23:59,0 - 0
+556,,,,
+557,Burrito Nhà H.O - Điện Biên Phủ,"534 Điện Biên Phủ, P. Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",10:20 - 23:30,0 - 0
+558,Trà Sữa Tocotoco - 152 Châu Thị Vĩnh Tế,"152 Châu Thị Vĩnh Tế, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",09:00 - 22:30,0 - 0
+559,Tiệm Nhà T - Cà Phê Muối & Trà Sữa - Trần Cao Vân,"435/85 Trần Cao Vân, P. Xuân Hà, Quận Thanh Khê, Đà Nẵng",06:30 - 23:59,5.000 - 45.000
+560,DAISY FOOD - BÁNH TRÁNG TẮC ỚT,"19 An Hải 17, P. Mân Thái, Quận Sơn Trà, Đà Nẵng",08:00 - 23:00,0 - 0
+561,Gà Rán & Burger McDonald’s Nguyễn Văn Linh,"Số 5 Nguyễn Văn Linh, P. Bình Hiên, Quận Hải Châu, Đà Nẵng",00:00 - 23:59,0 - 0
+562,"ReViet Juice - Nước Ép, Sinh Tố & Detox - Lê Đình Lý","58 Lê Đình Lý, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng",07:30 - 21:45,0 - 0
+563,Trà Sữa HongKong Baley - Phạm Văn Xảo,"131 Phạm Văn Xảo, P. Mân Thái, Quận Sơn Trà, Đà Nẵng",09:00 - 22:30,0 - 0
+564,Trái Cây Cắt Sẵn Vietberry - Lê Đình Lý,"58 Lê Đình Lý, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng",08:00 - 21:45,0 - 0
+565,Chick & Go - Gà Rán Và Xiên Que Nhật Bản,"223 Đống Đa, P. Thanh Bình, Quận Hải Châu, Đà Nẵng",09:00 - 21:15,12.000 - 35.000
+566,Lạp Xưởng Nướng Đá - Quán 36,"36 Dũng Sĩ Thanh Khê, P. Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",00:00 - 02:59 | 10:00 - 23:59,0 - 0
+567,Mote Pizza,"146 Lê Lợi, P. Hải Châu 1, Quận Hải Châu, Đà Nẵng",10:00 - 21:45,16.000 - 75.000
+568,CuBa - Food & Drink,"10 Đồng Kè, P. Hoà Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",06:30 - 23:59,10.000 - 30.000
+569,Xuxi Drink - Nước Ép & Trái Cây Cắt Sẵn,"37 Châu Thị Vĩnh Tế, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",08:15 - 20:45,0 - 0
+570,3TeTe - Cà Phê Muối - Nguyễn Súy,"47 Nguyễn Súy, P. Hòa Thuận Nam, Quận Hải Châu, Đà Nẵng",06:15 - 22:59,0 - 0
+571,"Salus - Nước Dừa Bơ, Trà & Cafe - 5 Ninh Tốn","5 Ninh Tốn, P. Hòa Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",07:15 - 22:00,0 - 0
+572,Trà Sữa Ông Thọ - Lê Đình Lý,"105 Lê Đình Lý, P. Vĩnh Trung, Quận Thanh Khê, Đà Nẵng",08:00 - 22:50,10.000 - 25.000
+573,Cơm Gà Xối Mỡ & Cơm Gà Sốt Mix Vị - Thị Lài,"222 Văn Tiến Dũng, P. Hoà Xuân, Quận Cẩm Lệ, Đà Nẵng",08:00 - 20:00,0 - 0
+574,,,,
+575,Trà Sữa Gia Hỷ - Núi Thành,"509 Núi Thành, P. Hoà Cường Bắc, Quận Hải Châu, Đà Nẵng",09:00 - 22:00,0 - 0
+576,Bubble Tea - Đồ Ăn Hàn Quốc - 120/2A Lý Thái Tổ,"120/2A Lý Thái Tổ, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng",09:29 - 23:59,15.000 - 30.000
+577,MeeCha - Mê Trà - Lê Duẩn,"198 Lê Duẩn, P. Tân Chính, Quận Thanh Khê, Đà Nẵng",07:59 - 23:45,0 - 0
+578,,,,
+579,Cheese Coffee - Trần Phú Đà Nẵng,"226-228 Trần Phú, P. Phước Ninh, Quận Hải Châu, Đà Nẵng",07:00 - 22:00,0 - 0
+580,Texas Chicken - Indochina Mall,"Gian Hàng Số G7 - G8 - G9, Tầng Trệt Riverside Mall, Số 74 Bạch Đằng, P. Hải Châu I, Quận Hải Châu, Đà Nẵng",10:00 - 21:30,0 - 0
+581,Trà Sữa Maycha - 436 Điện Biên Phủ,"436 Điện Biên Phủ, P. Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",09:00 - 21:00,0 - 0
+582,Gà Rán & Burger Lotteria - Sơn Trà Coopmart,"Tầng 1, Co.op Mart Sơn Trà (Ngã Tư Trần Nhân Tông - Bình Than), P. Nại Hiên Đông, Quận Sơn Trà, Đà Nẵng",08:00 - 21:30,18.000 - 310.000
+583,KATINAT - Nguyễn Văn Linh (Đà Nẵng),"09 Nguyễn Văn Linh (nối dài), P. Bình Hiên, Quận Hải Châu, Đà Nẵng",07:00 - 22:00,0 - 0
+584,NiTo House - Quán Ăn Hàn Quốc - Núi Thành,"541/12 Núi Thành, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",10:30 - 22:00,10.000 - 300.000
+585,,,,
+586,Bánh Canh Ghẹ Quận Nhất - Cơ Sở 2 - Đường 2/9,"B13 Đường 2 Tháng 9, P. Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",07:00 - 21:20,0 - 0
+587,Camry Quán - Mì Cay & Ăn Vặt - Trần Đại Nghĩa,"304 Trần Đại Nghĩa, P. Hòa Hải, Quận Ngũ Hành Sơn, Đà Nẵng",10:00 - 23:59,0 - 0
+588,Bún Đậu 68 - 41 Cách Mạng Tháng Tám,"41 Cách Mạng Tháng Tám, P. Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",10:00 - 22:20,12.000 - 80.000
+589,SaSin - Mì Cay 7 Cấp Độ Hàn Quốc - Nguyễn Văn Linh,"315 Nguyễn Văn Linh, P. Thạc Gián, Quận Thanh Khê, Đà Nẵng",10:00 - 22:45,30.000 - 40.000
+590,,,,
+591,SAN Korean Food - Món Ăn Hàn Quốc - 104 Châu Thị Vĩnh Tế,"104 Châu Thị Vĩnh Tế, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",09:30 - 22:30,0 - 0
+592,Bún Đậu Mắm Tôm - Bếp Tiên,"278 Tô Hiến Thành, Quận Sơn Trà, Đà Nẵng",09:30 - 22:50,25.000 - 40.000
+593,NiTo House - Quán Ăn Hàn Quốc - An Thượng,"19 An Thượng 5, P. Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng",11:00 - 20:00,10.000 - 300.000
+594,Duyên - Cơm Gà Xối Mỡ - Núi Thành,"544 Núi Thành, P. Hòa Cường Nam, Quận Hải Châu, Đà Nẵng",09:51 - 21:00,25.000 - 45.000
+595,"Dâu - Súp Thập Cẩm, Bánh Canh Cua Sài Gòn","K09/16 Lạc Long Quân, P. Hoà Khánh Bắc, Quận Liên Chiểu, Đà Nẵng",00:00 - 23:59,20.000 - 50.000
+596,IVO Deli Pizza & Burger - K10/9 Hoàng Văn Thụ,"K10/9 Hoàng Văn Thụ, Quận Hải Châu, Đà Nẵng",07:30 - 20:00,39.000 - 209.000
+597,Bánh Căn Hẻm - Bún Mắm - Kiệt 8 Hoàng Diệu,"K338/66 Hoàng Diệu, P. Bình Hiên, Quận Hải Châu, Đà Nẵng",14:00 - 21:00,0 - 0
+598,Tré Bà Sáu - Hạt Dinh Dưỡng & Ăn Vặt,"K123/96/24 Cù Chính Lan, P. Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",07:00 - 21:30,0 - 0
+599,Bánh Xèo Thanh Hưng - Đường 2 Tháng 9,"7 Đường 2 Tháng 9, P. Hoà Cường Nam, Quận Hải Châu, Đà Nẵng",10:00 - 23:59,5.000 - 25.000
+600,Tiệm Ốm - Nước Ép & Cafe,"175 Huy Cận, P. Hoà Cường Nam, Quận Hải Châu, Đà Nẵng",07:00 - 21:30,15.000 - 50.000
+601,Trà Tắc Chị Thục - 89E Thiên Lôi,"89E Thiên Lôi, P. Nghĩa Xá, Quận Lê Chân, Hải Phòng",07:00 - 22:00,8.000 - 15.000
+602,Phúc Long 83 Trần Phú,"83 Trần Phú, P. Lương Khánh Thiện, Quận Ngô Quyền, Hải Phòng",09:00 - 21:30,30.000 - 100.000
+603,Tiệm Nhà - Matcha & More - Shop Online,"2 Ngõ 89 Hàng Kênh, P. Hàng Kênh, Quận Lê Chân, Hải Phòng",05:45 - 22:00,0 - 0
+604,,,,
+605,,,,
+606,Cân Taiwanese Street Hotpot - Lẩu Đài Loan - Aeon Mall,"10 Võ Nguyên Giáp, Phường Kênh Dương, Quận Lê Chân, Hải Phòng",11:00 - 21:00,0 - 0
+607,Ăn Vặt KoKo,"99 Hạ Đoạn 2, P. Đông Hải 2, Quận Hải An, Hải Phòng",00:00 - 02:00 | 10:00 - 23:59,0 - 0
+608,,,,
+609,Ốc Thương - Lê Lợi,"Đầu ngõ 269 Lê Lợi, P. Lê Lợi, Quận Ngô Quyền, Hải Phòng",14:00 - 22:00,50.000 - 100.000
+610,Như Ngọc - Cháo Dinh Dưỡng,"19 Dư Hàng, P. Dư Hàng, Quận Lê Chân, Hải Phòng",06:00 - 20:00,10.000 - 20.000
+611,Tré Trộn Dzô Food - 2A Võ Thị Sáu,"Số 2A Võ Thị Sáu, Quận Ngô Quyền, Hải Phòng",10:30 - 13:00 | 14:00 - 20:00,0 - 0
+612,,,,
+613,Nem Hải Yến - Chu Văn An,"72 Chu Văn An, P. Lê Lợi, Quận Ngô Quyền, Hải Phòng",14:30 - 22:20,20.000 - 50.000
+614,Béo - Vịt Quay - 44 Văn Cao,"44 Văn Cao, P. Đổng Quốc Bình, Quận Ngô Quyền, Hải Phòng",16:16 - 21:00,0 - 0
+615,,,,
+616,Thắng Hạnh - Vịt Quay Lạng Sơn & Thịt Xiên Nướng,"3 Tô Vũ, P. Đằng Lâm, Quận Hải An, Hải Phòng",08:00 - 11:30 | 16:00 - 21:00,40.000 - 240.000
+617,"Đào Tạo Pha Chế Pepper - Trà Sữa, Trà Trái Cây, Cà Phê - An Đà","14/11/202 An Đà, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng",00:00 - 23:59,0 - 0
+618,Cơm Tấm Sài Gòn - Đinh Tiên Hoàng,"2 Đinh Tiên Hoàng, P. Minh Khai, Quận Hồng Bàng, Hải Phòng",10:30 - 22:30,25.000 - 50.000
+619,Bánh Mì Sài Gòn Quang Thắng - 45 Cát Bi,"45 Cát Bi, P. Cát Bi, Quận Hải An, Hải Phòng",06:00 - 23:00,0 - 0
+620,Hỏa Lò Ký - Chân Gà Nướng & Cánh Gà Nướng - 246 Đà Nẵng,"246 Đà Nẵng (Đối Diện 273 Đà Nẵng), P. Cầu Tre, Quận Ngô Quyền, Hải Phòng",15:30 - 23:00,0 - 0
+621,Đồ Nướng Xiên Que Trung Hoa - 458 Hoàng Minh Thào,"458 Hoàng Minh Thảo, P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng",17:00 - 23:00,0 - 0
+622,Xôi Xéooo Thiên Lôi - Xôi - 870 Thiên Lôi,"870 Phố Thiên Lôi, P. Kênh Dương, Quận Ngô Quyền, Hải Phòng",06:00 - 19:30,0 - 0
+623,,,,
+624,SCOVI Coffee & Tea,"415 Cát Bi, Quận Hải An, Hải Phòng",06:30 - 22:30,0 - 0
+625,,,,
+626,Tiệm Bánh Cát Lộc - Bánh Kem & Bánh Sinh Nhật,"414 Miếu Hai Xã, P. Dư Hàng Kênh, Quận Lê Chân, Hải Phòng",09:00 - 21:00,10.000 - 30.000
+627,,,,
+628,Bánh Tráng Trộn Cô Miêu - Lê Quang Đạo,"6L2 Lê Quang Đạo, P. Đằng Giang, Quận Ngô Quyền, Hải Phòng",10:30 - 20:30,0 - 0
+629,The Kimbap - Little Korean Home Made - 3 Minh Khai,"3 Minh Khai, P. Minh Khai, Quận Hồng Bàng, Hải Phòng",10:30 - 13:30 | 17:00 - 20:30,0 - 0
+630,YORI CHICKEN - Gà Rán & Đồ Ăn Hàn Quốc,"9/136 Nguyễn Đức Cảnh, P. Cát Dài, Quận Lê Chân, Hải Phòng",10:30 - 13:00 | 17:30 - 21:00,0 - 0
+631,Trà Sữa Mixue - Hai Bà Trưng,"142 Hai Bà Trưng, P. Tân An, Quận Ninh Kiều, Cần Thơ",10:00 - 21:30,15.000 - 30.000
+632,,,,
+633,,,,
+634,Cơm Gà Lê Dũng 2,"63 Xô Viết Nghệ Tĩnh, P. Ta, Quận Ninh Kiều, Cần Thơ",10:00 - 20:00,5.000 - 130.000
+635,Bánh Mì Xôi Mặn Kim Ngân - Đồ Ăn - Nguyễn Văn Cừ Nối Dài,"369A Tổ 1, Nguyễn Văn Cừ Nối Dài, KV. 4, P. An Khánh, Quận Ninh Kiều, Cần Thơ",00:00 - 23:59,0 - 0
+636,Cơm Tấm Phương Nhi (Cây Khế),"65 Bờ Kè Mậu Thân, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ",05:00 - 20:00,15.000 - 25.000
+637,Lẩu Chay Organic,"405/12, Hẻm 4 - 5 Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ",09:00 - 21:45,30.000 - 200.000
+638,,,,
+639,Milo Đường Đen - Bánh Mì Chảo - Hẻm 51,"11D1 KV3 Hồ Bún Xáng, P. An Khánh , Quận Ninh Kiều, Cần Thơ",06:00 - 23:00,10.000 - 25.000
+640,,,,
+641,Chummi Home - Trà Sữa,"63 Nguyễn Việt Hồng, P. An Phú, Quận Ninh Kiều, Cần Thơ",13:00 - 20:00,10.000 - 20.000
+642,Hủ Tiếu & Bún Riêu Thanh Phong,"377P/9 Trần Nam Phú, P. An Khánh, Quận Ninh Kiều, Cần Thơ",07:00 - 22:00,0 - 0
+643,Tri Thảo - Bún Cá Châu Đốc,"51/12/10 Đường 3/2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ",06:00 - 22:00,17.000 - 32.000
+644,Thiện Phước 1 - Ẩm Thực Chay,"132/26 Đường 3 Tháng 2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ",10:00 - 22:00,25.000 - 100.000
+645,Bánh Mì Nướng Muối Ớt Cô Huệ (Mỹ Duyên) - Nguyễn Văn Cừ Nối Dài,"Đầu Hẻm 388, 388P Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ",14:00 - 22:50,25.000 - 25.000
+646,,,,
+647,Tiệm Chân Gà MiNie - Chân Gà Sốt Thái - Hẻm 51 Đường 3/2,"Số 55 Hẻm 51 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ",00:00 - 23:59,0 - 0
+648,Cơm Gà Huỳnh Châu,"155 Ngô Thì Nhậm, P. An Khánh, Quận Ninh Kiều, Cần Thơ",08:30 - 19:00,10.000 - 165.000
+649,Mr. Bò - Lẩu Bò Sa Tế,"Hẻm 51/47/3 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ",15:00 - 21:20,5.000 - 199.000
+650,,,,
+651,,,,
+652,Trà Sữa ACE,"20/2 Hồ Bún Xáng, P. An Khánh, Quận Ninh Kiều, Cần Thơ",10:00 - 21:55,17.000 - 23.000
+653,Bún Mắm Trái Ớt - Nét Quê - Ngô Sĩ Liên,"25 Ngô Sĩ Liên, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ",06:10 - 20:45,0 - 0
+654,,,,
+655,Diệp MaMa - Cá Viên Chiên Nước Mắm - Đường A3,"1-3 Đường A3 KDC 91B, P. An Khánh, Quận Ninh Kiều, Cần Thơ",17:00 - 23:59,5.000 - 60.000
+656,Don Chicken - Nhà Hàng Gà Nướng Hàn Quốc - Trần Văn Khéo,"42 Trần Văn Khéo, P. Cái Khế, Quận Ninh Kiều, Cần Thơ",10:00 - 21:30,50.000 - 300.000
+657,Trà Tiên Hưởng - 10 Mậu Thân,"10 Mậu Thân, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ",08:15 - 22:30,5.000 - 64.000
+658,,,,
+659,Hủ Tiếu Sa Đéc 1979,"337 Nguyễn Văn Linh, P. An Khánh, Quận Ninh Kiều, Cần Thơ",06:00 - 22:00,0 - 0
+660,Ăn Vặt Chộn Lộn Xộn - CN NGUYỄN VĂN CỪ NỐI DÀI,"LK1-32 Đường Xuân Hồng, Nguyễn Văn Cừ Nối Dài, P. An Bình, Quận Ninh Kiều, Cần Thơ",10:30 - 21:30,0 - 0
+661,,,,
+662,,,,
+663,,,,
+664,Cơm Tấm Hương,"2/115F Mậu Thân, P. An Hoà, Quận Ninh Kiều, Cần Thơ",,10.000 - 40.000
+665,QUỲNH QUỲNH - Ăn Vặt & Cà Phê - Số E41 Vũ Đình Liệu,"E41 Đường Vũ Đình Liệu, P. Hưng Thạnh, Quận Cái Răng, Cần Thơ",11:00 - 23:00,0 - 0
+666,,,,
+667,Tiệm Trà Nhà Bông - Trà Sữa & Mì Trộn Indomie - Hoàng Quốc Việt,"228/6 Hoàng Quốc Việt, P. An Bình, Quận Ninh Kiều, Cần Thơ",08:00 - 21:15,18.000 - 25.000
+668,Cơm Gà Lê Trang - Đường 3 Tháng 2,"55 Đường 3 Tháng 2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ",08:30 - 21:30,25.000 - 35.000
+669,Gỏi Cuốn Quán Chú Năm,"Góc Đường Số 1 Và Đường Phạm Sơn Khai, Khu Giảng Viên ĐHCT, P. An Khánh, Quận Ninh Kiều, Cần Thơ",10:00 - 21:00,0 - 0
+670,,,,
+671,Quán SinVi - Lẩu & Ăn Vặt,"63 Đường Chu Văn An, P. An Khánh, Quận Ninh Kiều, Cần Thơ",10:00 - 23:59,20.000 - 179.000
+672,Cơm Chay Diệu An,"218/24 Trần Hưng Đạo, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ",06:00 - 20:00,0 - 0
+673,,,,
+674,Mì Cay GangNam- Hẻm 44 Võ Trường Toản,"B15 - T82 Nguyễn Văn Cừ, P. An Hoà, Quận Ninh Kiều, Cần Thơ",10:00 - 21:30,20.000 - 40.000
+675,Quán Chay NHẤT TÂM - Tiệm Ăn Chay - Nguyễn Văn Cừ Nối Dài,"324/10 Nguyễn Văn Cừ Nối Dài, P. An Bình, Quận Ninh Kiều, Cần Thơ",06:00 - 21:30,0 - 0
+676,Gà Rán Sốt Cay Phô Mai - Tuyết Phạm - Hẻm 12 Đường 3 Tháng 2,"12/17/1C Đường 3/2, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ",08:00 - 23:59,0 - 0
+677,,,,
+678,Cơm Nhà Mình - Cơm Trưa & Hamburger,"15A Đường 3 Tháng 2, P. An Phú, Quận Ninh Kiều, Cần Thơ",07:30 - 21:25,25.000 - 39.000
+679,Mỳ Trộn M.Y.O,"15A Đường 3 Tháng 2, P. An Phú, Quận Ninh Kiều, Cần Thơ",07:30 - 21:25,18.000 - 27.000
+680,Cơm Thịt Heo Chiên Xù Tươi Ngon 100% - DINFU FOOD - Đường 30/4,"572 Đường 30 Tháng 4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ",07:30 - 22:00,0 - 0
+681,XINGFOOD - Cơm Salad & Nước Ép Healthy - Nguyễn Văn Cừ,"388F15D Nguyễn Văn Cừ, KV2, P. An Khánh, Quận Ninh Kiều, Cần Thơ",07:50 - 21:00,10.000 - 50.000
+682,Cơm Tấm Cây Sung ( Cũ ) - Cơm Gà Ta - Phan Đình Phùng,"112 Phan Đình Phùng, P. Tân An, Quận Ninh Kiều, Cần Thơ",06:00 - 20:30,0 - 0
+683,Rubi - Bánh Mì Chảo Đà Lạt & Mỳ Ý - Lý Tự Trọng Cần Thơ,"1/11F Đường Lý Tự Trọng, P. An Phú, Quận Ninh Kiều, Cần Thơ",07:30 - 13:00 | 13:07 - 19:00,0 - 0
+684,,,,
+686,,,,
+687,,,,
+688,,,,
+689,,,,
+690,,,15:00 - 23:59,15.000 - 300.000
+691,,,,
+692,,,,
+693,Quán Cơm Thuận Phát - Mậu Thân,"116A Mậu Thân, P. An Hòa, Quận Ninh Kiều, Cần Thơ",09:30 - 18:00,10.000 - 25.000
+694,Cơm Heo Quay Nguyên Khang,"150 Nguyễn Trãi, P. Tân An, Quận Ninh Kiều, Cần Thơ",08:30 - 19:40,25.000 - 60.000
+695,PuKa - Sinh Tố & Nước Ép Trái Cây,"Số 49/7 Trần Hoàng Na, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ",00:00 - 04:00 | 09:00 - 23:59,0 - 0
+696,"Quán Nhà Bông - Bánh Canh, Cơm & Bún Riêu","19C Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ",07:30 - 21:00,0 - 0
+697,,,,
+698,Ăn Vặt Bà Mười 68 - KDC An Khánh,"82 Đường Số 6, KDC An Khánh, P. An Khánh, Quận Ninh Kiều, Cần Thơ",09:00 - 21:00,1.000 - 55.000
+699,Thảo Nhi - Quán Cơm Tấm,"123/186 Châu Văn Liêm, P. Tân An, Quận Ninh Kiều, Cần Thơ",09:00 - 23:00,10.000 - 15.000
+700,"ReViet Juice - Nước Ép, Sinh Tố & Detox - Nguyễn Văn Cừ","21 Nguyễn Văn Cừ, P. An Hòa, Quận Ninh Kiều, Cần Thơ",08:00 - 22:00,0 - 0
+701,,,,
+702,,,,
+703,NGÔ GIA - Bánh Hỏi Heo Quay Và Cơm,"192/32/5 Phan Đình Phùng, P. Tân An, Quận Ninh Kiều, Cần Thơ",09:30 - 20:00,15.000 - 40.000
+704,,,,
+705,TIỆM NHÀ MƯA - 121 Nguyễn Văn Cừ Nối Dài,"121 Nguyễn Văn Cừ Nối Dài, P. An Bình, Quận Ninh Kiều, Cần Thơ",00:00 - 23:59,0 - 0
+706,Bánh Tráng Thảo Mèo - Ăn Vặt - Nguyễn Văn Cừ Nối Dài,"929 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ",10:00 - 23:30,0 - 0
+707,Café Ken Le - Cafe Sữa Bọt,"84 Lý Tự Trọng, P. An Cư, Quận Ninh Kiều, Cần Thơ",06:40 - 21:45,12.000 - 28.000
+708,,,,
+709,Diệp Thị Food Cơm Gà Sốt & Cơm Bò Xào - Trần Nam Phú,"381i Trần Nam Phú, P. An Khánh, Quận Ninh Kiều, Cần Thơ",09:00 - 21:00,12.000 - 32.000
+710,,,,
+711,,,,15.000 - 30.000
+712,,"28 Nguyễn Ngọc Bích, P. Hưng Phú, Quận Cái Răng, Cần Thơ",,0 - 0
+713,Lẩu Chay Chế Út,"20 Nguyễn Tri Phương, P. An Khánh, Quận Ninh Kiều, Cần Thơ",06:31 - 21:20,49.000 - 99.000
+714,Trà Sữa Phúc Tea - Trần Hưng Đạo,"200 Trần Hưng Đạo, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ",07:30 - 21:30,26.000 - 42.000
+715,"Ăn Vặt Nhà Thu - Chân Gà Sốt Thái, Cá Viên Chiên Thập Cẩm & Bánh Bạch Tuộc - Trần Hưng Đạo","70/24 Trần Hưng Đạo, An Nghiệp, Quận Ninh Kiều, Cần Thơ",00:00 - 03:00 | 10:00 - 23:59,0 - 0
+716,,,,
+717,Cơm Nhà Cô Ba - Chi Nhánh 2 - Mạc Thiên Tích,"108/49/94A Đường 30 Tháng 4, P.An Phú, Quận Ninh Kiều, Cần Thơ",08:30 - 18:00,0 - 0
+718,GOLD SUSHI - SUSHI SASHIMI,"19-19B Mậu Thân, P. Thới Bình, Quận Ninh Kiều, Cần Thơ",10:00 - 22:00,0 - 0
+719,,,,
+720,,,,
+721,Kami Tea - Trà Sữa & Trà Trái Cây - Mạc Thiên Tích,"6/66 Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ",09:00 - 22:00,25.000 - 29.000
+722,Tacos Pháp & Chè Ngon - Cô Ngân & Trần Gia - Mậu Thân,"39 Mậu Thân, P. An Hòa, Quận Ninh Kiều, Cần Thơ",09:15 - 23:25,0 - 0
+723,Cơm 2 My,"390N Trần Nam Phú, P. An Khánh, Quận Ninh Kiều, Cần Thơ",08:30 - 20:00,0 - 0
+724,"DannyGreen - Trà Sữa, Trà Trái Cây & Nước Ép Organic - Hoàng Văn Thụ","Số 5 Đường Hoàng Văn Thụ, P. Tân An, Quận Ninh Kiều, Cần Thơ",07:00 - 20:30,0 - 0
+725,KATINAT - Cần Thơ,"119 Trần Văn Khéo, P. Cái Khế, Quận Ninh Kiều, Cần Thơ",07:00 - 22:00,30.000 - 100.000
+726,Trà Sữa Maycha - 15C Mậu Thân,"15C Mậu Thân, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ",09:00 - 22:30,0 - 0
+823,,"459/16A Trương Công Định, P. 7, Tp. Vũng Tàu, Vũng Tàu",08:00 - 23:00,28.000 - 89.000
+824,Chikin House - Mì Trộn & Trà Trái Cây - 52 Lương Văn Can,"52 Lương Văn Can, P. 2, Tp. Vũng Tàu, Vũng Tàu",08:05 - 21:30,40.000 - 45.000
+825,,,,
+826,Bánh Cuốn Nóng Lá Chuối Quán - Nguyễn Văn Trỗi,"203 Nguyễn Văn Trỗi, P. 4, Tp. Vũng Tàu, Vũng Tàu",05:15 - 19:57,10.000 - 40.000
+827,,,,
+828,Hachi - Mì Trộn - 512 Thống Nhất Mới,"512 Thống Nhất Mới, P. 8, Tp. Vũng Tàu, Vũng Tàu",07:30 - 22:30,0 - 0
+829,Chè A Phánh,"41 Nguyễn Văn Trỗi, P. 4, Tp. Vũng Tàu, Vũng Tàu",11:00 - 22:00,0 - 0
+830,,,,
+831,Two F - 6 Ba Cu,"06 Ba Cu, P. 3, Tp. Vũng Tàu, Vũng Tàu",08:00 - 22:00,0 - 0
+832,,,,
+833,Trà Sữa Pinky (Nọng 30/4 Cũ),"557 Đường 30/4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu",08:00 - 22:00,0 - 0
+834,TeaBap - Tea & Milktea,"4H Tôn Thất Tùng, P. 7, Tp. Vũng Tàu, Vũng Tàu",09:30 - 20:45,19.000 - 40.000
+835,"Ry House Oppa - Cơm Gà, Mì Trộn & Ăn Vặt Hàn Quốc","128 Đồ Chiểu, P. 1, Tp. Vũng Tàu, Vũng Tàu",10:00 - 21:00,0 - 0
+836,Trà Sữa Thanh Nhi TANILA- 412/10C Trương Công Định,"412/10C Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu",06:00 - 23:30,0 - 0
+837,Takoyaki Đông Foods - 4A Chu Mạnh Trinh,"4A Chu Mạnh Trinh, P. 8, Tp. Vũng Tàu, Vũng Tàu",00:00 - 00:01 | 14:00 - 23:59,0 - 0
+838,,,,
+839,"Bếp Ông Già - Cơm Gà Xá Xíu, Mì Xá Xíu & REI Matcha","105/118B Lê Lợi, P. Thắng Nhì, Tp. Vũng Tàu, Vũng Tàu",07:00 - 20:00,0 - 0
+840,Bánh Mì Maika - Hội An 1982 - 41 Trần Hưng Đạo,"41 Trần Hưng Đạo, P. 1, Tp. Vũng Tàu, Vũng Tàu",06:00 - 20:00,0 - 0
+841,Sweet Dango - Bánh Nếp Nhật Xiên Que - Vũng Tàu,"118 Bà Triệu, P. 4, Tp. Vũng Tàu, Vũng Tàu",16:30 - 19:30,0 - 0
+842,,,,
+843,Maythai - Milk Tea - 239 Ba Cu,"239 Ba Cu, Tp. Vũng Tàu, Vũng Tàu",09:00 - 23:00,0 - 0
+844,Chon Chon Cake Shop,"02 Trần Đồng, P. 2, Tp. Vũng Tàu, Vũng Tàu",07:00 - 20:45,50.000 - 300.000
+845,"Chân Gà Sốt Thái, Mì Trộn & Cơm Gà 24H - Đô Lương","65/18 Đô Lương P. 11, Tp. Vũng Tàu, Vũng Tàu",00:00 - 23:59,0 - 0
+846,Sữa Chua Trân Châu Hạ Long - Nguyễn Thái Học,"103 Nguyễn Thái Học, P. 7, Tp. Vũng Tàu, Vũng Tàu",08:00 - 21:45,15.000 - 30.000
+847,Trà Dâu Mr. Đỏ - 152/9 Ba Cu,"152/9 Ba Cu, P. 3, Tp. Vũng Tàu, Vũng Tàu",08:30 - 21:30,20.000 - 40.000
+848,TH true mart - Lê Hồng Phong - 70000324,"292 Lê Hồng Phong, P. 4, Tp. Vũng Tàu, Vũng Tàu",08:00 - 20:00,50.000 - 500.000
+849,"Highlands Coffee - Trà, Cà Phê & Bánh - Tân Hoàng Mão VT","1215C - 1215D Bạch Đằng, P. Phước Trung, Tp. Bà Rịa, Vũng Tàu",07:00 - 21:30,9.000 - 65.000
+850,Gà Rán & Burger Lotteria - Võ Thị Sáu,"149 Võ Thị Sáu, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu",08:00 - 22:52,40.000 - 80.000
+851,Pizza Hut - Đường 30 Tháng 4,"455 Đường 30 Tháng 4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu",10:00 - 21:00,100.000 - 300.000
+852,KATINAT - Trần Phú (Vũng Tàu),"1 Trần Phú, P. 1, Tp. Vũng Tàu, Vũng Tàu",07:00 - 22:00,0 - 0
+853,Phúc Long 76 Trần Hưng Đạo,"76 Trần Hưng Đạo, P. 1, Tp. Vũng Tàu, Vũng Tàu",07:30 - 22:00,30.000 - 100.000
+854,Domino’s Pizza - LOTTE Mart (Vũng Tàu),"1F - 09 Tầng 1 Tại LOTTE Mart Vũng Tàu, Góc Đường 3 Tháng 2 Và Đường Thi Sách, P. 8, Tp. Vũng Tàu, Vũng Tàu",09:30 - 21:30,0 - 0
+855,"Carrot Coffee, Matcha & Mì Trộn INKORE","479/29A Trương Công Định, P. 7, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+856,"Nhung’s Kitchen - Cá Viên Chiên, Mì Trộn & Ăn Vặt","86/15 Hải Thượng Lãn Ông, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+857,La Famille - Mì Ý & Salad - Khu Khang Linh,"LK1-15 Hàng Điều 5, Khu Khang Linh, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+858,La Cà - Cold Brew Coffee & Tea - B45/846 Bình Giã,"B45/846 Bình Giã, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+859,"ĂN VẶT - PIZZA, MÌ Ý & MÌ TRỘN INDOMIE - Bình Giã","752/12/1 Bình Giã, P. 10, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+860,JAPAN HÍ - Cơm Ngon Nhật Bản - Vũng Tàu,"780/8/52/7D Bình Giã, P. 10, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+861,Cơm Tấm Sườn Cây - Cơm Tấm Sườn - Nguyễn Thái Học,"107 Nguyễn Thái Học, P. 7, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+862,,,,
+863,Thanh Long - Bánh Canh Cá Lóc & Đặc Sản Hải Lăng - Đường 30 Tháng 4,"1172/11 Đường 30 Tháng 4, P. 12, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+864,Cơm Niêu 55 - Thuỳ Vân,"151 Thuỳ Vân, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu",,20.000 - 2.000.000
+865,Hương Cảng Quán - Bún Cá Cay Hải Phòng - 44 Hoàng Văn Thụ,"44 Hoàng Văn Thụ, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+866,,,,
+867,Bún Thịt Nướng Chả Giò - Hà Huy Tập,"22/20 Hà Huy Tập, P. Phước Nguyên, Tp. Bà Rịa, Vũng Tàu",,0 - 0
+868,Ăn Vặt 24/7 - Đồ Ăn Vặt Các Loại - 107/2/10A Bình Giã,"107/2/10A Bình Giã, P. 8, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+869,,,,
+870,Bún Mắm Nêm - Bà Thơ - Bà Triệu,"42 Bà Triệu, P. 1, Tp. Vũng Tàu, Vũng Tàu",,20.000 - 1.000.000
+871,Bánh Cuốn & Bún Thịt Nướng Miền Nam - Cô Phương - Nguyễn An Ninh,"656 Nguyễn An Ninh, P. 8, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+872,"MaMa Bảy - Milk Tea, Trà Trái Cây & Matcha Latte - Nơ Trang Long","1 Nơ Trang Long, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+873,Gong Cha - Trà & Cà Phê - Trần Phú,"10 Trần Phú, P. 1, Tp. Vũng Tàu, Vũng Tàu",,30.000 - 80.000
+874,Phúc Long Nguyễn Hữu Cảnh,"09 Nguyễn Hữu Cảnh, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu",,35.000 - 75.000
+875,Trà sữa Mixue - Số 360 Lê Hồng Phong,"Số 360 Lê Hồng Phong, P. 3, Tp. Vũng Tàu, Vũng Tàu",08:00 - 23:59,15.000 - 35.000
+876,The Pizza Company - 147 Võ Thị Sáu,"147 Võ Thị Sáu, P. 2, Tp. Vũng Tàu, Vũng Tàu",09:50 - 21:30,36.000 - 449.000
+877,"Phê La - Trà & Cà Phê Đặc Sản - Lê Lợi, Vũng Tàu","02 Lê Lợi, P. 1, Tp. Vũng Tàu, Vũng Tàu",08:00 - 22:30,0 - 0
+878,,,06:00 - 21:45,0 - 0
+879,Rodstarz - Bún Thái & Mì Trộn Lão Quý - 71 Trương Công Định,"71 Trương Công Định, P. 3, Tp. Vũng Tàu, Vũng Tàu",06:20 - 21:45,40.000 - 135.000
+880,,,,
+881,Mộc Garden - Coffee & Tea,"36 Võ Nguyên Giáp, P. 12, Tp. Vũng Tàu, Vũng Tàu",06:00 - 22:00,0 - 0
+882,Tiệm Phê Trà 1992,"58 Nguyễn Văn Trỗi, P. 4, Tp. Vũng Tàu, Vũng Tàu",07:00 - 22:00,0 - 0
+883,Trà Sữa Hàn Quốc ChinChin - Trung Tâm Đô Thị Chí Linh,"A7-7/3 Trung Tâm Đô Thị Chí Linh, P. Nguyễn An Ninh, Tp. Vũng Tàu, Vũng Tàu",06:30 - 21:00,0 - 0
+884,Chè Hiệp,"167 Ba Cu, P. 4, Tp. Vũng Tàu, Vũng Tàu",08:00 - 21:30,8.000 - 20.000
+885,,,,
+886,Hoành Thánh Lá - A Día,"122 Yên Bái, P. 4, Tp. Vũng Tàu, Vũng Tàu",06:30 - 20:00,0 - 0
+887,,,09:30 - 21:30,0 - 0
+888,Trà Dâu Hồng Phát - Ba Cu,"2E Ba Cu, P. 1, Tp. Vũng Tàu, Vũng Tàu",08:30 - 21:30,15.000 - 30.000
+889,,,,
+890,,,,
+891,Cơm Tấm Phúc Lộc Thọ - Trương Công Định,"296 Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu",06:30 - 21:00,0 - 0
+892,,,,
+893,Cá Viên Chiên Ba Cu,"167/1 Ba Cu, P. 4, Tp. Vũng Tàu, Vũng Tàu",10:00 - 21:55,7.000 - 15.000
+894,,,,
+895,Mì Cay ChiChiCo - Rạch Dừa,"611 Đường 30/4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu",08:00 - 22:00,0 - 0
+896,,,,
+897,Trà Sữa HongKong Baley - Đường 30 Tháng 4,"619 Đường 30/4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu",08:30 - 22:15,10.000 - 60.000
+898,,,,
+899,Coca House - Ăn Vặt Online,"14/5 Nguyễn Trường Tộ, P. 2, Tp. Vũng Tàu, Vũng Tàu",00:00 - 23:59,20.000 - 40.000
+900,,,,
+901,Vina Baby - Cháo Dinh Dưỡng - 30 Tháng 4,"927 Đường 30 Tháng 4, P. 11, Tp. Vũng Tàu, Vũng Tàu",06:00 - 19:00,10.000 - 20.000
+902,"Bé Bự Food - Mì Ý, Mì Hàn Quốc & Bánh Gạo","11 Phan Đăng Lưu, P. 3, Tp. Vũng Tàu, Vũng Tàu",11:00 - 21:00,0 - 0
+903,"ReViet Juice - Nước Ép, Sinh Tố & Detox - Nguyễn An Ninh","319 Nguyễn An Ninh, P. 9, Tp. Vũng Tàu, Vũng Tàu",08:00 - 22:00,0 - 0
+904,Tiệm Trà Yên - 66A Đường 30/4,"66A Đường 30/4, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu",08:30 - 22:00,0 - 0
+905,,,,
+906,Trà Sữa Hoàng Kim - Đường 30/4,"256 Đường 30/4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu",09:30 - 21:30,0 - 0
+907,CƠM TẤM MAI - 512 Trương Công Định,"512 Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu",05:45 - 20:40,0 - 0
+908,,,,
+909,Nhật Phát - Cơm Gà Xối Mỡ - Hoàng Hoa Thám,"69 Hoàng Hoa Thám, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu",07:30 - 23:59,20.000 - 50.000
+910,,,,
+911,,,,
+912,,,,
+913,,,,
+914,,,,
+915,,,,
+916,,,,
+917,,,,
+918,,,,
+919,,,,
+920,,,,
+921,,,,
+922,,,,
+923,Trà Sữa Nhà Làm - 07 Lê Lợi,"07 Lê Lợi, P.1, Tp. Vũng Tàu, Vũng Tàu",09:00 - 21:00,0 - 0
+924,,,,
+925,,,,
+926,MOCHI MĂM MĂM - Thống Nhất Mới,"272 Thống Nhất Mới, Tp. Vũng Tàu, Vũng Tàu",00:00 - 03:00 | 08:00 - 23:59,0 - 0
+927,,,,
+928,Đặc Sản Cháo Bồ Câu Vũng Tàu - 18 Đồ Chiểu,"18 Đồ Chiểu, P. 1, Tp. Vũng Tàu, Vũng Tàu",15:30 - 22:00,0 - 0
+929,Trà Sữa Nọng - Lê Lai,"72 Lê Lai, P.3, Tp. Vũng Tàu, Vũng Tàu",08:00 - 23:30,15.000 - 100.000
+930,"Cơm Tấm, Bún Thịt Nướng & Cơm Văn Phòng - Quán Ăn Ngon Miệng","35D1 Đường 30/4, P. 9, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+931,Bánh Tráng Tây Ninh - Cô Ba,"79B Lê Lai, P. 1, Tp. Vũng Tàu, Vũng Tàu",11:29 - 23:29,20.000 - 1.000.000
+932,,,,
+933,Mì Bò Cay Tứ Xuyên - Tài,"28B Hoàng Hoa Thám, P. 2, Tp. Vũng Tàu, Vũng Tàu",00:00 - 23:59,0 - 0
+934,,,,
+935,Cơm Gà Xối Mỡ Nam An - Nguyễn Bỉnh Khiêm,"73/2 Nguyễn Bỉnh Khiêm, P. 3, Tp. Vũng Tàu, Vũng Tàu",08:30 - 21:00,0 - 0
+936,Cơm - Gà Ta Số 3,"330A Lê Hồng Phong, P. 3, Tp. Vũng Tàu, Vũng Tàu",09:00 - 21:00,0 - 0
+937,,,,
+938,Ăn Vặt Vũng Tàu - Thống Nhất Mới,"293 Thống Nhất Mới, P. 8, Tp. Vũng Tàu, Vũng Tàu",00:00 - 02:00 | 09:00 - 23:59,0 - 0
+939,,,,
+940,Mây Food - Mì Cay & Chân Gà Sốt Thái,"780/11/4A Bình Giã, P. 11, Tp. Vũng Tàu, Vũng Tàu",08:00 - 23:59,0 - 0
+941,Bánh Canh Cá Lóc Bà Quàng,"45-47 Hoàng Văn Thụ, P. 7, Tp. Vũng Tàu, Vũng Tàu",06:00 - 13:00 | 16:00 - 20:00,0 - 0
+942,Sushi Delivery - Takoyaki - Mạc Đĩnh Chi,"136/2 Mạc Đĩnh Chi, P. 4, Tp. Vũng Tàu, Vũng Tàu",,25.000 - 45.000
+943,"Chòn Healthy - Food, Cake & Juice Detox - Thống Nhất","39/29A Thống Nhất, P. 3, Tp. Vũng Tàu, Vũng Tàu",08:30 - 20:00,0 - 0
+944,Bảo Bảo Nem Chua Rán Nhà Làm & Mì Trộn Indomie,"115/3B Mạc Đĩnh Chi, P. 4, Tp. Vũng Tàu, Vũng Tàu",11:00 - 13:00 | 17:00 - 23:00,0 - 0
+945,,,,
+946,Toco VT,"459/16A Trương Công Định, P. 7, Tp. Vũng Tàu, Vũng Tàu",08:00 - 23:00,28.000 - 89.000
+947,Chikin House - Mì Trộn & Trà Trái Cây - 52 Lương Văn Can,"52 Lương Văn Can, P. 2, Tp. Vũng Tàu, Vũng Tàu",08:05 - 21:30,40.000 - 45.000
+948,,,,
+949,Bánh Cuốn Nóng Lá Chuối Quán - Nguyễn Văn Trỗi,"203 Nguyễn Văn Trỗi, P. 4, Tp. Vũng Tàu, Vũng Tàu",05:15 - 19:57,10.000 - 40.000
+950,Cơm Gà Mắm Tỏi - Phúc An,"74/25B Trương Công Định, P. 3, Tp. Vũng Tàu, Vũng Tàu",10:00 - 23:59,0 - 0
+951,Hachi - Mì Trộn - 512 Thống Nhất Mới,"512 Thống Nhất Mới, P. 8, Tp. Vũng Tàu, Vũng Tàu",07:30 - 22:30,0 - 0
+952,Chè A Phánh,"41 Nguyễn Văn Trỗi, P. 4, Tp. Vũng Tàu, Vũng Tàu",11:00 - 22:00,0 - 0
+953,Cafe MONSTER - Tea & Matcha - Vũng Tàu,"68 Trần Hưng Đạo, Tp. Vũng Tàu, Vũng Tàu",06:30 - 22:00,0 - 0
+954,,,,
+955,"GẠO Tea & Coffee - Trà Sữa, Trà Trái Cây & Cafe - 128/13 Lưu Chí Hiếu","128/13 Lưu Chí Hiếu, P. Thắng Nhất , Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+956,Trà Sữa Pinky (Nọng 30/4 Cũ),"557 Đường 30/4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu",08:00 - 22:00,0 - 0
+960,,,,
+961,,,,
+962,,,,
+963,,,,
+964,,,,
+965,Tiệm Sữa Hạt Sunny,"540 Đường 30/4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu",08:00 - 19:00,0 - 0
+966,"Cá Viên Chiên, Mỳ Trộn & Ăn Vặt - Cô Tuyết - Lưu Chí Hiếu","225/3/4 Lưu Chí Hiếu, Tp. Vũng Tàu, Vũng Tàu",07:01 - 22:30,0 - 0
+967,,,,
+968,,,,
+969,Sweet Dango - Bánh Nếp Nhật Xiên Que - Vũng Tàu,"118 Bà Triệu, P. 4, Tp. Vũng Tàu, Vũng Tàu",16:30 - 19:30,0 - 0
+970,,,,
+971,Maythai - Milk Tea - 239 Ba Cu,"239 Ba Cu, Tp. Vũng Tàu, Vũng Tàu",09:00 - 23:00,0 - 0
+972,Chon Chon Cake Shop,"02 Trần Đồng, P. 2, Tp. Vũng Tàu, Vũng Tàu",07:00 - 20:45,50.000 - 300.000
+973,"Chân Gà Sốt Thái, Mì Trộn & Cơm Gà 24H - Đô Lương","65/18 Đô Lương P. 11, Tp. Vũng Tàu, Vũng Tàu",00:00 - 23:59,0 - 0
+974,,,,
+975,,,,
+976,TH true mart - Lê Hồng Phong - 70000324,"292 Lê Hồng Phong, P. 4, Tp. Vũng Tàu, Vũng Tàu",08:00 - 20:00,50.000 - 500.000
+977,"Highlands Coffee - Trà, Cà Phê & Bánh - Tân Hoàng Mão VT","1215C - 1215D Bạch Đằng, P. Phước Trung, Tp. Bà Rịa, Vũng Tàu",07:00 - 21:30,9.000 - 65.000
+978,,,,
+979,Pizza Hut - Đường 30 Tháng 4,"455 Đường 30 Tháng 4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu",10:00 - 21:00,100.000 - 300.000
+980,KATINAT - Trần Phú (Vũng Tàu),"1 Trần Phú, P. 1, Tp. Vũng Tàu, Vũng Tàu",07:00 - 22:00,0 - 0
+981,Phúc Long 76 Trần Hưng Đạo,"76 Trần Hưng Đạo, P. 1, Tp. Vũng Tàu, Vũng Tàu",07:30 - 22:00,30.000 - 100.000
+982,Domino’s Pizza - LOTTE Mart (Vũng Tàu),"1F - 09 Tầng 1 Tại LOTTE Mart Vũng Tàu, Góc Đường 3 Tháng 2 Và Đường Thi Sách, P. 8, Tp. Vũng Tàu, Vũng Tàu",09:30 - 21:30,0 - 0
+983,"Carrot Coffee, Matcha & Mì Trộn INKORE","479/29A Trương Công Định, P. 7, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+984,,,,
+985,La Famille - Mì Ý & Salad - Khu Khang Linh,"LK1-15 Hàng Điều 5, Khu Khang Linh, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+986,,,,
+987,"ĂN VẶT - PIZZA, MÌ Ý & MÌ TRỘN INDOMIE - Bình Giã","752/12/1 Bình Giã, P. 10, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+988,JAPAN HÍ - Cơm Ngon Nhật Bản - Vũng Tàu,"780/8/52/7D Bình Giã, P. 10, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+989,,,,
+990,,,,
+991,Thanh Long - Bánh Canh Cá Lóc & Đặc Sản Hải Lăng - Đường 30 Tháng 4,"1172/11 Đường 30 Tháng 4, P. 12, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+992,Cơm Niêu 55 - Thuỳ Vân,"151 Thuỳ Vân, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu",,20.000 - 2.000.000
+993,Hương Cảng Quán - Bún Cá Cay Hải Phòng - 44 Hoàng Văn Thụ,"44 Hoàng Văn Thụ, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+994,"KuBen - Cơm Chiên, Miến Xào & Ăn Vặt","151 Thùy Vân, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+995,Bún Thịt Nướng Chả Giò - Hà Huy Tập,"22/20 Hà Huy Tập, P. Phước Nguyên, Tp. Bà Rịa, Vũng Tàu",,0 - 0
+996,Ăn Vặt 24/7 - Đồ Ăn Vặt Các Loại - 107/2/10A Bình Giã,"107/2/10A Bình Giã, P. 8, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+997,,,,
+998,Bún Mắm Nêm - Bà Thơ - Bà Triệu,"42 Bà Triệu, P. 1, Tp. Vũng Tàu, Vũng Tàu",,20.000 - 1.000.000
+999,Hachi - Mì Trộn - Xô Viết Nghệ Tĩnh,"111/26 Xô Viết Nghệ Tĩnh, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+1000,Bánh Cuốn & Bún Thịt Nướng Miền Nam - Cô Phương - Nguyễn An Ninh,"656 Nguyễn An Ninh, P. 8, Tp. Vũng Tàu, Vũng Tàu",,0 - 0
+1001,Gong Cha - Trà & Cà Phê - Trần Phú,"10 Trần Phú, P. 1, Tp. Vũng Tàu, Vũng Tàu",,30.000 - 80.000
+1002,Phúc Long Nguyễn Hữu Cảnh,"09 Nguyễn Hữu Cảnh, P. Thắng Nhất, Tp. Vũng Tàu, Vũng Tàu",,35.000 - 75.000
+1003,,,,
+1004,PhinHolic - Cà Phê & Trà - Bến Nghé,"65 Bến Nghé, P. Phú Hội, Tp. Huế, Huế",07:00 - 21:50,5.000 - 40.000
+1005,,,,
+1006,,,,
+1007,LƯỜI COFFEE & TEA - 33 Nguyễn Huệ,"33 Nguyễn Huệ, P. Vĩnh Ninh, Tp. Huế, Huế",00:00 - 23:59,0 - 0
+1008,A Đây Rồi,"1/11 Hồ Đắc Di, P. An Cựu, Tp. Huế, Huế",00:00 - 05:00 | 17:00 - 23:59,5.000 - 100.000
+1009,,,,
+1010,,,,
+1011,"TaChi - Cafe, Trà & Nước Ép - 32 Lê Phụng Hiểu","32 Lê Phụng Hiểu, P. Đúc, Tp. Huế, Huế",15:00 - 21:00,0 - 0
+1012,,,,
+1013,Tiệm Trà Nại Chá - An Dương Vương,"83 An Dương Vương, P. An Đông, Tp. Huế, Huế",07:15 - 21:40,18.000 - 39.000
+1014,52Hz Coffee & Tea - Nguyễn Thị Thanh,"17 Nguyễn Thị Thanh, P. Phú Thượng, Tp. Huế, Huế",07:00 - 23:00,0 - 0
+1015,,,,
+1016,,,,
+1017,,,,
+1018,,,,
+1019,,,,
+1020,,,,
+1021,,,,
+1022,Cơm Gà A Thiện 2 - Hồ Đắc Di,"83 Hồ Đắc Di, Tp. Huế, Huế",10:00 - 13:30 | 17:00 - 19:30,19.000 - 35.000
+1023,Cơm Chiên Đông Phương - Hồ Đắc Di,"83 Hồ Đắc Di, Tp. Huế, Huế",10:00 - 13:00 | 17:00 - 19:30,6.000 - 100.000
+1024,,,,
+1025,Mỡ Minitea - Nguyễn Chí Thanh,"157 Nguyễn Chí Thanh, P. Phú Hậu, Tp. Huế, Huế",07:00 - 22:30,0 - 0
+1026,,,,
+1027,"Cà Phê Kem Bắp 3T - Cafe Muối & Matcha, Trà Sữa - 166 Phan Bội Châu","166 Phan Bội Châu, P. Phước Vĩnh, Tp. Huế, Huế",07:00 - 22:00,0 - 0
+1028,Gà Rán Kúc Cu - 17 Hồ Đắc Di,"17 Hồ Đắc Di, P. An Cựu, Tp. Huế, Huế",17:00 - 21:00,0 - 0
+1029,Doo Tokbokki - Bà Triệu,"3 Kiệt 116 Bà Triệu, Tổ 4, P. Phú Nhuận, Tp. Huế, Huế",07:30 - 21:00,5.000 - 65.000
+1030,,,,
+1031,,,,
+1032,Alpha Go - Fast Food & More - Nguyễn Huệ,"138 Nguyễn Huệ, P. Phú Nhuận, Tp. Huế, Huế",09:00 - 21:00,7.000 - 15.000
+1033,Ốc Ga,"2 Phan Chu Trinh, Tp. Huế, Huế",16:15 - 22:00,10.000 - 30.000
+1034,"Highlands Coffee - Trà, Cà Phê & Bánh - Thạch Hãn","59 Thạch Hãn, P. Thuận Hoà, Tp. Huế, Huế",07:00 - 22:00,19.000 - 65.000
+1035,Gà Rán & Burger Lotteria - Huế CoopMart,"6 Trần Hưng Đạo, P. Phú Hóa, Tp. Huế, Huế",08:30 - 21:30,30.000 - 88.000
+1036,Pizza Hut - Go Huế,"174 Bà Triệu, P. Phú Nhuận, Tp. Huế, Huế",09:30 - 21:20,50.000 - 500.000
+1037,Texas Chicken - AEON MALL Huế,"Tầng 3, TTTM AEON MALL Huế - Lô TM-DV7, Khu A, Khu Đô Thị An Vân Dương, P. An Đông, Tp. Huế, Huế",10:00 - 21:30,0 - 0
+1038,Gong Cha - Trà & Cà Phê - Huế Plaza,"Gian Hàng Số T1-01 + T1-01T Tầng 01, Huế Plaza, 1 Nguyễn Huệ, P. Thuận Hòa, Tp. Huế, Huế",09:00 - 21:55,0 - 0
+1039,KATINAT - 05 Lê Lợi (Huế),"05 Lê Lợi, P. Vĩnh Ninh, Tp. Huế, Huế",07:00 - 22:00,0 - 0
+1040,Domino’s Pizza - Aeon Mall (Huế),"Lô số T321-b tại Tầng 3, TTTM AEON MALL Huế - Số 8 Đường Võ Nguyên Giáp, P. An Đông, Tp. Huế, Huế",10:00 - 21:45,0 - 0
+1041,,,,
+1042,,,,
+1043,,,,0 - 0
+1044,,,,
+1045,,,,
+1046,,,,
+1047,Trà Sữa Tiger Sugar - Bà Triệu,"3/263 Bà Triệu, P. Phú Hội, Tp. Huế, Huế",,20.000 - 30.000
+1048,Royal Tea - Trà Sữa Trân Châu - Bà Triệu,"3/263 Bà Triệu, P. Phú Hội, Tp. Huế, Huế",,20.000 - 30.000
+1049,,,,
+1050,Bola - Bông Lan Trứng Muối Và Chè Đà Nẵng - Bà Triệu,"3/263 Bà Triệu, P. Phú Hội, Tp. Huế, Huế",,15.000 - 35.000
+1051,,,,
+1052,"Tiệm Ăn Hanki Bbq - Gà Rán, Mỳ Cay & Cơm Trộn","35 Nguyễn Lương Bằng, P. Phú Nhuận, Tp. Huế, Huế",,12.000 - 100.000
+1053,Bánh Tráng Trộn Amy - Nguyễn Tri Phương,"34 Nguyễn Tri Phương, P. Phú Nhuận, Tp. Huế, Huế",,6.000 - 40.000
+1054,,,,
+1055,Mỳ Cọng Lẩu Phố - Bà Triệu,"Sống Platform Huế, Bà Triệu, P. Phú Hội, Tp. Huế, Huế",,7.000 - 45.000
+1056,1976 Cafe - Nguyễn Thị Minh Khai,"23 Nguyễn Thị Minh Khai, P. Phú Nhuận, Tp. Huế, Huế",,10.000 - 30.000
+1057,,,,
+1058,,,,
+1059,Hải Đăng - Cơm Nhà - 53 Tùng Thiện Vương,"53 Tùng Thiện Vương, Tp. Huế, Huế",,0 - 0
+1060,"Cơm Tấm, Cơm Chiên & Trái Cây Cắt Tony - Hồ Đắc Di","Vào 100m Kiệt 93 Hồ Đắc Di, P. An Cựu, Tp. Huế, Huế",,0 - 0
+1061,,,,
+1062,FUBA - Trà & Ăn Vặt - 252 Hùng Vương,"252 Hùng Vương, P. An Cựu, Tp. Huế, Huế",,0 - 0
+1063,Trà Sữa Mixue - D1 Khu Dân Cư Việt Sing,"Đối Diện 35-06 Đường D1 Khu Dân Cư Việt Sing, Đường D1, KDC Việt Sing, P. An Phú, Thuận An, Bình Dương",09:00 - 22:00,0 - 0
+1064,Kem Dairy Queen - Aeon Mall Bình Dương,"Tầng 2, TTTM Aeon Mall Bình Dương, 1 Đại Lộ Bình Dương, P. Thuận Giao, Thuận An, Bình Dương",10:00 - 20:30,9.000 - 80.000
+1065,,,,
+1066,GÀ RÁN KFC - Bến Cát - Mỹ Phước 1,"Thửa Đất Số 448 (Chợ), Khu Công Nghiệp Mỹ Phước 1, P. Thới Hòa, Bến Cát, Bình Dương",09:00 - 22:00,0 - 0
+1067,Trà Sữa Sunday Basic - Võ Thành Long,"19 Võ Thành Long, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương",07:45 - 22:45,12.000 - 27.000
+1068,"Al Fresco's - Pizza, Mỳ Ý, Sườn, Steak Bò Bít Tết - Aeon Mall Bình Dương","G-26, Tầng Trệt AEON MALL Bình Dương,1 Đại Lộ Bình Dương, KP. Bình Giao, P. Thuận Giao, Thuận An, Bình Dương",10:00 - 21:00,150.000 - 300.000
+1069,Trung Tâm Cơm Tấm 2,"897 Đường ĐT743C, Khu Phố Tân Long, P. Tân Đông Hiệp, Dĩ An, Bình Dương",07:00 - 20:15,0 - 0
+1070,,,,
+1071,Sữa Chua Trân Châu - Hạ Long Bay,"1 Đoàn Thị Kia, KP. Đông Chiêu, P. Tân Đông Hiệp, Dĩ An, Bình Dương",06:00 - 23:00,10.000 - 30.000
+1072,Ben Tea - Trà Sữa - Đường DJ5,"Đối Diện Tiệm Điện Thoại Hùng Thúy, Ngã Tư Đường DJ5 Giao NJ17, Bến Cát, Bình Dương",15:00 - 22:00,0 - 0
+1073,Quán Cơm Chay 708 - Thức Ăn Chay - 708 QL1K,"708 Quốc Lộ 1K, Khu Phố Nội Hoá 2, P. Bình An, Dĩ An, Bình Dương",06:00 - 13:30 | 16:00 - 19:00,0 - 0
+1074,"Đồ Ăn Vặt Hoàng Hải - Bánh Mì Nướng, Bánh Tráng Trộn & Viên Chiên","504/5 Thuận An Hoà, Tổ 25, KP. 4, P. An Phú, Thuận An, Bình Dương",10:00 - 22:00,0 - 0
+1075,,,,
+1076,"Chuối Chiên Chờ Cô Minh - Lạp Xưởng Nướng Đá, Bánh Chị","315 Đường 30 Tháng 4, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương",,10.000 - 50.000
+1077,CHỜ - HotDog & Tea - Lê Hồng Phong,"919 Lê Hồng Phong, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương",06:30 - 20:00,15.000 - 40.000
+1078,,,,
+1079,Cơm Tấm Phúc Lộc Thọ - 85 Nguyễn Trãi,"85 Nguyễn Trãi, Khu Phố Thắng Lợi 2, P. Dĩ An, Dĩ An, Bình Dương",06:30 - 21:30,0 - 0
+1080,Gà Rán & Burger McDonald’s - Biconsi Yersin,"Tầng 1, Block B, Tòa Nhà Chung Cư Biconsi Phú Cường, 215A Yersin, P.Phú Cường, Thị xã Thủ Dầu Một, Bình Dương",09:00 - 22:50,0 - 0
+1081,,,,
+1082,AZ - Trà sữa & Chè Khúc Bạch - KTX Khu B,"179 Lương Đình Của, P. Đông Hòa, Dĩ An, Bình Dương",08:30 - 22:45,2.000 - 35.000
+1083,Chicken Tung - Món Ăn Hàn Quốc & Trà Sữa - Thủ Dầu Một,"128 Trần Văn Ơn, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương",10:00 - 22:00,0 - 0
+1084,Crane Tea - Thích Quảng Đức - Trà Sữa Pha Máy & Trà Trái Cây Tươi,"148 Thích Quảng Đức, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương",07:30 - 22:30,0 - 0
+1085,Tung Tung - Món Ăn Hàn Quốc & Trà Sữa - Thủ Dầu Một,"128 Trần Văn Ơn, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương",10:00 - 22:00,0 - 0
+1086,Cơm Thố Trường An - Số 5 Đường M,"số 5, đường M, KP Nhị Đồng 2, P. Dĩ An, Dĩ An, Bình Dương",09:30 - 20:45,0 - 0
+1087,Chuk Express Trà & Cà Phê - Go! Dĩ An,"Tầng Trệt, Go! Dĩ An, Quốc Lộ 1K, P. Đông Hoà, Dĩ An, Bình Dương",08:00 - 21:30,0 - 0
+1088,Helios - Tiệm Gà Rán & Ăn Vặt Hàn Quốc,"172/2 Trần Văn Ơn, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương",10:15 - 21:00,18.000 - 35.000
+1089,TocoToco - Hikari,"Lot S5 Hikari, Đường Lý Thái Tổ, P. Hòa Phú, Thị xã Thủ Dầu Một, Bình Dương",09:00 - 21:45,0 - 0
+1090,,,,
+1091,DAMU Bánh Nướng Đài Loan - Bánh Mì - Võ Thành Long,"30A Đường Võ Thành Long, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương",06:00 - 21:00,0 - 0
+1092,Lài Tea - Nguyễn Thị Minh Khai,"710 Nguyễn Thị Minh Khai, P. Dĩ An, Dĩ An, Bình Dương",08:15 - 22:45,0 - 0
+1097,,,,
+1098,,,,
+1099,,,,
+1100,,,,
+1101,"Halo Quán Mì Cay - Cơm, Chân Gà & Trà Sữa","244/37/8 Khu Phố 5, P. Phú Hoà, Thị xã Thủ Dầu Một, Bình Dương",08:00 - 23:59,12.000 - 50.000
+1102,,,,
+1103,,,,
+1104,Mì Trộn Diệu - Thích Quảng Đức,"66A Thích Quảng Đức, P. Phú Hoà, Thị xã Thủ Dầu Một, Bình Dương",08:15 - 21:00,15.000 - 50.000
+1105,Ha BoBa Tea & Cafe - Olong Trà Gạo Rang - Hùng Vương,"11 Hùng Vương, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương",08:00 - 22:00,27.000 - 36.000
+1106,Bếp Của Lá - Bánh Tráng & Trà,"127/15A Thích Quảng Đức, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương",10:00 - 21:50,0 - 0
+1107,Si Mơ Tea Delivery - Phú Lợi,"214 Phú Lợi, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương",09:00 - 21:30,0 - 0
+1108,,,,
+1109,,,,
+1110,,,,
+1111,Bánh Tráng Trộn Gánh Hàng Rong - Thích Quảng Đức,"277 Thích Quảng Đức, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương",10:00 - 22:00,10.000 - 60.000
+1112,,,,
+1113,,,,
+1114,KATINAT - Aeon Bình Dương Canary,"Lô G45, Tầng Trệt, Trung Tâm Thương Mại Aeon - Bình Dương Canary, Số 1 Đại Lộ Bình Dương, Khu Phố Bình Giao, P. Thuận Giao, Thuận An, Bình Dương",10:00 - 21:30,30.000 - 100.000
+1115,Hanoi Ngon - Nem Chua Rán Ăn Vặt Chuẩn Hà Nội - Đường 30/4,"84/41/10 Đường 30/4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương",07:00 - 22:00,0 - 0
+1116,,,,
+1117,,,,
+1118,,,,
+1119,LiuCha Coffee & Tea - Hoàng Văn Thụ,"98 Hoàng Văn Thụ, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương",08:00 - 22:30,0 - 0
+1120,Mrs. DELI Milk‘n Tea - Trà Sữa & Trà Trái Cây - Đường Liên Huyện,"Hẻm 196 Đường Liên Huyện, Tổ 4, KP. Tân Hiệp, P. Tân Bình, Dĩ An, Bình Dương",10:00 - 13:00 | 16:00 - 21:00,0 - 0
+1121,,,,
+1122,Trà Sữa Blue - Việt Sing,"Ô 15ADC01 Đường D22, P. An Phú, Thuận An, Bình Dương",09:00 - 22:00,0 - 0
+1123,"Ăn Vặt Mẹ Bơ - Bánh Mì Nướng , Bánh Tráng Sốt & Trà Sữa - Khu Dân Cư Thuận Giao","C12/1, Đường Đ1, Khu Dân Cư Thuận Giao, Thuận An, Bình Dương",09:01 - 23:50,23.000 - 45.000
+1124,Gà Quay Cơm Lam Bánh Bao Trần Chung 11 - Nguyễn Tri Phương,"410 Nguyễn Tri Phương, P. An Bình, Dĩ An, Bình Dương",09:00 - 22:00,0 - 0
+1125,Chân Gà 49K - Nhà Bun,"Số 18 Đường DA1-2, P. Mỹ Phước, Bến Cát, Bình Dương",15:30 - 22:00,0 - 0
+1126,A Mập - Ăn Vặt & Mì Xào Cá Viên Chiên - Phan Đình Giót,"12 Phan Đình Giót, P. Đông Hòa, Dĩ An, Bình Dương",00:00 - 23:59,0 - 0
+1127,,,,
+1128,"Tiệm Ăn Cô Tư - Mì Cay, Bò Né & Ăn Vặt - Chung Cư Becamex Hoà Lợi","Số 1.15 Lô A4, Chung Cư Becamex Hoà Lợi, P. Hòa Phú, Thị xã Thủ Dầu Một, Bình Dương",07:00 - 11:00 | 17:00 - 21:30,0 - 0
+1129,The Choice - Nước Ép Trái Cây & Sinh Tố - 116 Đồng Cây Viết,"116 Đồng Cây Viết, P. Phú Mỹ, Thị xã Thủ Dầu Một, Bình Dương",06:30 - 21:00,0 - 0
+1130,,,,0 - 0
+1131,"Yến Khỏe Là Đẹp - Cháo, Súp & Quà Tặng Tổ Yến Các Loại - Đường Số 10 Hiệp Thành 3","Block E Chung Cư Hiệp Thành 3, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương",07:00 - 20:30,0 - 0
+1132,Korea Food - Món Hàn Quốc - Đường Thống Nhất,"Chung Cư BCons Plaza, Đường Thống Nhất, P. Đông Hòa, Dĩ An, Bình Dương",09:00 - 23:30,0 - 0
+1133,,,,
+1134,Chân Gà Tré Trộn - Nhà Bun Food - D3,"Số 4 Đường D3, P. Mỹ Phước, Bến Cát, Bình Dương",10:00 - 22:00,0 - 0
+1135,,,,
+1136,Hủ Tiếu Mực 3B,"89 Thích Quảng Đức, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương",07:00 - 12:00 | 16:16 - 19:00,30.000 - 30.000
+1137,Tiệm Ăn Vặt Gà Ủ Muối Đồ Quê Thanh Nguyễn,"18/5A13 Đường N15, P. Bình Hòa, Thuận An, Bình Dương",05:00 - 23:59,0 - 0
+1138,"Party Trà Sữa - Trà Trái Cây, Sinh Tố & Cà Phê Pha Máy","136, Đường ĐX001, Khu phố 4, P. Phú Mỹ, Thị xã Thủ Dầu Một, Bình Dương",05:00 - 21:30,0 - 0
+1139,Pikachu Trà Sữa - Trà Trái Cây & Ăn Vặt,"134 Đường DX01, KP. 4, P. Phú Mỹ, Thị xã Thủ Dầu Một, Bình Dương",05:00 - 21:30,0 - 0
+1140,"Trà Sữa Hạt, Sữa Hạt & Nước Ép Trái Cây - Nhỏ Healthy - 110 Đường 30/4","110 Đường 30/4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương",07:00 - 21:00,0 - 0
+1141,,,,
+1142,Bún Đậu Mắm Tôm - Boss Coffee,"32 Phú Lợi, P. Phú Hoà, Thị xã Thủ Dầu Một, Bình Dương",09:00 - 23:30,10.000 - 39.000
+1143,,"58 Đường 30 Tháng 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương",06:05 - 22:00,25.000 - 45.000
+1144,"Trà Sữa Hạt, Sữa Hạt & Nước Ép - Nhỏ Healthy Lái Thiêu - 79 Cách Mạng Tháng Tám","79 Cách Mạng Tháng Tám, KP.Đông Tư, P.Lái Thiêu, Thuận An, Bình Dương",07:10 - 21:20,0 - 0
+1145,Bánh Tráng Trộn Số 39 & Bánh Tráng Phơi Sương - Nguyễn Bình,"294 Nguyễn Bình, P.Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương",11:00 - 23:59,15.000 - 50.000
+1146,,,,
+1147,Cá Viên Chiên Như Ý - Mì Trộn Indomi - Thuận Giao,"Đường D4, KDC Thuận Giao, P. Thuận Giao, Thuận An, Bình Dương",00:00 - 23:59,0 - 0
+1148,Dê Tươi & Cá Nướng An Bình,"160 Đường An Bình, P. An Bình, Dĩ An, Bình Dương",08:00 - 21:00,0 - 0
+1149,,,,
+1150,,,,
+1151,,,,
+1152,,,,
+1153,,,,
+1154,,,,
+1155,,,,
+1156,Bánh Bột Lọc Huế - Gà Ủ Muối Mai Vy Dĩ An - Chiêu Liêu,"Tổ 32 Chiêu Liêu, P. Tân Đông Hiệp, Dĩ An, Bình Dương",08:00 - 21:30,0 - 0
+1157,,,,
+1158,Quán Huế - Chè Thái & Trà Sữa - Lê Thị Trung,"113 Đường Lê Thị Trung, Khu Phố 1B, P. An Phú, Thuận An, Bình Dương",10:30 - 22:30,15.000 - 50.000
+1159,Gà Ủ Muối An Phú - Lê Thị Trung,"270D/2 Lê Thị Trung, P. An Phú, Thuận An, Bình Dương",16:00 - 22:00,15.000 - 200.000
+1160,Súp Cua A Hí - Thủ Khoa Huân,"17/2 Thủ Khoa Huân, Khu Phố Thạnh Hoà B, P. An Thạnh, Thuận An, Bình Dương",05:00 - 21:00,15.000 - 50.000
+1161,Bát Trân Quán - Súp Bào Ngư Vi Cá Hải Sâm & Gà Ác Tiềm - Đường N2,"94D/47 Đường N2, Khu Dân Cư Phú Hồng Thịnh 8, P. An Phú, Thuận An, Bình Dương",09:00 - 13:00 | 15:00 - 22:00,0 - 0
+1162,Quý Dậu - Bánh Canh Hẹ & Cơm Gà Phú Yên,"29/2 Ngô Gia Tự, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương",07:00 - 20:30,25.000 - 30.000
+1163,KOKOPOP KOREAN - FOOD,"8/37 Bình Đường 3, P. An Bình, Dĩ An, Bình Dương",00:00 - 02:00 | 09:00 - 23:59,0 - 0
+1164,,,,
+1165,"ĐẶC SẢN ĐÀ LẠT - Thế Giới Ăn Vặt, Dâu Tây & Mít Sấy - Ngã Tư Đất Thánh","2B/123 Ngã Tư Đất Thánh, Quốc Lộ 13, P. Thuận Giao, Thuận An, Bình Dương",06:15 - 22:00,0 - 0
+1166,,,,
+1167,Tocotoco Bình Đức 3 - Trà Sữa - Nguyễn Du,"2A/25 Nguyễn Du, Bình Đức 3, P. Bình Hòa, Thuận An, Bình Dương",09:06 - 21:01,0 - 0
+1168,Friendship Bakery & Desserts - Đường 30/4,"305 Đường 30 Tháng 4, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương",08:00 - 21:00,0 - 0
+1169,,,,
+1170,Thư Quỳnh - Coffee & Tea - Nguyễn Tri Phương,"Hẻm 192 Nguyễn Tri Phương, Dĩ An, Bình Dương",00:00 - 23:59,0 - 0
+1171,Cháo Dinh Dưỡng Papa Dashi Phú Mỹ - An Mỹ,"107A An Mỹ, P. Phú Mỹ, Thị xã Thủ Dầu Một, Bình Dương",06:00 - 11:30 | 15:00 - 18:30,0 - 0
+1172,,,,
+1173,,,,
+1174,,,,
+1175,,,,
+1176,Miên - Nước Ép & Trà Trái Cây Tươi,"M5 Đồng Khởi, P. Hòa Phú, Thị xã Thủ Dầu Một, Bình Dương",,0 - 0
+1177,"Ăn Vặt Ming Ming - Gà Ủ Muối, Bánh Crepe Sầu Riêng & Trà Sữa","119 Đường D18A-G9, KCN Mỹ Phước 1, P. Thới Hòa, Bến Cát, Bình Dương",00:00 - 23:59,0 - 0
+1178,"Bát Trân Quán - Mì Tiềm & Gà Ác, Súp Bào Ngư Vi Cá Đại Bổ","94/25 Đường Nội Bộ, Khu Dân Cư Bình Chuẩn, Khu Phố Bình Phước B, P. Bình Chuẩn, Thuận An, Bình Dương",,0 - 0
+1179,,,,
+1180,"Sâu Béo - Trà Sữa, Trà Trái Cây & Sinh Tố - Đoàn Thị Kia","165 Đoàn Thị Kia, Dĩ An, Bình Dương",09:00 - 21:30,0 - 0
+1181,Trà Sữa Nọng - 699 Cách Mạng Tháng 8,"699 Cách Mạng Tháng 8, P. Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương",09:00 - 22:00,5.000 - 29.000
+1182,,,,
+1183,,,,
+1184,Cafe Minh Phúc - Trà Sữa & Nước Ép,"186A Hưng Phước, P. Hưng Định, Thuận An, Bình Dương",08:00 - 22:00,15.000 - 50.000
+1185,Tiến Vua Food - Yến Tươi Chưng Sẵn - Đường LT58,"A135A Đường LT58, KP Bình Đức 2, P. Lái Thiêu, Thuận An, Bình Dương",08:00 - 21:30,15.000 - 200.000
+1186,Tiến Vua Food - Gà Rán Sốt Hàn Quốc - Đường LT58,"A132D Đường LT58, KP Bình Đức 2, P. Lái Thiêu, Thuận An, Bình Dương",08:00 - 21:30,15.000 - 200.000
+1187,Tiến Vua Food - Súp Bào Ngư Vi Cá Hải Sâm & Gà Ác Tiềm - Đường LT58,"A132D Đường LT58, KP Bình Đức 2, P. Lái Thiêu, Thuận An, Bình Dương",08:00 - 21:30,15.000 - 200.000
+1188,,,,
+1189,Royaltea Premium - TPM Bình Dương,"136 Lê Lợi, P. Hòa Phú, Thị xã Thủ Dầu Một, Bình Dương",,30.000 - 60.000
+1190,,,,
+1191,GrandPa Coffee And Tea - Nước Giải Khát - KDC Chánh Nghĩa,"55 D8, KDC Chánh Nghĩa, Thị xã Thủ Dầu Một, Bình Dương",07:00 - 22:00,0 - 0
+1192,Bánh Tráng Trộn & Mì Trộn - Ăn Vặt Losa Food - Thích Quảng Đức,"Cuối Hẻm 118 Thích Quảng Đức, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương",00:00 - 23:59,0 - 0
+1193,,,,
+1194,Chân Gà Sốt Thái - Ăn Vặt Phú Quý - D12,"73, Đường D12, Khu Chùa Châu Thới, Phường Bình Thắng, Dĩ An, Bình Dương, Dĩ An, Bình Dương",00:00 - 02:00 | 07:00 - 23:59,0 - 0
+1195,"TRÀ SỮA SÂU BÉO - Trà Sữa, Trà Trái Cây & Sinh Tố - Bình Hoà 24","Số 21 Đường Bình Hoà 24, Thuận An, Bình Dương",09:30 - 22:30,0 - 0
+1196,Coco Dừa Chợ Búng - Dừa Mix & Rau Má Mix,"119N Đường Hưng Định 23, P. Hưng Định, Thuận An, Bình Dương",07:00 - 19:00,18.000 - 35.000
+1197,,,,
+1198,Bếp Nhà Panasonic - Phú Lợi,"244/37/41 Đường Phú Lợi, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương",00:00 - 07:00 | 10:00 - 15:59 | 16:00 - 23:59,0 - 0
+1199,Phở Ngọc Mai 6 - Phở - Đường DT 743,"4E Đường DT 743, P. An Phú, Thuận An, Bình Dương",00:00 - 14:00 | 16:54 - 23:54,0 - 0
+1200,Cơm Thố Trường Phát - Tân Phước Khánh,"25 Đường DT746, P. Tân Phước Khánh, Tân Uyên, Bình Dương",07:30 - 23:59,0 - 0
+1201,Pink P - Trái Cây Tươi Cắt Sẵn & Nước Ép Nguyên Chất,"12 Đường Số 10, KDC Hiệp Thành 3, P. Hiệp Thành, Thị xã Thủ Dầu Một, Bình Dương",09:00 - 21:20,0 - 0
+1202,Bún Đậu Phố Cổ Hà Nội - CN Dĩ An,"204 Lý Thường Kiệt, KP. Đông Tân, P. Dĩ An, Dĩ An, Bình Dương",10:00 - 22:00,15.000 - 100.000
+1203,,,,
+1204,Bánh Mì Que Đà Nẵng & Ăn Vặt - Đường 22/12,"1/53 Đường 22/12, Khu Phố Hoà Lân 2, P. Thuận Giao, Thuận An, Bình Dương",,0 - 0
+1205,"Thượng Yến Daily - Yến, Trà & Cà Phê Sạch - Trần Văn Ơn","100 Trần Văn Ơn, Khu 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương",06:15 - 20:30,0 - 0
+1206,Xính Tea - Bạch Đằng,"Số 49 Bạch Đằng, P. Phú Cường, Thị xã Thủ Dầu Một, Bình Dương",10:59 - 23:56,0 - 0
+1207,,,,
+1208,,,,
+1209,,,,
+1210,A Bảo Bánh Tráng & Trà Sữa - Lê Hồng Phong,"45 Lê Hồng Phong, P. Phú Lợi, Thị xã Thủ Dầu Một, Bình Dương",08:15 - 21:45,0 - 0
+1211,Tiệm Mì & Ăn Vặt An An - Mì Xào - Mỹ Phước Tân Vạn,"105/6 Đường Mỹ Phước Tân Vạn, Khu Phố Tân Phú 2, P. Tân Bình, Dĩ An, Bình Dương",00:00 - 23:59,0 - 0
+1212,,,09:00 - 21:00,0 - 0
+1213,Gà Rán & Trà Sữa - Chân Gà Sốt Thái 24h,"113/37/48 Khu 6 Đường 30 Tháng 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương",00:00 - 23:59,0 - 0
+1214,Phố Ăn Vặt - Đường 30/4,"113/37/48 Đường 30/4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương",00:00 - 23:59,0 - 0
+1215,,,,
+1216,HOT Pizza Phô Mai 24h,"113/37/59 Khu Phố 6 Đường 30 Tháng 4, P. Phú Hòa, Thị xã Thủ Dầu Một, Bình Dương",00:00 - 23:59,0 - 0
+1217,LAM House - Trà Sữa Pha Máy - Tam Hiệp,"69 Lê Quý Đôn, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai",09:05 - 23:59,0 - 0
+1218,Cơm Thố Anh Béo - Tân Biên,"11A/1 Khu Phố 8A, P. Tân Biên, Tp. Biên Hòa, Đồng Nai",08:00 - 14:00 | 16:00 - 21:00,0 - 0
+1219,AZ - Trà Sữa & Chè Khúc Bạch - Cách Mạng Tháng 8,"202 Cách Mạng Tháng 8, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai",08:45 - 22:15,0 - 0
+1234,Cơm thố Trường An - Bùi Văn Hòa,"136/1 Bùi Văn Hòa, KP. 3, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai",09:45 - 21:00,30.000 - 100.000
+1235,,,,
+1236,Bếp Nhà Thủy - Cơm Gà & Cơm Cuộn Shop Online - Nguyễn Thông,"D1 Nguyễn Thông, Tổ 8B, Khu Phố 5, P. An Bình, Tp. Biên Hòa, Đồng Nai",09:00 - 20:00,10.000 - 50.000
+1237,Mr. Lei - Quán Ăn Hàn Quốc - Phan Trung,"140 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai",09:00 - 21:50,20.000 - 37.000
+1238,"TIỆM TRÀ, BÁNH DAMI TEA & MORE - Trà Sữa, Trà Trái Cây & Cà Phê - Phạm Văn Thuận","309 Phạm Văn Thuận, Khu Phố 4, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai",06:30 - 22:00,0 - 0
+1239,,,,
+1240,Tiệm Nhà Mơ - Trà Sữa & Trà Trái Cây - Phan Trung,"103 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai",08:30 - 23:59,0 - 0
+1241,,,,
+1242,YVY TEA - Phan Trung,"187b/5, Hẻm 210 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai",12:30 - 21:30,29.000 - 60.000
+1243,Tiệm Ăn Nhà Túc - 18 Dương Tử Giang,"18 Dương Tử Giang, Tp. Biên Hòa, Đồng Nai",10:00 - 21:30,15.000 - 35.000
+1244,Thiên Hương - Mì Trộn Tóp Mỡ,"122/68/29, Đường Nguyễn Bảo Đức, Khu Phố 6, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai",09:00 - 21:00,25.000 - 50.000
+1245,Thắm Sushi - Shop Online,"52 Lê Nguyên Đạt, Tp. Biên Hòa, Đồng Nai",08:00 - 19:00,30.000 - 35.000
+1246,Dè Cube Tea - Nguyễn Ái Quốc,"2041 Nguyễn Ái Quốc, Tp. Biên Hòa, Đồng Nai",08:00 - 22:00,20.000 - 50.000
+1247,Tiệm Trà Umee - Trà Sữa Đậm Vị - Phạm Văn Thuận,"225 Phạm Văn Thuận, Khu Phố 3, P. Bình Đa, Tp. Biên Hòa, Đồng Nai",09:30 - 23:15,0 - 0
+1248,Tiệm Trà HALE - Phan Trung,"185b/5, Hẻm 210 Phan Trung, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai",09:30 - 22:00,20.000 - 30.000
+1249,,,,
+1250,Hulala - Tiệm Trà & Cà Phê - Trần Quốc Toản,"3A2 Trần Quốc Toản, P. An Bình, Tp. Biên Hòa, Đồng Nai",07:00 - 21:45,0 - 0
+1251,Xing Fu Tang Việt Nam - Trà Sữa Đài Loan - Võ Thị Sáu - Biên Hoà,"102 Võ Thị Sáu, Khu Phố 1, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai",09:30 - 22:30,0 - 0
+1252,Sushi Thằng Bờm - Khu Phố 1,"64/3 Khu Phố 1, P. Hố Nai, Tp. Biên Hòa, Đồng Nai",09:00 - 20:30,10.000 - 30.000
+1253,,,,
+1254,Cơm Gà Sốt Mắm Tỏi - The Champion,"68 Yết Kiêu, P. Long Bình, Tp. Biên Hòa, Đồng Nai",00:00 - 23:59,0 - 0
+1255,Trà Sữa Zencha - Huỳnh Văn Nghệ,"128 Huỳnh Văn Nghệ, P. Bửu Long, Tp. Biên Hòa, Đồng Nai",08:00 - 22:00,0 - 0
+1256,Bánh Xèo Miền Tây - Giáo Xứ Bùi Vĩnh,"244 Hồ Văn Leo, Tp. Biên Hòa, Đồng Nai",11:00 - 20:00,0 - 0
+1257,Tiệm Trà ZORO - Võ Thị Sáu,"100 Võ Thị Sáu, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai",11:30 - 23:59,0 - 0
+1258,,,,
+1259,TOCO LIFE - Coffee & Tea - CMT8,"Hẻm 200 CMT8, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai",,0 - 0
+1260,Trà Sữa Tocotoco - Đường 30/4 Công Viên Biên Hùng,"150, Đường 30/4, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai",09:00 - 22:00,0 - 0
+1261,,,,
+1262,"Xôi Bó Gà, Xôi Chiên & Sinh Tố - Biên Hòa","678/57, Khu Phố 3, Xa Lộ Hà Nội, P. Tam Hòa, Tp. Biên Hòa, Đồng Nai",05:45 - 22:00,0 - 0
+1263,Sushi Cô Hà - Trảng Dài,"12/8/5 Nguyễn Thái Học, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai",09:00 - 12:00 | 14:00 - 21:54,0 - 0
+1264,,,,
+1265,,,,
+1266,Sủi Cảo AHY - Trần Quốc Toản,"258 Trần Quốc Toản, KP3, P. Bình Đa, Tp. Biên Hòa, Đồng Nai",06:00 - 12:50 | 16:30 - 20:50,0 - 0
+1267,Deethai To-Go - Tea & Coffee - Trảng Dài,"113 Bùi Trọng Nghĩa, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai",09:00 - 23:40,0 - 0
+1268,Tiệm Ăn No Nê - Nguyễn Ái Quốc,"Số 1 Hẻm 1030 Nguyễn Ái Quốc, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai",09:00 - 23:59,0 - 0
+1269,Jay Tea - Hà Huy Giáp,"154/33 Hà Huy Giáp, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai",10:00 - 21:00,0 - 0
+1270,NAYA Tea & Coffee - Võ Thị Sáu,"48/5 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai",08:40 - 23:00,0 - 0
+1271,Hot Cup Drink - Chả Lụi - Đặng Đức Thuật,"Hẻm 38 Đặng Đức Thuật, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai",00:00 - 01:00 | 09:00 - 23:59,0 - 0
+1272,,,,
+1273,,,,
+1274,Phúc Tea - Trà Sữa Đài Loan - Trảng Dài,"Đối Diện Đại Học Công Nghệ Đồng Nai, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai",08:30 - 21:00,22.000 - 40.000
+1275,Kope' Chicken - Ăn Vặt Hàn Quốc - Mì Trộn Gà Sốt - Phan Trung,"285 Đường Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai",10:00 - 21:30,20.000 - 50.000
+1276,,,,
+1277,Bún Đậu Thành Xuân - Khu TĐC Long Bình,"7C Đường A4 (Khu Tái Định Cư Long Bình), P. Long Bình, Tp. Biên Hòa, Đồng Nai",09:00 - 23:00,0 - 0
+1278,Bún Cá 2T (CN2) - Kim Bích,"62 Tổ 93D Kim Bích, KP. 13, P. Hố Nai, Tp. Biên Hòa, Đồng Nai",,0 - 0
+1279,,,,
+1280,LaVee - Mì Trộn Indomie & Ăn Vặt - Đồng Khởi,"847/92 Đồng Khởi, Tp. Biên Hòa, Đồng Nai",08:00 - 22:00,0 - 0
+1281,,,,
+1282,Xôi Chiên & Nước Ép - Cổng 2 Sân Bay Biên Hoà,"4A/1B Tổ 6, Cổng 2, KP. 10, P. Tân Phong, Tp. Biên Hòa, Đồng Nai",06:00 - 22:00,15.000 - 35.000
+1283,,,,
+1284,Ăn Vặt Triệu Gia - Sầu Riêng Ngon - Biên Hòa,"92 Phạm Văn Thuận, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai",09:00 - 22:00,0 - 0
+1285,,,,
+1286,,,,
+1287,Bún Cá 2T - 45B Nguyễn Ái Quốc,"45B Nguyễn Ái Quốc, Tổ 93 Khu Phố 13, P. Hố Nai, Tp. Biên Hòa, Đồng Nai",,0 - 0
+1288,,,,
+1289,Xẻng - Korean Food,"4/5E Tổ 4E, Khu Phố 1, P. Bửu Long, Tp. Biên Hòa, Đồng Nai",00:00 - 01:00 | 07:00 - 23:59,0 - 0
+1290,,"65/1 Võ Thị Sáu, Tp. Biên Hòa, Đồng Nai",08:30 - 20:30,0 - 0
+1291,Bún Mắm Nêm & Bánh Ép Huế - Nhà Ken,"303 Hoàng Bá Bích, P. Long Bình, Tp. Biên Hòa, Đồng Nai",,0 - 0
+1292,Sushi Vinroll - Sushi Sashimi & Món Ngon Cho Bé - Go! - Xa Lộ Hà Nội,"Go! Biên Hòa, Căn 1S25, 833 Xa Lộ Hà Nội, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai",09:45 - 21:30,0 - 0
+1293,Friendship Bakery & Desserts - Võ Thị Sáu,"F238 Võ Thị Sáu, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai",08:00 - 21:30,0 - 0
+1294,Mr.Eco Salad Healthy - Food & Drinks - Dương Bạch Mai,"128/5 Dương Bạch Mai, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai",09:00 - 20:30,0 - 0
+1295,,,,
+1296,Hồng Trà Bảo Vương - Nguyễn Ái Quốc,"447 Nguyễn Ái Quốc, Khu Phố 6, P. Hố Nai, Tp. Biên Hòa, Đồng Nai",09:30 - 21:30,0 - 0
+1297,Nem Nướng Nha Trang Hùng Việt CN7 Biên Hoà - Đường N1,"8N-LK14 Đường N1, Khu Liền Kề, Phường Thống Nhất, Tp. Biên Hòa, Đồng Nai, Tp. Biên Hòa, Đồng Nai",08:20 - 22:20,40.000 - 160.000
+1298,KIM Tea & Coffee - Trà Sữa & Ăn Vặt - Hoàng Tam Kỳ,"14 Hoàng Tam Kỳ, P. Long Bình, Tp. Biên Hòa, Đồng Nai",07:00 - 21:30,5.000 - 35.000
+1299,"Bún Nước Tương, Gỏi Cuốn & Bún Mắm Nêm - Bé Kim","2A Hẻm 168 Dã Tượng, P. Tam Hoà, Tp. Biên Hòa, Đồng Nai",09:30 - 22:00,0 - 0
+1300,,,,
+1301,,,,
+1302,,,,
+1303,Quán Ăn Vặt 5 Bụt Food - Hàu Nướng & Thịt Xiên - Đặng Đức Thuật,"32D Đặng Đức Thuật, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai",00:00 - 23:59,0 - 0
+1304,Nem Nướng Nha Trang Hùng Việt - CN Thống Nhất Biên Hoà,"203 Đường N14, Khu Phố 7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai",09:03 - 20:00,0 - 0
+1305,Mì Trộn Cao Ký - Mì Trộn Topping - Nguyễn Du,"28/3A Nguyễn Du, Phường Quang Vinh, Tp. Biên Hòa, Đồng Nai",07:00 - 23:59,0 - 0
+1306,Ăn Vặt Lê Mỹ Tuyền - Gà Ủ Muối Hoa Tiêu - Vũ Hồng Phô,"46A Hẻm 161 Vũ Hồng Phô, P. Bình Đa, Tp. Biên Hòa, Đồng Nai",06:00 - 23:59,0 - 0
+1307,,,,
+1308,Lục Trà Tinh Hoa - Đường HV,"59 Đường HV, KP. 1, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai",09:00 - 22:00,0 - 0
+1309,Mì Trộn & Ăn Vặt Ngọc Phát - Đường 30/4,"47/5 Đường 30/4, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai",,0 - 0
+1310,,,,
+1311,,,,
+1312,Mì Cay - Tiệm Nhà Cat,"88 Nguyễn Bảo Đức, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai",11:00 - 23:30,0 - 0
+1313,Sâu Bán Trà - Matcha & Trà Trái Cây - Nguyễn Khuyến,"166/98/15 Nguyễn Khuyến, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai",11:00 - 23:00,0 - 0
+1314,Mì Trộn Thi Lâm,"71/20B Hẻm 186 Đường Hưng Đạo Vương, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai",09:00 - 23:00,0 - 0
+1315,Ăn Vặt Cô Anh - Khu Phố 9,"294B/5 Khu Phố 9, P. Tân Biên, Tp. Biên Hòa, Đồng Nai",09:30 - 20:50,10.000 - 15.000
+1316,Ăn Vặt Thuận Triệu - Phan Trung,"68 Hẻm 199 Phan Trung, KP. 2, P. Tân Mai, Tp. Biên Hòa, Đồng Nai",11:00 - 21:35,20.000 - 40.000
+1317,,,,
+1318,Q Garden - Quán Nhậu Châu Á,"K48 Đường D10, Khu Phố 7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai",17:00 - 22:00,0 - 0
+1319,Nhà Hàng Mongkok,"K48 Đường D10, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai",10:30 - 13:30 | 16:30 - 21:00,45.000 - 190.000
+1320,Mì Cay Naga - Biên Hòa,"H35-36 Đường D12, Khu Phố 7, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai",09:00 - 22:00,25.000 - 30.000
+1321,Huyền Cơm Tấm - Bún Thịt Nướng - Nguyễn Thành Phương,"20 Đường Nguyễn Thành Phương, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai",06:00 - 22:00,0 - 0
+1322,,,,
+1323,Hải Hằng - Cơm Gà Xối Mỡ - Quốc Lộ 1A,"57 Quốc lộ 1A, Phường Tân Biên, Tp. Biên Hòa, Đồng Nai",08:00 - 14:30 | 16:00 - 22:35,0 - 0
+1324,,,,
+1325,,,,
+1326,Bánh Mì Ngon - Matcha & Cà Phê - Bùi Trọng Nghĩa,"221 Bùi Trọng Nghĩa, P. Trảng Dài , Tp. Biên Hòa, Đồng Nai",06:00 - 10:30 | 15:00 - 22:30,0 - 0
+1327,Chè Hoa - Chợ Sặt Nhỏ,"2/63 Khu Phố 3, Chợ Sặt Nhỏ, P. Tân Biên, Tp. Biên Hòa, Đồng Nai",15:00 - 22:00,15.000 - 35.000
+1328,Nước Ép & Sinh Tố - A42,"12C Khu Phố 6, P. Trung Dũng, Tp. Biên Hòa, Đồng Nai",08:00 - 21:00,20.000 - 60.000
+1329,Bún Đậu Mlem - 23 Phùng Hưng,"23 Phùng Hưng, Khu 3, X. An Phước, Long Thành, Đồng Nai",10:00 - 12:55 | 16:05 - 21:15,0 - 0
+1330,Trà Tháng Ba - Trà Sữa & Ăn Vặt - Phạm Văn Thuận,"96/476 Hẻm 994 Phạm Văn Thuận, P. Tân Mai, Tp. Biên Hòa, Đồng Nai",08:00 - 23:59,0 - 0
+1331,,,,
+1332,Dạ Thảo Quán - Mì Ý & Nui Xào Bò - Võ Thị Sáu,"Hẻm 96/5 Võ Thị Sáu, Khu phố 1, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai",,25.000 - 50.000
+1333,Dứa Healthy - Nguyễn Ái Quốc,"Hẻm 1879/6 Nguyễn Ái Quốc, P. Tam Hiệp, Tp. Biên Hòa, Đồng Nai",07:00 - 21:30,20.000 - 50.000
+1334,PHƯỚC COFFEE & TEA - Đường 518,"C186 Đường 518, Khu Phố 5, P. Tân Hiệp, Tp. Biên Hòa, Đồng Nai",07:00 - 21:30,0 - 0
+1335,,,,
+1336,Nhà Ry - Mì Trộn & Gà Que - Nguyễn Ái Quốc,"135A Nguyễn Ái Quốc, Tp. Biên Hòa, Đồng Nai",00:00 - 23:59,0 - 0
+1337,Vũ Coffee & Matcha - Phan Trung,"75 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai",07:10 - 21:50,0 - 0
+1338,Gà Mía Hấp & Gà Ủ Muối Mai Lan - Hoàng Tam Kỳ,"E628 Hoàng Tam Kỳ, KP5A, P. Long Bình, Tp. Biên Hòa, Đồng Nai",10:00 - 23:59,0 - 0
+1339,"Trúc Mai Foods - Hàu Nướng, Bánh Tráng Trộn & Thịt Xiên Nướng Mè - Nguyễn Văn Tiên","81/5/23C Nguyễn Văn Tiên, KP. 11, P. Tân Phong, Tp. Biên Hòa, Đồng Nai",00:00 - 23:59,0 - 0
+1340,Ăn Vặt Yummy 91 - Bánh Tráng Tây Ninh - Khu Phố 9,"133 Tổ 36 Khu Phố 9, P. Tân Phong, Tp. Biên Hòa, Đồng Nai",00:00 - 23:59,7.000 - 15.000
+1341,,,,
+1342,Ăn Vặt GiGi - Bánh Tráng Cuộn & Bánh Tráng Sốt Chấm - Nguyễn Ái Quốc,"Hẻm Số 1374 Đ. Nguyễn Ái Quốc, P. Tân Phong, Tp. Biên Hòa, Đồng Nai",10:00 - 20:15,15.000 - 25.000
+1343,,,,
+1344,Chunky Bird - MATCHA & CÀ PHÊ - Nguyễn Ái Quốc,"120/76C Hẻm 1241 Nguyễn Ái Quốc, Tp. Biên Hòa, Đồng Nai",07:30 - 11:00 | 17:00 - 21:00,0 - 0
+1345,Bánh Tráng Nhà Điêu - Huỳnh Văn Luỹ,"32/11 Huỳnh Văn Luỹ Khu Phố 3, P. Hoà Bình, Tp. Biên Hòa, Đồng Nai",13:10 - 20:50,5.000 - 39.000
+1346,,,,0 - 0
+1347,,,,
+1348,Chạng Cafe - Đường D2,"CN4-3 Đường D2, P. Thống Nhất, Tp. Biên Hòa, Đồng Nai",06:30 - 23:00,0 - 0
+1349,,,,
+1350,Trà Sữa Nọng - Nguyễn Ái Quốc,"1483 Nguyễn Ái Quốc, P. Tân Tiến, Tp. Biên Hòa, Đồng Nai",10:00 - 21:15,19.000 - 40.000
+1351,,"237 Bùi Văn Hoà, Khu Phố 11, P. An Bình, Tp. Biên Hòa, Đồng Nai",14:00 - 21:10,0 - 0
+1352,,,,0 - 0
+1353,ZenCha Tea - Trà Sữa - Phạm Văn Thuận,"61/1 Phạm Văn Thuận Khu Phố 1, Phường Bình Đa, Tp. Biên Hòa, Đồng Nai",08:30 - 22:40,0 - 0
+1354,,,,
+1355,Chicken Box - Korean Food - Phan Trung,"91 Phan Trung, P. Tân Mai, Tp. Biên Hòa, Đồng Nai",09:00 - 21:30,0 - 0
+1356,,,,
+1357,,,,
+1358,,,,
+1359,,,,
+1360,Bơ Bơ Latte - Nguyễn Khuyến,"17/175 Nguyễn Khuyến, KP5, P. Trảng Dài, Tp. Biên Hòa, Đồng Nai",06:00 - 23:00,0 - 0
+1361,,,,
+1362,Hai Chị Em Bán Chân Gà - Huỳnh Dân Sanh,"26 Huỳnh Dân Sanh, P. Long Bình, Tp. Biên Hòa, Đồng Nai",06:30 - 22:00,0 - 0
+1363,,,,
+1364,Ăn Vặt Nie Yummy - 190 Hà Huy Giáp,"190 Hà Huy Giáp, P. Quyết Thắng, Tp. Biên Hòa, Đồng Nai",05:00 - 22:30,0 - 0
+1365,Bánh Và Ăn Vặt Nhà Giang,"Hẻm Bên Hông Nhà Thờ Sặt, Hướng Công Viên 30/4, Khu Phố 3, P. Tân Biên, Tp. Biên Hòa, Đồng Nai",15:30 - 20:40,0 - 0
+1366,Trà Sữa HongKong Baley - Bùi Văn Hoà,"94 Bùi Văn Hòa, P. Long Bình Tân, Tp. Biên Hòa, Đồng Nai",08:15 - 21:50,0 - 0

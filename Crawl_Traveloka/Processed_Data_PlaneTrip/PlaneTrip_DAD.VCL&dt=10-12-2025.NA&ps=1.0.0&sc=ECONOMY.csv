@@ -1,0 +1,10 @@
+brand,price,start_time,start_day,end_day,end_time,trip_time,take_place,destination
+"Vietravel Airlines, Vietnam Airlines",2011370,08:30,,,08:40,24h 10m,DAD,VCL
+"VietJet Air, Vietnam Airlines",2168780,22:40,,,08:40,10h 0m,DAD,VCL
+"Bamboo Airways, Vietnam Airlines",2204480,18:20,,,08:40,14h 20m,DAD,VCL
+Vietnam Airlines,2270640,22:55,,,08:40,9h 45m,DAD,VCL
+Vietnam Airlines,2398000,19:00,,,08:40,13h 40m,DAD,VCL
+Vietnam Airlines,2398000,18:05,,,08:40,14h 35m,DAD,VCL
+Vietnam Airlines,2412925,20:20,,,08:40,12h 20m,DAD,VCL
+"Vietravel Airlines, Vietnam Airlines",4189481,08:30,,,17:10,8h 40m,DAD,VCL
+"VietJet Air, Vietnam Airlines",4381541,05:45,,,17:10,11h 25m,DAD,VCL

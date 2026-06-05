@@ -1,0 +1,11 @@
+brand,price,start_time,start_day,end_day,end_time,trip_time,take_place,destination
+Vietravel Airlines,868230,19:10,,,20:30,1h 20m,SGN,DAD
+VietJet Air,678150,21:25,,,22:45,1h 20m,SGN,DAD
+VietJet Air,678150,23:00,,,00:20,1h 20m,SGN,DAD
+VietJet Air,720664,20:40,,,22:00,1h 20m,SGN,DAD
+VietJet Air,902880,07:20,,,08:40,1h 20m,SGN,DAD
+VietJet Air,902880,15:25,,,16:45,1h 20m,SGN,DAD
+VietJet Air,902880,18:15,,,19:35,1h 20m,SGN,DAD
+Vietravel Airlines,968220,09:00,,,10:20,1h 20m,SGN,DAD
+Bamboo Airways,993975,10:05,,,11:30,1h 25m,SGN,DAD
+Bamboo Airways,994000,06:15,,,07:40,1h 25m,SGN,DAD

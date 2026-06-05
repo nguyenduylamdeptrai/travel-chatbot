@@ -1,0 +1,1196 @@
+brand,price,start_time,start_day,end_day,end_time,trip_time,take_place,destination,trip_to,id
+"Vietravel Airlines, VietJet Air",1556380,18:55,,,11:20,16h 25m,DAD,HUI,Đà Nẵng,1
+"Bamboo Airways, VietJet Air",1585128,18:20,,,11:20,17h 0m,DAD,HUI,Đà Nẵng,2
+"Vietnam Airlines, VietJet Air",1642355,22:55,,,11:20,12h 25m,DAD,HUI,Đà Nẵng,3
+"Vietnam Airlines, VietJet Air",1642355,22:55,,,20:30,21h 35m,DAD,HUI,Đà Nẵng,4
+VietJet Air,1819987,22:40,,,11:20,12h 40m,DAD,HUI,Đà Nẵng,5
+"Vietnam Airlines, VietJet Air",1895085,18:05,,,11:20,17h 15m,DAD,HUI,Đà Nẵng,6
+"Vietnam Airlines, VietJet Air",1895085,17:30,,,11:20,17h 50m,DAD,HUI,Đà Nẵng,7
+VietJet Air,2038777,05:45,,,11:20,5h 35m,DAD,HUI,Đà Nẵng,8
+"Vietnam Airlines, VietJet Air",2173981,06:05,,,11:20,5h 15m,DAD,HUI,Đà Nẵng,9
+"Vietravel Airlines, Vietnam Airlines",2249320,08:30,,,21:15,12h 45m,DAD,HUI,Đà Nẵng,10
+"Vietravel Airlines, VietJet Air",1390060,08:30,,,20:30,12h 0m,DAD,HUI,Đà Nẵng,11
+"Vietravel Airlines, VietJet Air",1443520,18:55,,,11:20,16h 25m,DAD,HUI,Đà Nẵng,12
+"Bamboo Airways, VietJet Air",1498130,18:20,,,11:20,17h 0m,DAD,HUI,Đà Nẵng,13
+VietJet Air,1580140,05:45,,,11:20,5h 35m,DAD,HUI,Đà Nẵng,14
+VietJet Air,1580140,05:45,,,20:30,14h 45m,DAD,HUI,Đà Nẵng,15
+"Vietnam Airlines, VietJet Air",1632405,22:55,,,11:20,12h 25m,DAD,HUI,Đà Nẵng,16
+"Vietnam Airlines, VietJet Air",1758770,06:35,,,11:20,4h 45m,DAD,HUI,Đà Nẵng,17
+"Vietnam Airlines, VietJet Air",1758770,17:30,,,11:20,17h 50m,DAD,HUI,Đà Nẵng,18
+"Vietnam Airlines, VietJet Air",1758770,17:00,,,11:20,18h 20m,DAD,HUI,Đà Nẵng,19
+"Vietravel Airlines, Vietnam Airlines",1785515,08:30,,,07:15,22h 45m,DAD,HUI,Đà Nẵng,20
+VietJet Air,1549602,22:40,,,11:20,12h 40m,DAD,HUI,Đà Nẵng,21
+VietJet Air,1549602,22:40,,,20:30,21h 50m,DAD,HUI,Đà Nẵng,22
+VietJet Air,1584100,05:45,,,11:20,5h 35m,DAD,HUI,Đà Nẵng,23
+"Bamboo Airways, VietJet Air",1585302,18:20,,,11:20,17h 0m,DAD,HUI,Đà Nẵng,24
+"Vietnam Airlines, VietJet Air",1651462,22:55,,,11:20,12h 25m,DAD,HUI,Đà Nẵng,25
+"Vietnam Airlines, VietJet Air",1651462,22:55,,,20:30,21h 35m,DAD,HUI,Đà Nẵng,26
+"Vietnam Airlines, VietJet Air",1731759,06:35,,,11:20,4h 45m,DAD,HUI,Đà Nẵng,27
+"Vietravel Airlines, Vietnam Airlines",1787495,08:30,,,21:25,12h 55m,DAD,HUI,Đà Nẵng,28
+"Vietnam Airlines, VietJet Air",1793747,20:20,,,11:20,15h 0m,DAD,HUI,Đà Nẵng,29
+"Vietnam Airlines, VietJet Air",1793747,20:20,,,20:30,24h 10m,DAD,HUI,Đà Nẵng,30
+"Vietravel Airlines, Vietnam Airlines",2034420,18:55,,,08:40,13h 45m,DAD,VCL,Đà Nẵng,31
+"Bamboo Airways, Vietnam Airlines",2063168,18:20,,,08:40,14h 20m,DAD,VCL,Đà Nẵng,32
+Vietnam Airlines,2120395,22:55,,,08:40,9h 45m,DAD,VCL,Đà Nẵng,33
+"Vietravel Airlines, Vietnam Airlines",2235390,08:30,,,08:40,24h 10m,DAD,VCL,Đà Nẵng,34
+"VietJet Air, Vietnam Airlines",2298027,22:40,,,08:40,10h 0m,DAD,VCL,Đà Nẵng,35
+Vietnam Airlines,2373125,18:05,,,08:40,14h 35m,DAD,VCL,Đà Nẵng,36
+Vietnam Airlines,2373125,17:30,,,08:40,15h 10m,DAD,VCL,Đà Nẵng,37
+VietJet Air,2045443,05:25,,,18:45,13h 20m,DAD,VCL,Đà Nẵng,38
+VietJet Air,2159959,07:50,,,18:45,10h 55m,DAD,VCL,Đà Nẵng,39
+"Vietravel Airlines, Vietnam Airlines",2193575,21:15,,,17:10,19h 55m,DAD,VCL,Đà Nẵng,40
+"VietJet Air, Vietnam Airlines",2222285,23:15,,,17:10,17h 55m,DAD,VCL,Đà Nẵng,41
+"Vietravel Airlines, VietJet Air",2227439,21:15,,,08:25,11h 10m,DAD,VCL,Đà Nẵng,42
+"Vietravel Airlines, VietJet Air",2227439,21:15,,,15:25,18h 10m,DAD,VCL,Đà Nẵng,43
+"VietJet Air, Vietnam Airlines",2251262,22:30,,,17:10,18h 40m,DAD,VCL,Đà Nẵng,44
+VietJet Air,2256149,23:15,,,15:25,16h 10m,DAD,VCL,Đà Nẵng,45
+VietJet Air,2302970,12:05,,,18:45,6h 40m,DAD,VCL,Đà Nẵng,46
+"Vietravel Airlines, Vietnam Airlines",2340835,21:15,,,13:10,15h 55m,DAD,VCL,Đà Nẵng,47
+"Vietravel Airlines, Vietnam Airlines",2011370,08:30,,,08:40,24h 10m,DAD,VCL,Đà Nẵng,48
+"VietJet Air, Vietnam Airlines",2168780,22:40,,,08:40,10h 0m,DAD,VCL,Đà Nẵng,49
+"Bamboo Airways, Vietnam Airlines",2204480,18:20,,,08:40,14h 20m,DAD,VCL,Đà Nẵng,50
+Vietnam Airlines,2270640,22:55,,,08:40,9h 45m,DAD,VCL,Đà Nẵng,51
+Vietnam Airlines,2398000,19:00,,,08:40,13h 40m,DAD,VCL,Đà Nẵng,52
+Vietnam Airlines,2398000,18:05,,,08:40,14h 35m,DAD,VCL,Đà Nẵng,53
+Vietnam Airlines,2412925,20:20,,,08:40,12h 20m,DAD,VCL,Đà Nẵng,54
+"Vietravel Airlines, Vietnam Airlines",4189481,08:30,,,17:10,8h 40m,DAD,VCL,Đà Nẵng,55
+"VietJet Air, Vietnam Airlines",4381541,05:45,,,17:10,11h 25m,DAD,VCL,Đà Nẵng,56
+Vietravel Airlines,754380,06:25,,,07:45,1h 20m,HAN,DAD,Đà Nẵng,57
+VietJet Air,671220,20:15,,,21:35,1h 20m,HAN,DAD,Đà Nẵng,58
+VietJet Air,671220,20:50,,,22:10,1h 20m,HAN,DAD,Đà Nẵng,59
+Bamboo Airways,809980,16:15,,,17:40,1h 25m,HAN,DAD,Đà Nẵng,60
+Vietravel Airlines,859320,16:50,,,18:10,1h 20m,HAN,DAD,Đà Nẵng,61
+VietJet Air,891990,05:55,,,07:10,1h 15m,HAN,DAD,Đà Nẵng,62
+VietJet Air,891990,09:30,,,10:50,1h 20m,HAN,DAD,Đà Nẵng,63
+VietJet Air,912733,19:45,,,21:05,1h 20m,HAN,DAD,Đà Nẵng,64
+Vietnam Airlines,1070620,21:05,,,22:20,1h 15m,HAN,DAD,Đà Nẵng,65
+VietJet Air,1126620,14:20,,,15:40,1h 20m,HAN,DAD,Đà Nẵng,66
+Vietravel Airlines,708840,06:25,,,07:45,1h 20m,HAN,DAD,Đà Nẵng,67
+Vietravel Airlines,868230,16:50,,,18:10,1h 20m,HAN,DAD,Đà Nẵng,68
+VietJet Air,874170,05:55,,,07:10,1h 15m,HAN,DAD,Đà Nẵng,69
+VietJet Air,874170,09:55,,,11:15,1h 20m,HAN,DAD,Đà Nẵng,70
+VietJet Air,874170,10:30,,,11:50,1h 20m,HAN,DAD,Đà Nẵng,71
+VietJet Air,874170,19:05,,,20:25,1h 20m,HAN,DAD,Đà Nẵng,72
+VietJet Air,874170,19:45,,,21:05,1h 20m,HAN,DAD,Đà Nẵng,73
+VietJet Air,874170,20:15,,,21:35,1h 20m,HAN,DAD,Đà Nẵng,74
+Bamboo Airways,896978,16:15,,,17:40,1h 25m,HAN,DAD,Đà Nẵng,75
+VietJet Air,912733,20:50,,,22:10,1h 20m,HAN,DAD,Đà Nẵng,76
+Vietravel Airlines,755370,06:25,,,07:45,1h 20m,HAN,DAD,Đà Nẵng,77
+Bamboo Airways,809980,16:15,,,17:40,1h 25m,HAN,DAD,Đà Nẵng,78
+Bamboo Airways,896978,11:50,,,13:15,1h 25m,HAN,DAD,Đà Nẵng,79
+VietJet Air,900409,05:55,,,07:10,1h 15m,HAN,DAD,Đà Nẵng,80
+VietJet Air,900409,09:30,,,10:50,1h 20m,HAN,DAD,Đà Nẵng,81
+VietJet Air,900409,09:55,,,11:15,1h 20m,HAN,DAD,Đà Nẵng,82
+VietJet Air,900409,10:30,,,11:50,1h 20m,HAN,DAD,Đà Nẵng,83
+VietJet Air,900409,16:25,,,17:45,1h 20m,HAN,DAD,Đà Nẵng,84
+VietJet Air,900409,19:05,,,20:25,1h 20m,HAN,DAD,Đà Nẵng,85
+VietJet Air,900409,19:45,,,21:05,1h 20m,HAN,DAD,Đà Nẵng,86
+VietJet Air,2474016,22:10,,,14:05,15h 55m,HAN,HUI,Unknown,87
+VietJet Air,2474016,22:10,,,18:00,19h 50m,HAN,HUI,Unknown,88
+VietJet Air,2474016,18:00,,,14:05,20h 5m,HAN,HUI,Unknown,89
+VietJet Air,2474016,17:45,,,14:05,20h 20m,HAN,HUI,Unknown,90
+VietJet Air,2474016,16:00,,,14:05,22h 5m,HAN,HUI,Unknown,91
+VietJet Air,2474016,22:10,,,21:50,23h 40m,HAN,HUI,Unknown,92
+VietJet Air,2474016,17:45,,,18:00,24h 15m,HAN,HUI,Unknown,93
+VietJet Air,2546951,05:10,,,14:15,9h 5m,HAN,HUI,Unknown,94
+VietJet Air,2588531,15:20,,,18:00,26h 40m,HAN,HUI,Unknown,95
+VietJet Air,2593577,11:40,,,18:00,6h 20m,HAN,HUI,Unknown,96
+Vietnam Airlines,1071615,06:00,,,07:15,1h 15m,HAN,HUI,Unknown,97
+VietJet Air,678150,10:10,,,11:20,1h 10m,HAN,HUI,Unknown,98
+VietJet Air,678150,19:15,,,20:30,1h 15m,HAN,HUI,Unknown,99
+Vietnam Airlines,1144250,20:05,,,21:15,1h 10m,HAN,HUI,Unknown,100
+Vietnam Airlines,1144250,14:40,,,15:55,1h 15m,HAN,HUI,Unknown,101
+Vietnam Airlines,1144250,15:00,,,16:15,1h 15m,HAN,HUI,Unknown,102
+Vietnam Airlines,1401955,16:30,,,17:45,1h 15m,HAN,HUI,Unknown,103
+VietJet Air,2248560,22:50,,,14:05,15h 15m,HAN,HUI,Unknown,104
+VietJet Air,2248560,22:50,,,18:00,19h 10m,HAN,HUI,Unknown,105
+VietJet Air,2468076,22:10,,,12:25,14h 15m,HAN,HUI,Unknown,106
+Vietnam Airlines,1073605,06:00,,,07:15,1h 15m,HAN,HUI,Unknown,107
+VietJet Air,678150,10:10,,,11:20,1h 10m,HAN,HUI,Unknown,108
+Vietnam Airlines,1073605,20:05,,,21:25,1h 20m,HAN,HUI,Unknown,109
+Vietnam Airlines,1187035,20:05,,,21:15,1h 10m,HAN,HUI,Unknown,110
+Vietnam Airlines,1225840,17:00,,,18:15,1h 15m,HAN,HUI,Unknown,111
+Vietnam Airlines,1400960,16:30,,,17:45,1h 15m,HAN,HUI,Unknown,112
+Vietnam Airlines,2634747,20:05,,,21:15,1h 10m,HAN,HUI,Unknown,113
+Vietnam Airlines,2634747,06:00,,,07:15,1h 15m,HAN,HUI,Unknown,114
+Vietnam Airlines,2634747,16:30,,,17:45,1h 15m,HAN,HUI,Unknown,115
+Vietnam Airlines,2634747,17:00,,,18:15,1h 15m,HAN,HUI,Unknown,116
+SUN PhuQuoc AIRWAYS,1580353,07:45,,,09:50,2h 5m,HAN,PQC,Unknown,117
+VietJet Air,1339296,06:00,,,08:05,2h 5m,HAN,PQC,Unknown,118
+VietJet Air,1339296,15:30,,,17:35,2h 5m,HAN,PQC,Unknown,119
+VietJet Air,1339296,17:40,,,19:45,2h 5m,HAN,PQC,Unknown,120
+Vietnam Airlines,1409915,07:00,,,09:15,2h 15m,HAN,PQC,Unknown,121
+Vietnam Airlines,1674585,12:30,,,14:40,2h 10m,HAN,PQC,Unknown,122
+SUN PhuQuoc AIRWAYS,1912655,13:20,,,15:25,2h 5m,HAN,PQC,Unknown,123
+SUN PhuQuoc AIRWAYS,1936480,09:25,,,11:30,2h 5m,HAN,PQC,Unknown,124
+VietJet Air,2133446,12:25,,,14:30,2h 5m,HAN,PQC,Unknown,125
+Vietravel Airlines,2237500,10:50,,,18:25,7h 35m,HAN,PQC,Unknown,126
+SUN PhuQuoc AIRWAYS,1722221,09:25,,,11:30,2h 5m,HAN,PQC,Unknown,127
+VietJet Air,1339296,06:00,,,08:05,2h 5m,HAN,PQC,Unknown,128
+Vietnam Airlines,1466630,07:00,,,09:15,2h 15m,HAN,PQC,Unknown,129
+Vietnam Airlines,1501455,12:30,,,14:40,2h 10m,HAN,PQC,Unknown,130
+VietJet Air,1576905,15:30,,,17:35,2h 5m,HAN,PQC,Unknown,131
+SUN PhuQuoc AIRWAYS,1722221,07:45,,,09:50,2h 5m,HAN,PQC,Unknown,132
+VietJet Air,1837032,17:40,,,19:45,2h 5m,HAN,PQC,Unknown,133
+SUN PhuQuoc AIRWAYS,1925700,13:20,,,15:25,2h 5m,HAN,PQC,Unknown,134
+VietJet Air,2133446,12:25,,,14:30,2h 5m,HAN,PQC,Unknown,135
+Vietnam Airlines,4549224,07:00,,,09:15,2h 15m,HAN,PQC,Unknown,136
+Vietnam Airlines,1621850,22:00,,,00:10,2h 10m,HAN,SGN,Unknown,137
+Bamboo Airways,1447964,20:30,,,22:45,2h 15m,HAN,SGN,Unknown,138
+Bamboo Airways,1447964,22:35,,,00:50,2h 15m,HAN,SGN,Unknown,139
+Vietravel Airlines,1499850,16:10,,,18:25,2h 15m,HAN,SGN,Unknown,140
+Vietravel Airlines,1499850,20:30,,,22:45,2h 15m,HAN,SGN,Unknown,141
+Vietravel Airlines,1499850,21:00,,,23:20,2h 20m,HAN,SGN,Unknown,142
+VietJet Air,1556280,11:40,,,13:50,2h 10m,HAN,SGN,Unknown,143
+VietJet Air,1561136,17:10,,,19:20,2h 10m,HAN,SGN,Unknown,144
+VietJet Air,1561136,17:20,,,19:30,2h 10m,HAN,SGN,Unknown,145
+VietJet Air,1561136,17:45,,,19:55,2h 10m,HAN,SGN,Unknown,146
+Vietnam Airlines,1619860,22:00,,,00:10,2h 10m,HAN,SGN,Unknown,147
+VietJet Air,1341620,22:50,,,01:00,2h 10m,HAN,SGN,Unknown,148
+Vietravel Airlines,1393920,21:00,,,23:20,2h 20m,HAN,SGN,Unknown,149
+Bamboo Airways,1447964,22:35,,,00:50,2h 15m,HAN,SGN,Unknown,150
+Vietravel Airlines,1513710,08:50,,,11:05,2h 15m,HAN,SGN,Unknown,151
+Vietravel Airlines,1513710,10:05,,,12:20,2h 15m,HAN,SGN,Unknown,152
+Vietravel Airlines,1513710,10:50,,,13:05,2h 15m,HAN,SGN,Unknown,153
+Vietravel Airlines,1513710,16:10,,,18:25,2h 15m,HAN,SGN,Unknown,154
+Vietravel Airlines,1513710,20:30,,,22:45,2h 15m,HAN,SGN,Unknown,155
+VietJet Air,1561136,10:05,,,12:10,2h 5m,HAN,SGN,Unknown,156
+Bamboo Airways,1447964,16:30,,,18:45,2h 15m,HAN,SGN,Unknown,157
+Bamboo Airways,1576961,07:05,,,09:20,2h 15m,HAN,SGN,Unknown,158
+Bamboo Airways,1576961,18:20,,,20:35,2h 15m,HAN,SGN,Unknown,159
+Bamboo Airways,1576961,22:35,,,00:50,2h 15m,HAN,SGN,Unknown,160
+Vietnam Airlines,1605930,05:00,,,07:10,2h 10m,HAN,SGN,Unknown,161
+Vietnam Airlines,1605930,06:00,,,08:10,2h 10m,HAN,SGN,Unknown,162
+Vietnam Airlines,1605930,18:30,,,20:40,2h 10m,HAN,SGN,Unknown,163
+Vietnam Airlines,1605930,19:00,,,21:10,2h 10m,HAN,SGN,Unknown,164
+Vietnam Airlines,1605930,20:00,,,22:10,2h 10m,HAN,SGN,Unknown,165
+Vietnam Airlines,1605930,20:30,,,22:40,2h 10m,HAN,SGN,Unknown,166
+"Bamboo Airways, VietJet Air",2147718,22:35,,,07:00,8h 25m,HAN,UIH,Unknown,167
+"Bamboo Airways, VietJet Air",2147718,20:30,,,07:00,10h 30m,HAN,UIH,Unknown,168
+"Vietravel Airlines, VietJet Air",2199604,21:00,,,07:00,10h 0m,HAN,UIH,Unknown,169
+"Vietravel Airlines, VietJet Air",2199604,20:30,,,07:00,10h 30m,HAN,UIH,Unknown,170
+"Vietravel Airlines, VietJet Air",2199604,16:10,,,07:00,14h 50m,HAN,UIH,Unknown,171
+"Vietravel Airlines, Bamboo Airways",2249135,21:00,,,17:45,20h 45m,HAN,UIH,Unknown,172
+"Vietravel Airlines, Bamboo Airways",2249135,20:30,,,17:45,21h 15m,HAN,UIH,Unknown,173
+VietJet Air,2450350,11:40,,,18:55,31h 15m,HAN,UIH,Unknown,174
+VietJet Air,2455206,22:10,,,12:25,14h 15m,HAN,UIH,Unknown,175
+Bamboo Airways,2230836,07:05,,,17:45,10h 40m,HAN,UIH,Unknown,176
+VietJet Air,1352824,15:25,,,17:00,1h 35m,HAN,UIH,Unknown,177
+Vietnam Airlines,2540279,11:20,,,12:55,1h 35m,HAN,UIH,Unknown,178
+Vietnam Airlines,3327007,11:20,,,12:55,1h 35m,HAN,UIH,Unknown,179
+VietJet Air,2022840,22:50,,,07:00,8h 10m,HAN,UIH,Unknown,180
+"Vietravel Airlines, VietJet Air",2075140,21:00,,,07:00,10h 0m,HAN,UIH,Unknown,181
+"Vietravel Airlines, VietJet Air",2194930,20:30,,,07:00,10h 30m,HAN,UIH,Unknown,182
+"Vietravel Airlines, VietJet Air",2194930,16:10,,,07:00,14h 50m,HAN,UIH,Unknown,183
+"Vietravel Airlines, VietJet Air",2194930,10:50,,,07:00,20h 10m,HAN,UIH,Unknown,184
+"Vietravel Airlines, VietJet Air",2194930,10:05,,,07:00,20h 55m,HAN,UIH,Unknown,185
+Bamboo Airways,971976,13:50,,,15:30,1h 40m,HAN,UIH,Unknown,186
+VietJet Air,1121450,07:10,,,08:45,1h 35m,HAN,UIH,Unknown,187
+Vietnam Airlines,1205940,11:20,,,12:55,1h 35m,HAN,UIH,Unknown,188
+Vietnam Airlines,3327007,11:20,,,12:55,1h 35m,HAN,UIH,Unknown,189
+VietJet Air,2223640,16:00,,,18:55,26h 55m,HAN,UIH,Unknown,190
+VietJet Air,2245711,15:55,,,12:25,20h 30m,HAN,UIH,Unknown,191
+VietJet Air,2245711,08:40,,,12:25,27h 45m,HAN,UIH,Unknown,192
+VietJet Air,2360226,22:10,,,12:25,14h 15m,HAN,UIH,Unknown,193
+VietJet Air,2363801,22:10,,,18:55,20h 45m,HAN,UIH,Unknown,194
+"Vietravel Airlines, VietJet Air",2400850,10:50,,,18:55,8h 5m,HAN,UIH,Unknown,195
+VietJet Air,4123288,15:35,,,07:05,15h 30m,HAN,VDH,Unknown,196
+VietJet Air,4241439,16:00,,,07:05,15h 5m,HAN,VDH,Unknown,197
+VietJet Air,4241439,06:40,,,07:05,24h 25m,HAN,VDH,Unknown,198
+VietJet Air,4241439,05:10,,,07:05,25h 55m,HAN,VDH,Unknown,199
+VietJet Air,4241439,05:00,,,07:05,26h 5m,HAN,VDH,Unknown,200
+VietJet Air,4244085,19:05,,,07:05,12h 0m,HAN,VDH,Unknown,201
+VietJet Air,4244085,18:30,,,07:05,12h 35m,HAN,VDH,Unknown,202
+Vietnam Airlines,1108430,08:45,,,09:50,1h 5m,HAN,VDH,Unknown,203
+VietJet Air,3831179,19:15,,,07:05,11h 50m,HAN,VDH,Unknown,204
+VietJet Air,3868204,16:00,,,07:05,15h 5m,HAN,VDH,Unknown,205
+VietJet Air,3868204,15:55,,,07:05,15h 10m,HAN,VDH,Unknown,206
+VietJet Air,3868204,15:35,,,07:05,15h 30m,HAN,VDH,Unknown,207
+VietJet Air,3868204,08:55,,,07:05,22h 10m,HAN,VDH,Unknown,208
+VietJet Air,3868204,08:40,,,07:05,22h 25m,HAN,VDH,Unknown,209
+VietJet Air,3868204,05:10,,,07:05,25h 55m,HAN,VDH,Unknown,210
+VietJet Air,3868204,05:00,,,07:05,26h 5m,HAN,VDH,Unknown,211
+VietJet Air,3981537,23:40,,,07:05,7h 25m,HAN,VDH,Unknown,212
+Vietnam Airlines,1028830,08:45,,,09:50,1h 5m,HAN,VDH,Unknown,213
+VietJet Air,3868204,06:40,,,07:05,24h 25m,HAN,VDH,Unknown,214
+VietJet Air,3981537,23:40,,,07:05,7h 25m,HAN,VDH,Unknown,215
+VietJet Air,3981537,23:25,,,07:05,7h 40m,HAN,VDH,Unknown,216
+VietJet Air,3981537,19:05,,,07:05,12h 0m,HAN,VDH,Unknown,217
+VietJet Air,3981537,18:30,,,07:05,12h 35m,HAN,VDH,Unknown,218
+VietJet Air,3981537,18:10,,,07:05,12h 55m,HAN,VDH,Unknown,219
+VietJet Air,3981537,18:00,,,07:05,13h 5m,HAN,VDH,Unknown,220
+VietJet Air,3981537,16:00,,,07:05,15h 5m,HAN,VDH,Unknown,221
+VietJet Air,3981537,16:00,,,07:05,15h 5m,HAN,VDH,Unknown,222
+VietJet Air,2807101,05:40,,,19:30,37h 50m,SGN,CXR,Nha Trang,223
+VietJet Air,2910432,23:20,,,14:50,15h 30m,SGN,CXR,Nha Trang,224
+VietJet Air,3121885,14:35,,,19:30,28h 55m,SGN,CXR,Nha Trang,225
+VietJet Air,3121885,10:00,,,19:30,33h 30m,SGN,CXR,Nha Trang,226
+VietJet Air,3186328,05:20,,,14:50,33h 30m,SGN,CXR,Nha Trang,227
+VietJet Air,3339731,14:35,,,14:50,24h 15m,SGN,CXR,Nha Trang,228
+VietJet Air,3339731,13:20,,,14:50,25h 30m,SGN,CXR,Nha Trang,229
+VietJet Air,3339731,09:00,,,14:50,29h 50m,SGN,CXR,Nha Trang,230
+Vietnam Airlines,3365218,22:30,,,18:40,20h 10m,SGN,CXR,Nha Trang,231
+Vietnam Airlines,3458748,22:30,,,11:55,13h 25m,SGN,CXR,Nha Trang,232
+VietJet Air,678302,22:05,,,23:05,1h 0m,SGN,CXR,Nha Trang,233
+VietJet Air,678302,17:00,,,18:00,1h 0m,SGN,CXR,Nha Trang,234
+VietJet Air,678302,20:30,,,21:30,1h 0m,SGN,CXR,Nha Trang,235
+VietJet Air,678302,20:50,,,21:50,1h 0m,SGN,CXR,Nha Trang,236
+VietJet Air,678302,16:25,,,17:35,1h 10m,SGN,CXR,Nha Trang,237
+Vietnam Airlines,902465,19:50,,,20:55,1h 5m,SGN,CXR,Nha Trang,238
+Vietnam Airlines,922365,19:00,,,20:10,1h 10m,SGN,CXR,Nha Trang,239
+Vietnam Airlines,1112532,08:55,,,09:55,1h 0m,SGN,CXR,Nha Trang,240
+Vietnam Airlines,1191015,07:00,,,08:05,1h 5m,SGN,CXR,Nha Trang,241
+Vietnam Airlines,1767120,13:10,,,14:15,1h 5m,SGN,CXR,Nha Trang,242
+VietJet Air,3167958,23:20,,,14:50,15h 30m,SGN,CXR,Nha Trang,243
+VietJet Air,3389798,06:15,,,14:50,32h 35m,SGN,CXR,Nha Trang,244
+VietJet Air,3389798,05:30,,,14:50,33h 20m,SGN,CXR,Nha Trang,245
+VietJet Air,3389798,05:20,,,14:50,33h 30m,SGN,CXR,Nha Trang,246
+VietJet Air,3819097,13:20,,,14:50,25h 30m,SGN,CXR,Nha Trang,247
+Vietnam Airlines,4144735,06:00,,,18:40,12h 40m,SGN,CXR,Nha Trang,248
+VietJet Air,4162376,09:00,,,14:50,29h 50m,SGN,CXR,Nha Trang,249
+Vietnam Airlines,4189000,07:00,,,18:40,11h 40m,SGN,CXR,Nha Trang,250
+Vietnam Airlines,4430240,12:00,,,18:40,6h 40m,SGN,CXR,Nha Trang,251
+Vietnam Airlines,4586806,06:00,,,15:40,9h 40m,SGN,CXR,Nha Trang,252
+Vietnam Airlines,1556975,20:05,20-05-2024,20-05-2024,21:20,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,253
+VietJet Air,673794,19:45,21-05-2024,21-05-2024,20:45,1h 0m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,254
+VietJet Air,887634,17:30,21-05-2024,21-05-2024,18:30,1h 0m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,255
+Bamboo Airways,929675,09:35,21-05-2024,21-05-2024,10:45,1h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,256
+VietJet Air,971014,14:25,21-05-2024,21-05-2024,15:25,1h 0m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,257
+Vietnam Airlines,1125450,11:45,21-05-2024,21-05-2024,13:00,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,258
+Vietnam Airlines,1125450,20:05,21-05-2024,21-05-2024,21:20,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,259
+Vietnam Airlines,1457550,12:15,21-05-2024,21-05-2024,13:30,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,260
+Vietnam Airlines,1457550,14:10,21-05-2024,21-05-2024,15:25,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,261
+Vietnam Airlines,1457550,06:40,21-05-2024,21-05-2024,08:00,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,262
+Vietnam Airlines,15765389,23:00,21-05-2024,22-05-2024,01:20,2h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,263
+Vietnam Airlines,15765389,22:00,21-05-2024,22-05-2024,00:10,2h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,264
+Vietnam Airlines,15765389,23:00,21-05-2024,22-05-2024,01:20,2h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,265
+Vietnam Airlines,15765389,22:00,21-05-2024,22-05-2024,00:10,2h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,266
+Vietnam Airlines,16629592,21:00,21-05-2024,21-05-2024,23:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,267
+Vietnam Airlines,16629592,21:00,21-05-2024,21-05-2024,23:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,268
+Vietnam Airlines,18589896,19:10,21-05-2024,21-05-2024,20:40,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Huế (HUI)
+Sân bay quốc tế Phú Bài",Nha Trang,269
+VietJet Air,588258,19:20,22-05-2024,22-05-2024,20:20,1h 0m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,270
+VietJet Air,588258,20:00,22-05-2024,22-05-2024,21:00,1h 0m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,271
+Bamboo Airways,818975,09:35,22-05-2024,22-05-2024,10:45,1h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,272
+VietJet Air,905566,17:00,22-05-2024,22-05-2024,18:00,1h 0m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,273
+VietJet Air,971014,14:25,22-05-2024,22-05-2024,15:25,1h 0m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,274
+Vietnam Airlines,1125450,13:35,22-05-2024,22-05-2024,14:50,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,275
+Vietnam Airlines,1236150,14:10,22-05-2024,22-05-2024,15:25,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,276
+Vietnam Airlines,1236150,20:05,22-05-2024,22-05-2024,21:20,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,277
+Vietnam Airlines,1346850,12:15,22-05-2024,22-05-2024,13:30,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,278
+Vietnam Airlines,1346850,06:40,22-05-2024,22-05-2024,08:00,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,279
+Vietnam Airlines,13109652,20:00,22-05-2024,22-05-2024,22:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,280
+Vietnam Airlines,13709090,23:00,22-05-2024,23-05-2024,01:20,2h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,281
+Vietnam Airlines,13709090,22:00,22-05-2024,23-05-2024,00:10,2h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,282
+Vietnam Airlines,13709090,21:00,22-05-2024,22-05-2024,23:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,283
+Vietnam Airlines,13709090,23:00,22-05-2024,23-05-2024,01:20,2h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,284
+Vietnam Airlines,13709090,22:00,22-05-2024,23-05-2024,00:10,2h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,285
+Vietnam Airlines,13709090,21:00,22-05-2024,22-05-2024,23:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,286
+Vietnam Airlines,14569642,20:00,22-05-2024,22-05-2024,22:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,287
+Vietnam Airlines,15165689,19:00,22-05-2024,22-05-2024,21:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,288
+Vietnam Airlines,15467235,16:00,22-05-2024,22-05-2024,18:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,289
+Vietnam Airlines,15467235,17:00,22-05-2024,22-05-2024,19:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,290
+Vietnam Airlines,15467235,16:00,22-05-2024,22-05-2024,18:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,291
+Vietnam Airlines,15467235,12:00,22-05-2024,22-05-2024,14:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,292
+Vietnam Airlines,15467235,11:00,22-05-2024,22-05-2024,13:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,293
+Vietnam Airlines,16629592,19:00,22-05-2024,22-05-2024,21:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,294
+Vietnam Airlines,16629592,18:00,22-05-2024,22-05-2024,20:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,295
+Vietnam Airlines,16629592,17:00,22-05-2024,22-05-2024,19:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,296
+Vietnam Airlines,16629592,18:00,22-05-2024,22-05-2024,20:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,297
+Vietnam Airlines,16629592,13:00,22-05-2024,22-05-2024,15:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,298
+Vietnam Airlines,16629592,15:00,22-05-2024,22-05-2024,17:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,299
+Vietnam Airlines,17486491,05:00,22-05-2024,22-05-2024,07:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,300
+VietJet Air,951786,06:40,23-05-2024,23-05-2024,07:50,1h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,301
+VietJet Air,1037322,14:25,23-05-2024,23-05-2024,15:25,1h 0m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,302
+VietJet Air,1058278,14:00,23-05-2024,23-05-2024,15:00,1h 0m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,303
+Bamboo Airways,1129550,09:35,23-05-2024,23-05-2024,10:45,1h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,304
+Vietnam Airlines,1236150,14:50,23-05-2024,23-05-2024,16:05,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,305
+Vietnam Airlines,1236150,06:40,23-05-2024,23-05-2024,08:00,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,306
+Vietnam Airlines,1346850,14:10,23-05-2024,23-05-2024,15:25,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,307
+Vietnam Airlines,1346850,20:05,23-05-2024,23-05-2024,21:20,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,308
+Vietnam Airlines,13035048,06:00,23-05-2024,23-05-2024,08:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,309
+Vietnam Airlines,13035048,05:00,23-05-2024,23-05-2024,07:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,310
+Vietnam Airlines,13634748,23:00,23-05-2024,24-05-2024,01:20,2h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,311
+Vietnam Airlines,13634748,22:00,23-05-2024,24-05-2024,00:10,2h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,312
+Vietnam Airlines,13634748,20:00,23-05-2024,23-05-2024,22:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,313
+Vietnam Airlines,19677650,07:20,23-05-2024,23-05-2024,09:00,1h 40m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đồng Hới (VDH)
+Sân bay Đồng Hới",Nha Trang,314
+Vietnam Airlines,1346850,22:00,24-05-2024,24-05-2024,23:15,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,315
+Bamboo Airways,1572350,09:35,24-05-2024,24-05-2024,10:45,1h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,316
+Vietnam Airlines,1656400,20:05,24-05-2024,24-05-2024,21:20,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,317
+VietJet Air,1678842,14:25,24-05-2024,24-05-2024,15:25,1h 0m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,318
+Vietnam Airlines,1744550,15:45,24-05-2024,24-05-2024,17:00,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,319
+Vietnam Airlines,1744550,06:40,24-05-2024,24-05-2024,08:00,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,320
+Vietnam Airlines,1833725,18:30,24-05-2024,24-05-2024,19:45,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,321
+Vietnam Airlines,1889075,14:10,24-05-2024,24-05-2024,15:25,1h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,322
+Vietnam Airlines,1952625,12:45,24-05-2024,24-05-2024,13:50,1h 5m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Nha Trang (CXR)
+Sân bay Cam Ranh",Nha Trang,323
+VietJet Air,2955030,05:30,24-05-2024,24-05-2024,07:30,2h 0m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",Nha Trang,324
+VietJet Air,2955030,20:20,24-05-2024,24-05-2024,22:20,2h 0m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",Nha Trang,325
+VietJet Air,2955030,16:35,24-05-2024,24-05-2024,18:35,2h 0m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",Nha Trang,326
+VietJet Air,3065730,14:10,24-05-2024,24-05-2024,16:10,2h 0m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hải Phòng (HPH)
+Sân bay quốc tế Cát Bi",Nha Trang,327
+Vietnam Airlines,12178148,23:00,24-05-2024,25-05-2024,01:20,2h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,328
+Vietnam Airlines,12178148,22:30,24-05-2024,25-05-2024,00:50,2h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,329
+Vietnam Airlines,12178148,22:00,24-05-2024,25-05-2024,00:10,2h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,330
+Vietnam Airlines,12178148,21:00,24-05-2024,24-05-2024,23:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,331
+Vietnam Airlines,12178148,20:45,24-05-2024,24-05-2024,22:50,2h 5m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,332
+Vietnam Airlines,13035048,20:00,24-05-2024,24-05-2024,22:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,333
+Vietnam Airlines,13035048,19:30,24-05-2024,24-05-2024,21:40,2h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,334
+Vietnam Airlines,13035048,19:00,24-05-2024,24-05-2024,21:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,335
+Vietnam Airlines,13035048,17:30,24-05-2024,24-05-2024,19:35,2h 5m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,336
+Vietnam Airlines,13035048,17:00,24-05-2024,24-05-2024,19:15,2h 15m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,337
+Vietnam Airlines,13035048,16:40,24-05-2024,24-05-2024,19:10,2h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Hà Nội (HAN)
+Sân bay Nội Bài",Nha Trang,338
+Vietravel Airlines,868230,19:10,,,20:30,1h 20m,SGN,DAD,Đà Nẵng,339
+Vietravel Airlines,969210,09:00,,,10:20,1h 20m,SGN,DAD,Đà Nẵng,340
+Bamboo Airways,993975,06:15,,,07:40,1h 25m,SGN,DAD,Đà Nẵng,341
+Vietnam Airlines,1125345,06:05,,,07:25,1h 20m,SGN,DAD,Đà Nẵng,342
+Vietnam Airlines,1125345,22:15,,,23:35,1h 20m,SGN,DAD,Đà Nẵng,343
+Vietnam Airlines,1253700,07:00,,,08:20,1h 20m,SGN,DAD,Đà Nẵng,344
+Bamboo Airways,1285968,13:10,,,14:35,1h 25m,SGN,DAD,Đà Nẵng,345
+Vietnam Airlines,1375090,08:05,,,09:20,1h 15m,SGN,DAD,Đà Nẵng,346
+Vietnam Airlines,1375090,17:15,,,18:30,1h 15m,SGN,DAD,Đà Nẵng,347
+Vietnam Airlines,1375090,15:15,,,16:35,1h 20m,SGN,DAD,Đà Nẵng,348
+Vietravel Airlines,868230,19:10,,,20:30,1h 20m,SGN,DAD,Đà Nẵng,349
+VietJet Air,678150,21:25,,,22:45,1h 20m,SGN,DAD,Đà Nẵng,350
+VietJet Air,678150,23:00,,,00:20,1h 20m,SGN,DAD,Đà Nẵng,351
+VietJet Air,720664,20:40,,,22:00,1h 20m,SGN,DAD,Đà Nẵng,352
+VietJet Air,902880,07:20,,,08:40,1h 20m,SGN,DAD,Đà Nẵng,353
+VietJet Air,902880,15:25,,,16:45,1h 20m,SGN,DAD,Đà Nẵng,354
+VietJet Air,902880,18:15,,,19:35,1h 20m,SGN,DAD,Đà Nẵng,355
+Vietravel Airlines,968220,09:00,,,10:20,1h 20m,SGN,DAD,Đà Nẵng,356
+Bamboo Airways,993975,10:05,,,11:30,1h 25m,SGN,DAD,Đà Nẵng,357
+Bamboo Airways,994000,06:15,,,07:40,1h 25m,SGN,DAD,Đà Nẵng,358
+Bamboo Airways,896978,06:15,,,07:40,1h 25m,SGN,DAD,Đà Nẵng,359
+Bamboo Airways,993975,10:05,,,11:30,1h 25m,SGN,DAD,Đà Nẵng,360
+Vietnam Airlines,1231810,06:05,,,07:25,1h 20m,SGN,DAD,Đà Nẵng,361
+Vietnam Airlines,1231810,20:55,,,22:15,1h 20m,SGN,DAD,Đà Nẵng,362
+Vietnam Airlines,1244773,07:00,,,08:20,1h 20m,SGN,DAD,Đà Nẵng,363
+Vietnam Airlines,1244773,18:55,,,20:15,1h 20m,SGN,DAD,Đà Nẵng,364
+Vietnam Airlines,1384045,17:05,,,18:20,1h 15m,SGN,DAD,Đà Nẵng,365
+Vietnam Airlines,1384045,15:15,,,16:35,1h 20m,SGN,DAD,Đà Nẵng,366
+Vietnam Airlines,1384045,16:20,,,17:40,1h 20m,SGN,DAD,Đà Nẵng,367
+Vietnam Airlines,1384045,16:45,,,18:05,1h 20m,SGN,DAD,Đà Nẵng,368
+Bamboo Airways,1107000,22:25,20-05-2024,20-05-2024,23:50,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,369
+VietJet Air,1267044,19:45,20-05-2024,20-05-2024,21:05,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,370
+Bamboo Airways,1306875,18:10,20-05-2024,20-05-2024,19:35,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,371
+Vietnam Airlines,1388520,21:05,20-05-2024,20-05-2024,22:30,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,372
+Vietnam Airlines,1388520,21:15,20-05-2024,20-05-2024,22:40,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,373
+Vietravel Airlines,1394244,21:10,20-05-2024,20-05-2024,22:15,1h 5m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,374
+Vietnam Airlines,1523150,20:10,20-05-2024,20-05-2024,21:35,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,375
+VietJet Air,2489820,19:35,20-05-2024,20-05-2024,20:55,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,376
+Vietravel Airlines,925200,20:50,21-05-2024,21-05-2024,22:15,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,377
+Vietravel Airlines,1023372,08:10,21-05-2024,21-05-2024,09:30,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,378
+VietJet Air,1024692,20:30,21-05-2024,21-05-2024,21:50,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,379
+VietJet Air,1024692,20:35,21-05-2024,21-05-2024,21:55,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,380
+VietJet Air,1123726,19:15,21-05-2024,21-05-2024,20:35,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,381
+VietJet Air,1254622,05:35,21-05-2024,21-05-2024,06:55,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,382
+VietJet Air,1254622,15:40,21-05-2024,21-05-2024,17:00,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,383
+VietJet Air,1254622,16:15,21-05-2024,21-05-2024,17:35,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,384
+Bamboo Airways,1306875,09:40,21-05-2024,21-05-2024,11:05,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,385
+Bamboo Airways,1306875,14:00,21-05-2024,21-05-2024,15:25,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,386
+Vietnam Airlines,1388520,20:10,21-05-2024,21-05-2024,21:35,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,387
+Vietnam Airlines,1388520,21:00,21-05-2024,21-05-2024,22:30,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,388
+VietJet Air,1396426,07:05,21-05-2024,21-05-2024,08:25,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,389
+Vietnam Airlines,1523150,18:20,21-05-2024,21-05-2024,19:30,1h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,390
+Vietnam Airlines,1523150,15:20,21-05-2024,21-05-2024,16:45,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,391
+Vietnam Airlines,1523150,16:00,21-05-2024,21-05-2024,17:35,1h 35m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,392
+Vietnam Airlines,1656400,07:00,21-05-2024,21-05-2024,08:20,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,393
+Vietnam Airlines,1789650,13:05,21-05-2024,21-05-2024,14:30,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,394
+Vietnam Airlines,1789650,08:00,21-05-2024,21-05-2024,09:30,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,395
+Vietnam Airlines,1789650,10:30,21-05-2024,21-05-2024,12:00,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,396
+Vietnam Airlines,1789650,11:45,21-05-2024,21-05-2024,13:15,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,397
+VietJet Air,1810930,13:40,21-05-2024,21-05-2024,15:00,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,398
+Vietnam Airlines,1921875,06:00,21-05-2024,21-05-2024,07:30,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,399
+Vietnam Airlines,1921875,08:55,21-05-2024,21-05-2024,10:30,1h 35m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,400
+VietJet Air,2465410,19:45,21-05-2024,21-05-2024,21:05,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,401
+Bamboo Airways,1007575,21:10,22-05-2024,22-05-2024,22:35,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,402
+Vietravel Airlines,1023372,08:10,22-05-2024,22-05-2024,09:30,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,403
+Vietravel Airlines,1023372,20:50,22-05-2024,22-05-2024,22:15,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,404
+VietJet Air,1024692,20:35,22-05-2024,22-05-2024,21:55,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,405
+VietJet Air,1123726,05:35,22-05-2024,22-05-2024,06:55,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,406
+VietJet Air,1134852,20:30,22-05-2024,22-05-2024,21:50,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,407
+Bamboo Airways,1196175,14:00,22-05-2024,22-05-2024,15:25,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,408
+VietJet Air,1254622,13:40,22-05-2024,22-05-2024,15:00,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,409
+VietJet Air,1254622,15:40,22-05-2024,22-05-2024,17:00,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,410
+VietJet Air,1254622,19:45,22-05-2024,22-05-2024,21:05,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,411
+Bamboo Airways,1306875,09:40,22-05-2024,22-05-2024,11:05,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,412
+Vietnam Airlines,1388520,20:10,22-05-2024,22-05-2024,21:35,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,413
+VietJet Air,1396426,07:05,22-05-2024,22-05-2024,08:25,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,414
+VietJet Air,1396426,11:30,22-05-2024,22-05-2024,12:50,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,415
+VietJet Air,1396426,11:40,22-05-2024,22-05-2024,13:00,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,416
+VietJet Air,1396426,16:15,22-05-2024,22-05-2024,17:35,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,417
+Vietnam Airlines,1508290,21:00,22-05-2024,22-05-2024,22:30,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,418
+Vietnam Airlines,1656400,07:10,22-05-2024,22-05-2024,08:20,1h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,419
+Vietnam Airlines,1656400,18:20,22-05-2024,22-05-2024,19:30,1h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,420
+Vietnam Airlines,1656400,15:20,22-05-2024,22-05-2024,16:45,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,421
+Vietnam Airlines,1656400,16:00,22-05-2024,22-05-2024,17:35,1h 35m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,422
+Vietnam Airlines,1789650,13:05,22-05-2024,22-05-2024,14:30,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,423
+Vietnam Airlines,1789650,06:00,22-05-2024,22-05-2024,07:30,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,424
+Vietnam Airlines,1789650,11:45,22-05-2024,22-05-2024,13:15,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,425
+Vietnam Airlines,1921875,10:30,22-05-2024,22-05-2024,12:00,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,426
+Vietnam Airlines,2232450,08:55,22-05-2024,22-05-2024,10:30,1h 35m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,427
+Vietnam Airlines,2509200,08:00,22-05-2024,22-05-2024,09:30,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,428
+VietJet Air,1123726,20:10,23-05-2024,23-05-2024,21:30,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,429
+VietJet Air,1134852,20:30,23-05-2024,23-05-2024,21:50,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,430
+VietJet Air,1134852,20:35,23-05-2024,23-05-2024,21:55,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,431
+Vietravel Airlines,1252440,08:10,23-05-2024,23-05-2024,09:30,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,432
+Vietravel Airlines,1252440,20:50,23-05-2024,23-05-2024,22:15,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,433
+VietJet Air,1254622,19:45,23-05-2024,23-05-2024,21:05,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,434
+Bamboo Airways,1306875,21:10,23-05-2024,23-05-2024,22:35,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,435
+VietJet Air,1396426,05:35,23-05-2024,23-05-2024,06:55,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,436
+VietJet Air,1396426,07:05,23-05-2024,23-05-2024,08:25,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,437
+VietJet Air,1396426,11:30,23-05-2024,23-05-2024,12:50,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,438
+VietJet Air,1396426,11:40,23-05-2024,23-05-2024,13:00,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,439
+VietJet Air,1396426,16:15,23-05-2024,23-05-2024,17:35,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,440
+Bamboo Airways,1450375,09:40,23-05-2024,23-05-2024,11:05,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,441
+Bamboo Airways,1450375,14:00,23-05-2024,23-05-2024,15:25,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,442
+Vietnam Airlines,1640240,21:00,23-05-2024,23-05-2024,22:30,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,443
+Vietnam Airlines,1640240,21:15,23-05-2024,23-05-2024,22:45,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,444
+VietJet Air,1680034,15:40,23-05-2024,23-05-2024,17:00,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,445
+Vietnam Airlines,1789650,06:00,23-05-2024,23-05-2024,07:30,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,446
+Vietnam Airlines,1921875,07:10,23-05-2024,23-05-2024,08:20,1h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,447
+Vietnam Airlines,1921875,20:10,23-05-2024,23-05-2024,21:35,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,448
+Vietnam Airlines,2076650,18:20,23-05-2024,23-05-2024,19:30,1h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,449
+Vietnam Airlines,2076650,16:00,23-05-2024,23-05-2024,17:35,1h 35m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,450
+Vietnam Airlines,2232450,13:05,23-05-2024,23-05-2024,14:30,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,451
+Vietnam Airlines,2232450,15:20,23-05-2024,23-05-2024,16:45,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,452
+Vietnam Airlines,2375950,08:00,23-05-2024,23-05-2024,09:30,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,453
+Vietnam Airlines,2375950,11:45,23-05-2024,23-05-2024,13:15,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,454
+Vietnam Airlines,2561475,10:30,23-05-2024,23-05-2024,12:00,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,455
+Vietnam Airlines,2561475,08:55,23-05-2024,23-05-2024,10:30,1h 35m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,456
+Vietravel Airlines,1252440,21:05,24-05-2024,24-05-2024,22:15,1h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,457
+Vietravel Airlines,1252440,08:05,24-05-2024,24-05-2024,09:30,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,458
+VietJet Air,1254622,05:35,24-05-2024,24-05-2024,06:55,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,459
+VietJet Air,1267044,20:30,24-05-2024,24-05-2024,21:50,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,460
+VietJet Air,1267044,20:35,24-05-2024,24-05-2024,21:55,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,461
+VietJet Air,1396426,07:05,24-05-2024,24-05-2024,08:25,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,462
+VietJet Air,1396426,13:40,24-05-2024,24-05-2024,15:00,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,463
+VietJet Air,1396426,15:40,24-05-2024,24-05-2024,17:00,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,464
+VietJet Air,1396426,16:15,24-05-2024,24-05-2024,17:35,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,465
+VietJet Air,1396426,19:45,24-05-2024,24-05-2024,21:05,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,466
+Bamboo Airways,1450375,09:40,24-05-2024,24-05-2024,11:05,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,467
+Bamboo Airways,1450375,21:10,24-05-2024,24-05-2024,22:35,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,468
+VietJet Air,1560046,11:30,24-05-2024,24-05-2024,12:50,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,469
+VietJet Air,1560046,11:40,24-05-2024,24-05-2024,13:00,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,470
+Bamboo Airways,1616425,14:00,24-05-2024,24-05-2024,15:25,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,471
+Vietnam Airlines,1640240,21:15,24-05-2024,24-05-2024,22:45,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,472
+Vietnam Airlines,1772190,21:05,24-05-2024,24-05-2024,22:30,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,473
+Vietnam Airlines,1789650,05:40,24-05-2024,24-05-2024,07:05,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,474
+Vietnam Airlines,1789650,20:35,24-05-2024,24-05-2024,22:05,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,475
+Vietnam Airlines,1921875,06:00,24-05-2024,24-05-2024,07:30,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,476
+Vietnam Airlines,1921875,06:25,24-05-2024,24-05-2024,07:55,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,477
+Vietnam Airlines,2232450,15:20,24-05-2024,24-05-2024,16:45,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,478
+Vietnam Airlines,2232450,16:00,24-05-2024,24-05-2024,17:35,1h 35m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,479
+Vietnam Airlines,2375950,07:10,24-05-2024,24-05-2024,08:20,1h 10m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,480
+Vietnam Airlines,2375950,13:05,24-05-2024,24-05-2024,14:30,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,481
+Vietnam Airlines,2375950,20:10,24-05-2024,24-05-2024,21:35,1h 25m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,482
+Vietnam Airlines,2561475,11:10,24-05-2024,24-05-2024,12:30,1h 20m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,483
+Vietnam Airlines,2561475,08:00,24-05-2024,24-05-2024,09:30,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,484
+Vietnam Airlines,2561475,10:30,24-05-2024,24-05-2024,12:00,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,485
+Vietnam Airlines,2561475,11:45,24-05-2024,24-05-2024,13:15,1h 30m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,486
+Vietnam Airlines,2561475,08:55,24-05-2024,24-05-2024,10:30,1h 35m,"TP HCM (SGN)
+Sân bay Tân Sơn Nhất
+Nhà ga 1","Đà Nẵng (DAD)
+Sân bay Đà Nẵng",Đà Nẵng,487
+Bamboo Airways,815432,12:05,,,13:00,55m,SGN,DLI,Unknown,488
+VietJet Air,678302,18:35,,,19:30,55m,SGN,DLI,Unknown,489
+Vietnam Airlines,908435,07:00,,,07:50,50m,SGN,DLI,Unknown,490
+Vietnam Airlines,1020870,18:20,,,19:20,1h 0m,SGN,DLI,Unknown,491
+Vietnam Airlines,1035811,06:15,,,07:05,50m,SGN,DLI,Unknown,492
+Vietnam Airlines,1035811,17:25,,,18:15,50m,SGN,DLI,Unknown,493
+Vietnam Airlines,1486342,10:25,,,11:10,45m,SGN,DLI,Unknown,494
+VietJet Air,2917091,23:20,,,07:40,8h 20m,SGN,DLI,Unknown,495
+VietJet Air,3086828,23:00,,,18:05,19h 5m,SGN,DLI,Unknown,496
+VietJet Air,3086828,22:40,,,18:05,19h 25m,SGN,DLI,Unknown,497
+VietJet Air,2688592,23:20,,,07:40,8h 20m,SGN,DLI,Unknown,498
+VietJet Air,2688592,23:20,,,13:15,13h 55m,SGN,DLI,Unknown,499
+VietJet Air,2909033,14:40,,,13:15,22h 35m,SGN,DLI,Unknown,500
+VietJet Air,2910432,05:20,,,13:15,31h 55m,SGN,DLI,Unknown,501
+VietJet Air,3024947,13:20,,,07:40,18h 20m,SGN,DLI,Unknown,502
+VietJet Air,3024947,13:20,,,13:15,23h 55m,SGN,DLI,Unknown,503
+VietJet Air,3024947,06:15,,,13:15,31h 0m,SGN,DLI,Unknown,504
+VietJet Air,3339731,08:30,,,13:15,28h 45m,SGN,DLI,Unknown,505
+Vietnam Airlines,4094475,07:00,,,13:55,6h 55m,SGN,DLI,Unknown,506
+Vietnam Airlines,4191625,06:00,,,13:55,7h 55m,SGN,DLI,Unknown,507
+Bamboo Airways,815432,12:05,,,13:00,55m,SGN,DLI,Unknown,508
+VietJet Air,678302,18:25,,,19:30,1h 5m,SGN,DLI,Unknown,509
+Vietnam Airlines,1016890,06:15,,,07:05,50m,SGN,DLI,Unknown,510
+Vietnam Airlines,1035795,07:00,,,07:50,50m,SGN,DLI,Unknown,511
+Vietnam Airlines,1219870,18:20,,,19:20,1h 0m,SGN,DLI,Unknown,512
+Vietnam Airlines,1398970,17:25,,,18:15,50m,SGN,DLI,Unknown,513
+Vietnam Airlines,1566130,10:25,,,11:10,45m,SGN,DLI,Unknown,514
+VietJet Air,2956521,22:40,,,18:05,19h 25m,SGN,DLI,Unknown,515
+VietJet Air,3024947,23:20,,,07:40,8h 20m,SGN,DLI,Unknown,516
+VietJet Air,3024947,23:20,,,13:15,13h 55m,SGN,DLI,Unknown,517
+Vietravel Airlines,767250,17:20,,,18:25,1h 5m,SGN,PQC,Unknown,518
+Vietravel Airlines,835560,13:25,,,14:30,1h 5m,SGN,PQC,Unknown,519
+VietJet Air,892980,15:15,,,16:15,1h 0m,SGN,PQC,Unknown,520
+SUN PhuQuoc AIRWAYS,959442,15:25,,,16:25,1h 0m,SGN,PQC,Unknown,521
+Vietnam Airlines,1059675,05:40,,,06:40,1h 0m,SGN,PQC,Unknown,522
+VietJet Air,1122515,07:30,,,08:30,1h 0m,SGN,PQC,Unknown,523
+VietJet Air,1133854,05:50,,,06:50,1h 0m,SGN,PQC,Unknown,524
+SUN PhuQuoc AIRWAYS,1135820,10:35,,,11:35,1h 0m,SGN,PQC,Unknown,525
+Vietnam Airlines,1213900,08:10,,,09:10,1h 0m,SGN,PQC,Unknown,526
+Vietnam Airlines,1217880,15:20,,,16:20,1h 0m,SGN,PQC,Unknown,527
+Vietravel Airlines,713790,17:20,,,18:25,1h 5m,SGN,PQC,Unknown,528
+VietJet Air,678302,05:50,,,06:50,1h 0m,SGN,PQC,Unknown,529
+Vietravel Airlines,835560,13:25,,,14:30,1h 5m,SGN,PQC,Unknown,530
+Vietnam Airlines,861513,05:40,,,06:40,1h 0m,SGN,PQC,Unknown,531
+VietJet Air,903606,07:30,,,08:30,1h 0m,SGN,PQC,Unknown,532
+VietJet Air,903606,15:15,,,16:15,1h 0m,SGN,PQC,Unknown,533
+SUN PhuQuoc AIRWAYS,959442,15:25,,,16:25,1h 0m,SGN,PQC,Unknown,534
+SUN PhuQuoc AIRWAYS,1031940,10:35,,,11:35,1h 0m,SGN,PQC,Unknown,535
+Vietnam Airlines,1080272,14:00,,,15:00,1h 0m,SGN,PQC,Unknown,536
+Vietnam Airlines,1080272,15:20,,,16:20,1h 0m,SGN,PQC,Unknown,537
+Vietravel Airlines,712800,17:15,,,18:25,1h 10m,SGN,PQC,Unknown,538
+VietJet Air,652410,12:50,,,14:00,1h 10m,SGN,PQC,Unknown,539
+VietJet Air,678302,07:30,,,08:30,1h 0m,SGN,PQC,Unknown,540
+VietJet Air,678302,12:10,,,13:10,1h 0m,SGN,PQC,Unknown,541
+Vietravel Airlines,835560,13:25,,,14:30,1h 5m,SGN,PQC,Unknown,542
+Vietnam Airlines,861513,05:40,,,06:40,1h 0m,SGN,PQC,Unknown,543
+VietJet Air,892980,05:50,,,06:50,1h 0m,SGN,PQC,Unknown,544
+Vietnam Airlines,1080272,09:55,,,10:55,1h 0m,SGN,PQC,Unknown,545
+Vietnam Airlines,1080272,14:00,,,15:00,1h 0m,SGN,PQC,Unknown,546
+Vietnam Airlines,1080272,15:20,,,16:20,1h 0m,SGN,PQC,Unknown,547
+Vietnam Airlines,1319370,07:35,,,08:40,1h 5m,SGN,TBB,Unknown,548
+Vietnam Airlines,2020277,07:35,,,08:40,1h 5m,SGN,TBB,Unknown,549
+Vietnam Airlines,3999900,06:40,,,13:45,7h 5m,SGN,TBB,Unknown,550
+Vietnam Airlines,4051640,07:05,,,13:45,6h 40m,SGN,TBB,Unknown,551
+Vietnam Airlines,4210840,07:00,,,13:45,6h 45m,SGN,TBB,Unknown,552
+Vietnam Airlines,4264620,11:00,,,13:45,26h 45m,SGN,TBB,Unknown,553
+Vietnam Airlines,4264620,10:45,,,13:45,27h 0m,SGN,TBB,Unknown,554
+Vietnam Airlines,4338200,07:25,,,13:45,6h 20m,SGN,TBB,Unknown,555
+Vietnam Airlines,4638690,08:00,,,13:45,5h 45m,SGN,TBB,Unknown,556
+Vietnam Airlines,4823642,06:00,,,13:45,7h 45m,SGN,TBB,Unknown,557
+Vietnam Airlines,1038780,07:35,,,08:40,1h 5m,SGN,TBB,Unknown,558
+VietJet Air,903606,11:30,,,12:40,1h 10m,SGN,TBB,Unknown,559
+Vietnam Airlines,3661849,07:00,,,13:45,6h 45m,SGN,TBB,Unknown,560
+Vietnam Airlines,3789955,07:05,,,13:45,6h 40m,SGN,TBB,Unknown,561
+Vietnam Airlines,3789955,06:40,,,13:45,7h 5m,SGN,TBB,Unknown,562
+Vietnam Airlines,3854680,07:00,,,13:45,6h 45m,SGN,TBB,Unknown,563
+Vietnam Airlines,3944180,07:25,,,13:45,6h 20m,SGN,TBB,Unknown,564
+Vietnam Airlines,3951830,06:00,,,13:45,7h 45m,SGN,TBB,Unknown,565
+Vietnam Airlines,4096465,08:00,,,13:45,5h 45m,SGN,TBB,Unknown,566
+Vietnam Airlines,4096465,11:00,,,13:45,26h 45m,SGN,TBB,Unknown,567
+Vietnam Airlines,1128330,07:35,,,08:40,1h 5m,SGN,TBB,Unknown,568
+Vietnam Airlines,3327280,06:30,,,13:45,7h 15m,SGN,TBB,Unknown,569
+Vietnam Airlines,3481882,06:40,,,13:45,7h 5m,SGN,TBB,Unknown,570
+Vietnam Airlines,3640270,06:00,,,13:45,7h 45m,SGN,TBB,Unknown,571
+Vietnam Airlines,3684535,07:00,,,13:45,6h 45m,SGN,TBB,Unknown,572
+Vietnam Airlines,3921295,07:25,,,13:45,6h 20m,SGN,TBB,Unknown,573
+Vietnam Airlines,3925775,12:00,,,13:45,25h 45m,SGN,TBB,Unknown,574
+Vietnam Airlines,4096465,08:00,,,13:45,5h 45m,SGN,TBB,Unknown,575
+Vietnam Airlines,4375017,11:00,,,13:45,26h 45m,SGN,TBB,Unknown,576
+VietJet Air,1791855,23:00,,,14:30,15h 30m,SGN,VCA,Unknown,577
+VietJet Air,1791855,22:40,,,14:30,15h 50m,SGN,VCA,Unknown,578
+VietJet Air,1817551,07:20,,,14:30,7h 10m,SGN,VCA,Unknown,579
+"Vietravel Airlines, VietJet Air",1883881,09:00,,,14:30,5h 30m,SGN,VCA,Unknown,580
+"Bamboo Airways, VietJet Air",1908646,06:15,,,14:30,8h 15m,SGN,VCA,Unknown,581
+"Vietravel Airlines, VietJet Air",2000745,19:10,,,14:30,19h 20m,SGN,VCA,Unknown,582
+VietJet Air,2035395,21:25,,,14:30,17h 5m,SGN,VCA,Unknown,583
+VietJet Air,2035395,20:40,,,14:30,17h 50m,SGN,VCA,Unknown,584
+"Vietnam Airlines, VietJet Air",2040016,06:05,,,14:30,8h 25m,SGN,VCA,Unknown,585
+VietJet Air,2046508,09:25,,,14:30,5h 5m,SGN,VCA,Unknown,586
+VietJet Air,1585090,23:00,,,14:30,15h 30m,SGN,VCA,Unknown,587
+VietJet Air,1585090,21:25,,,14:30,17h 5m,SGN,VCA,Unknown,588
+VietJet Air,1627604,20:40,,,14:30,17h 50m,SGN,VCA,Unknown,589
+"Vietravel Airlines, VietJet Air",1775170,19:10,,,14:30,19h 20m,SGN,VCA,Unknown,590
+VietJet Air,1809820,18:15,,,14:30,20h 15m,SGN,VCA,Unknown,591
+VietJet Air,1809820,15:25,,,14:30,23h 5m,SGN,VCA,Unknown,592
+VietJet Air,2035395,07:20,,,14:30,7h 10m,SGN,VCA,Unknown,593
+"VietJet Air, Vietnam Airlines",2079907,23:00,,,14:55,15h 55m,SGN,VCA,Unknown,594
+"Vietravel Airlines, VietJet Air",2100735,09:00,,,14:30,5h 30m,SGN,VCA,Unknown,595
+"VietJet Air, Vietnam Airlines",2110641,05:50,,,14:10,8h 20m,SGN,VCA,Unknown,596
+VietJet Air,1777150,22:40,,,14:30,15h 50m,SGN,VCA,Unknown,597
+VietJet Air,1784080,23:20,,,14:30,15h 10m,SGN,VCA,Unknown,598
+VietJet Air,1784080,21:25,,,14:30,17h 5m,SGN,VCA,Unknown,599
+VietJet Air,1798930,07:20,,,14:30,7h 10m,SGN,VCA,Unknown,600
+VietJet Air,1798930,06:30,,,14:30,8h 0m,SGN,VCA,Unknown,601
+"Bamboo Airways, VietJet Air",1803918,06:15,,,14:30,8h 15m,SGN,VCA,Unknown,602
+"Vietravel Airlines, VietJet Air",1965250,09:00,,,14:30,5h 30m,SGN,VCA,Unknown,603
+"Vietravel Airlines, VietJet Air",1972180,19:10,,,14:30,19h 20m,SGN,VCA,Unknown,604
+VietJet Air,2004850,18:15,,,14:30,20h 15m,SGN,VCA,Unknown,605
+VietJet Air,2025593,20:40,,,14:30,17h 50m,SGN,VCA,Unknown,606
